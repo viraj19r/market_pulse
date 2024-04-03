@@ -1,6 +1,8 @@
+
+
 # Key Objectives
 ---
-\
+
 1. Evaluate **product performance** based on sales data, consumer ratings, and pricing information.
     - Here, available features are `selling_price` and `original_price`, discount offered can be compared with ratings and reviews
     

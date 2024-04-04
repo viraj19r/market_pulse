@@ -64,3 +64,9 @@
 ### Weighted Product Performance Score
 - Develop a composite score for each product that weights various factors like sales volume, customer ratings, discount depth, and review count.
 - This score can help prioritize products based on their overall market performance.
+
+### Under Brand Performance
+For top brands for each category, what are the most successful products, and what are some of the products which should be given more attention.
+
+### Category wise best product
+For each category, top product based on revenue generated (just a basic analysis idea for showcasing on 1st week)

@@ -8,7 +8,7 @@
 - This will help identify which segments are performing well and which need improvement.
 
 
-### Brand Performance
+### <span style="color: red;">Brand Performance</span>
 - Analyze the performance of products across different brands (using `brand` and `brand_scale`) to identify which brands are leading in terms of sales, customer ratings, and review counts.
 - This could inform brand partnerships or product stocking decisions.
 

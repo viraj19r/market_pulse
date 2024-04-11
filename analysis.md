@@ -1,6 +1,7 @@
-### Basket Analysis - Viraj
-- Analyze the combinations of products that are frequently bought together.
-- This can help in optimizing product bundling, cross-selling, and up-selling strategies.
+### Weighted Product Performance Score - Virak
+- Develop a composite score for each product that weights various factors like sales volume, customer ratings, discount depth, and review count.
+- This score can help prioritize products based on their overall market performance.
+
 
 ### Product Description Analysis - Viraj
 - Analyze the impact of `product_description` length, readability, and content on sales and customer ratings.
@@ -33,14 +34,9 @@ For top brands for each category, what are the most successful products, and wha
 - Compare the performance of `bundle_indicator` (individual vs. bundle) to see if bundled products perform better in terms of sales and customer ratings than individual products.
 
 
-### Network Analysis of Bundled Products - Manaswita
-- If products are often sold together, use network analysis to identify clusters of products that form a 'bundle network'.
-- This can reveal how different products are interconnected and can influence each other's sales.
-
 ### Category and Subcategory Analysis - Manaswita
 - Evaluate sales and customer ratings across different category and `product_subcategory` segments to identify high-performing and underperforming segments.
 - This can guide inventory management and marketing efforts.
-
 
 
 ### Cross-Category Elasticity Analysis
@@ -48,21 +44,6 @@ For top brands for each category, what are the most successful products, and wha
 - This helps in understanding the interdependencies between different product categories.
 
 
-### Weighted Product Performance Score
-- Develop a composite score for each product that weights various factors like sales volume, customer ratings, discount depth, and review count.
-- This score can help prioritize products based on their overall market performance.
-
-
-
 ### Customer Feedback and Product Ratings
 - Correlate `customer_reviews_count` and `product_rating` with sales data to determine if higher ratings and more reviews lead to better sales performance.
 
-
-### Customer Demographics and Product Preferences - did not get any inference
-- Explore `customer_demographics` to identify which demographic segments are most engaged with different types of products.
-- This could inform targeted marketing campaigns.
-
-
-### Sentiment Analysis on Product Descriptions and Reviews
-- Perform natural language processing (NLP) to analyze sentiment in `product_description` and customer reviews.
-- This can identify what features or attributes are most positively or negatively mentioned and how this correlates with sales and ratings.

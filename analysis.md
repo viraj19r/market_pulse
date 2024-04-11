@@ -1,7 +1,3 @@
-### Weighted Product Performance Score - Virak
-- Develop a composite score for each product that weights various factors like sales volume, customer ratings, discount depth, and review count.
-- This score can help prioritize products based on their overall market performance.
-
 
 ### Product Description Analysis - Viraj
 - Analyze the impact of `product_description` length, readability, and content on sales and customer ratings.

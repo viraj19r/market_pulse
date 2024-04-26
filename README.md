@@ -24,7 +24,7 @@ This project contains several Jupyter notebooks, CSV files, and a Power BI dashb
 
 
 ## Power BI Dashboard
-[Power Bi file](market_pulse.pbix): This is a Power BI dashboard file used for visualizing the data and insights.
+[Power Bi file](PowerBi/market_pulse.pbix): This is a Power BI dashboard file used for visualizing the data and insights.
 
 ## HTML Files
 [Y data Profiling](data_profile_report.html): This HTML file is a data profiling report generated from the dataset.

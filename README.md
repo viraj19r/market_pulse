@@ -3,7 +3,7 @@ This project contains several Jupyter notebooks, CSV files, and a Power BI dashb
 
 ## CSV Files
 
-[Processed Dataa](data.csv): Processed Data
+[Processed Data](data.csv): Processed Data
 
 [Power Bi Data](data_powerbi.csv): This CSV file is used as input for the Power BI dashboard.
 

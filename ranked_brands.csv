@@ -1,0 +1,2781 @@
+category,brand,product_rating,customer_reviews_count,rating_rank,review_count_rank,combined_rank
+Baby Care,Bella,4.43125,982,9.0,12.0,21.0
+Baby Care,Johnson's baby,4.391666666666667,1333,14.0,8.0,22.0
+Baby Care,Dabur,4.418181818181818,645,10.0,13.0,23.0
+Baby Care,Mee Mee,4.204878048780488,2003,22.0,3.0,25.0
+Baby Care,Morison Baby Dreams,5.0,245,1.0,27.5,28.5
+Baby Care,Pampers ,4.185714285714286,3160,29.0,2.0,31.0
+Baby Care,Mamypoko,4.204545454545454,1208,23.0,9.0,32.0
+Baby Care,Sirona,4.475,254,7.0,25.0,32.0
+Baby Care,Sebamed,4.4,352,12.0,22.0,34.0
+Baby Care,Nestle ,4.3875,355,15.0,21.0,36.0
+Baby Care,Huggies,4.113432835820895,3561,36.0,1.0,37.0
+Baby Care,Dexolac,4.525,165,4.0,34.0,38.0
+Baby Care,Himalaya Baby,4.183333333333334,999,30.0,11.0,41.0
+Baby Care,bigbasket,4.3,206,18.0,31.0,49.0
+Baby Care,Himalaya,4.045454545454546,1498,44.0,6.0,50.0
+Baby Care,Johnsons,4.1571428571428575,393,31.0,19.0,50.0
+Baby Care,Similac,4.433333333333334,117,8.0,42.0,50.0
+Baby Care,Baby Dove,4.333333333333333,163,16.0,35.0,51.0
+Baby Care,Early Foods,4.125,498,35.0,16.0,51.0
+Baby Care,Enfamil A+,4.4,131,12.0,40.0,52.0
+Baby Care,The Moms Co,3.93125,1710,48.0,4.0,52.0
+Baby Care,Amul,4.5,86,5.5,47.0,52.5
+Baby Care,Mamaearth,3.9366666666666665,1495,47.0,7.0,54.0
+Baby Care,Bebe,4.2,202,26.0,32.0,58.0
+Baby Care,BIOTIQUE,4.65,65,3.0,56.0,59.0
+Baby Care,Chicco,3.821739130434783,1133,53.0,10.0,63.0
+Baby Care,Bodyguard,4.1499999999999995,225,34.0,30.0,64.0
+Baby Care,Dabur Amla,4.5,60,5.5,58.5,64.0
+Baby Care,Santoor,4.3,91,18.0,46.0,64.0
+Baby Care,Aptamil,4.266666666666667,92,20.0,45.0,65.0
+Baby Care,MyGlamm,4.25,99,21.0,44.0,65.0
+Baby Care,Quick Dry,3.857142857142857,567,50.0,15.0,65.0
+Baby Care,Cetaphil ,4.7,41,2.0,64.0,66.0
+Baby Care,Pigeon Baby,2.942857142857143,1645,64.0,5.0,69.0
+Baby Care,Slurrp Farm,3.825,478,52.0,17.0,69.0
+Baby Care,Timios,3.8625,382,49.0,20.0,69.0
+Baby Care,Vauva,3.6346153846153846,598,56.0,14.0,70.0
+Baby Care,Horlicks,4.3,69,18.0,53.5,71.5
+Baby Care,Comfort,4.4,58,12.0,60.0,72.0
+Baby Care,Paw Paw,3.1545454545454548,422,60.0,18.0,78.0
+Baby Care,Mothercare ,3.85,245,51.0,27.5,78.5
+Baby Care,Vilvaa,4.0,178,45.5,33.0,78.5
+Baby Care,Pigeon,3.56,342,57.0,23.0,80.0
+Baby Care,bb Combo,4.05,149,43.0,37.0,80.0
+Baby Care,Poop-cee,4.075,135,42.0,39.0,81.0
+Baby Care,SimMom,4.15,79,32.5,49.0,81.5
+Baby Care,Dimpu Poop-Cee,3.3600000000000003,314,59.0,24.0,83.0
+Baby Care,Aveeno,4.08,111,41.0,43.0,84.0
+Baby Care,Morisons Baby Dreams,3.7125,235,55.0,29.0,84.0
+Baby Care,BTN Sports,4.2,60,26.0,58.5,84.5
+Baby Care,Kare In,4.15,70,32.5,52.0,84.5
+Baby Care,1st Bites,4.1,84,38.5,48.0,86.5
+Baby Care,Canopus,4.2,47,26.0,62.0,88.0
+Baby Care,Patanjali,4.1,73,38.5,50.0,88.5
+Baby Care,Teddyy,4.2,46,26.0,63.0,89.0
+Baby Care,Manna ,4.1,71,38.5,51.0,89.5
+Baby Care,Bella baby Happy,4.2,36,26.0,65.0,91.0
+Baby Care,Munchkin,1.65,252,65.0,26.0,91.0
+Baby Care,Seni,3.4,156,58.0,36.0,94.0
+Baby Care,PRISTINE,4.1,63,38.5,57.0,95.5
+Baby Care,Bionova,3.0,140,62.0,38.0,100.0
+Baby Care,Freshones,4.0,66,45.5,55.0,100.5
+Baby Care,Luvlap,3.0,130,62.0,41.0,103.0
+Baby Care,Friends,3.75,69,54.0,53.5,107.5
+Baby Care,Softsens,3.0,51,62.0,61.0,123.0
+"Bakery, Cakes & Dairy",Fresho Signature,4.203030303030303,2813,16.0,2.0,18.0
+"Bakery, Cakes & Dairy",Britannia,4.165217391304347,1927,26.0,5.0,31.0
+"Bakery, Cakes & Dairy",Winkies,4.2615384615384615,573,11.0,23.0,34.0
+"Bakery, Cakes & Dairy",Happy Milk,4.55,327,3.0,34.0,37.0
+"Bakery, Cakes & Dairy",President,4.35,257,5.0,36.0,41.0
+"Bakery, Cakes & Dairy",Hello Tempayy,4.775,234,2.0,40.0,42.0
+"Bakery, Cakes & Dairy",Millet Cookies,4.172727272727273,606,23.0,21.0,44.0
+"Bakery, Cakes & Dairy",Nandini,4.095833333333333,1080,34.0,10.0,44.0
+"Bakery, Cakes & Dairy",Sunfeast,4.25,405,13.0,32.0,45.0
+"Bakery, Cakes & Dairy",Bon & Bread,4.190909090909091,521,22.0,25.0,47.0
+"Bakery, Cakes & Dairy",Nestle ,4.3,221,7.5,41.0,48.5
+"Bakery, Cakes & Dairy",Go ,4.041666666666667,1327,42.5,7.0,49.5
+"Bakery, Cakes & Dairy",mother dairy,4.154545454545455,567,27.0,24.0,51.0
+"Bakery, Cakes & Dairy",Hersheys ,4.3,202,7.5,44.0,51.5
+"Bakery, Cakes & Dairy",Malkist,4.433333333333334,174,4.0,49.0,53.0
+"Bakery, Cakes & Dairy",Artinci,4.2,267,19.0,35.0,54.0
+"Bakery, Cakes & Dairy",Elite,4.093333333333333,646,35.0,19.0,54.0
+"Bakery, Cakes & Dairy",Gowardhan,4.171428571428572,410,24.0,30.0,54.0
+"Bakery, Cakes & Dairy",Cadbury,4.266666666666667,197,10.0,45.5,55.5
+"Bakery, Cakes & Dairy",Brownie Cottage,4.225,219,15.0,42.0,57.0
+"Bakery, Cakes & Dairy",Amul,3.992792792792793,5206,57.0,1.0,58.0
+"Bakery, Cakes & Dairy",Cavins,4.091666666666667,586,36.0,22.0,58.0
+"Bakery, Cakes & Dairy",D'Lecta,4.075,633,38.0,20.0,58.0
+"Bakery, Cakes & Dairy",Paper Boat,4.041666666666667,774,42.5,16.0,58.5
+"Bakery, Cakes & Dairy",Nutribee,4.26,195,12.0,47.0,59.0
+"Bakery, Cakes & Dairy",Tasties,4.0,1320,51.0,8.0,59.0
+"Bakery, Cakes & Dairy",Milky Mist,3.994444444444444,2092,56.0,4.0,60.0
+"Bakery, Cakes & Dairy",Sofit ,4.014285714285714,843,46.0,14.0,60.0
+"Bakery, Cakes & Dairy",Bauli,4.0875,435,37.0,28.0,65.0
+"Bakery, Cakes & Dairy",Fresho,4.0,682,51.0,17.5,68.5
+"Bakery, Cakes & Dairy",So Good,3.925,1084,60.0,9.0,69.0
+"Bakery, Cakes & Dairy",The Finishing Touch,4.3,90,7.5,64.0,71.5
+"Bakery, Cakes & Dairy",bb Combo,4.05,378,40.0,33.0,73.0
+"Bakery, Cakes & Dairy",The Baker's Dozen,3.607317073170732,2101,71.0,3.0,74.0
+"Bakery, Cakes & Dairy",Heritage,3.888888888888889,1028,63.0,12.0,75.0
+"Bakery, Cakes & Dairy",Yakult,4.2,123,19.0,56.0,75.0
+"Bakery, Cakes & Dairy",GO CHOCO,4.3,79,7.5,68.0,75.5
+"Bakery, Cakes & Dairy",Amulya,5.0,61,1.0,75.5,76.5
+"Bakery, Cakes & Dairy",Lovely Bake Studio,3.8777777777777778,917,64.0,13.0,77.0
+"Bakery, Cakes & Dairy",English Oven,4.0,464,51.0,27.0,78.0
+"Bakery, Cakes & Dairy",Amul Slim,4.2,97,19.0,61.0,80.0
+"Bakery, Cakes & Dairy",Nourish Organics,4.033333333333333,243,44.0,38.0,82.0
+"Bakery, Cakes & Dairy",kwality walls,3.60625,1033,72.0,11.0,83.0
+"Bakery, Cakes & Dairy",Nescafe ,4.233333333333333,76,14.0,71.0,85.0
+"Bakery, Cakes & Dairy",THIRUMALA,4.1,132,31.0,54.0,85.0
+"Bakery, Cakes & Dairy",BHealthy,2.96,1423,83.0,6.0,89.0
+"Bakery, Cakes & Dairy",Cookie Man,3.5315789473684207,806,75.0,15.0,90.0
+"Bakery, Cakes & Dairy",Akshayakalpa,3.408333333333333,682,77.0,17.5,94.5
+"Bakery, Cakes & Dairy",Real,4.2,61,19.0,75.5,94.5
+"Bakery, Cakes & Dairy",Epigamia ,3.84,422,66.0,29.0,95.0
+"Bakery, Cakes & Dairy",Dream Bake,4.1,80,31.0,66.0,97.0
+"Bakery, Cakes & Dairy",iD,4.025,159,45.0,52.0,97.0
+"Bakery, Cakes & Dairy",Milk Ma,3.56,479,74.0,26.0,100.0
+"Bakery, Cakes & Dairy",Raw Pressery,3.611111111111111,407,70.0,31.0,101.0
+"Bakery, Cakes & Dairy",bb Popular,4.0,173,51.0,50.0,101.0
+"Bakery, Cakes & Dairy",MTR,4.15,71,28.0,73.5,101.5
+"Bakery, Cakes & Dairy",Godrej Jersey,4.166666666666667,59,25.0,78.0,103.0
+"Bakery, Cakes & Dairy",Amul Gold,4.2,1,19.0,85.0,104.0
+"Bakery, Cakes & Dairy",Storia,3.8600000000000003,241,65.0,39.0,104.0
+"Bakery, Cakes & Dairy",Jersey,3.95,197,59.0,45.5,104.5
+"Bakery, Cakes & Dairy",Nutralite,4.05,86,40.0,65.0,105.0
+"Bakery, Cakes & Dairy",Jus Amazin,4.0,99,51.0,59.0,110.0
+"Bakery, Cakes & Dairy",MilkLane,4.1,49,31.0,80.0,111.0
+"Bakery, Cakes & Dairy",Delicious,4.1,34,31.0,83.0,114.0
+"Bakery, Cakes & Dairy",Cadbury Oreo,3.9,138,61.5,53.0,114.5
+"Bakery, Cakes & Dairy",Goodmylk,3.975,106,58.0,57.0,115.0
+"Bakery, Cakes & Dairy",Nestle A+,4.1,32,31.0,84.0,115.0
+"Bakery, Cakes & Dairy",Soyfit,3.3,252,79.0,37.0,116.0
+"Bakery, Cakes & Dairy",NIC,3.66,192,69.0,48.0,117.0
+"Bakery, Cakes & Dairy",Wingreens Farms,3.7,165,67.5,51.0,118.5
+"Bakery, Cakes & Dairy",Parle,4.05,53,40.0,79.0,119.0
+"Bakery, Cakes & Dairy",RRO DAIRY,4.0,79,51.0,68.0,119.0
+"Bakery, Cakes & Dairy",Tasty Fresh,4.0,79,51.0,68.0,119.0
+"Bakery, Cakes & Dairy",Bhikhaaram Chandmal,4.0,77,51.0,70.0,121.0
+"Bakery, Cakes & Dairy",Momkhatai,3.3200000000000003,209,78.0,43.0,121.0
+"Bakery, Cakes & Dairy",Fresho Organic,4.0,60,51.0,77.0,128.0
+"Bakery, Cakes & Dairy",Praana,3.6,94,73.0,62.0,135.0
+"Bakery, Cakes & Dairy",Chai Point,3.233333333333333,125,81.0,55.0,136.0
+"Bakery, Cakes & Dairy",Farm Connect,3.5,92,76.0,63.0,139.0
+"Bakery, Cakes & Dairy",FabBox,3.05,103,82.0,58.0,140.0
+"Bakery, Cakes & Dairy",sumeru,3.9,40,61.5,82.0,143.5
+"Bakery, Cakes & Dairy",PRISTINE,2.9499999999999997,98,84.0,60.0,144.0
+"Bakery, Cakes & Dairy",e-millet,3.7,45,67.5,81.0,148.5
+"Bakery, Cakes & Dairy",Schar,3.25,72,80.0,72.0,152.0
+"Bakery, Cakes & Dairy",Zago,2.7,71,85.0,73.5,158.5
+Beauty & Hygiene,Dkny,5.0,1057,14.0,100.0,114.0
+Beauty & Hygiene,Shankara,4.641666666666667,1214,42.0,90.0,132.0
+Beauty & Hygiene,Herbal Hills,5.0,872,14.0,121.0,135.0
+Beauty & Hygiene,Bella,4.334090909090909,2086,87.0,51.0,138.0
+Beauty & Hygiene,Fiama,4.307317073170732,1912,102.0,55.0,157.0
+Beauty & Hygiene,Morpheme Remedies,4.468421052631579,1099,65.0,97.0,162.0
+Beauty & Hygiene,Gillette,4.243396226415094,2544,145.0,37.0,182.0
+Beauty & Hygiene,TJORI,5.0,586,14.0,175.0,189.0
+Beauty & Hygiene,Greenberry Organics,4.671428571428572,685,40.0,150.5,190.5
+Beauty & Hygiene,Savlon,4.29375,1683,126.0,66.5,192.5
+Beauty & Hygiene,Garnier,4.216,2759,158.0,35.0,193.0
+Beauty & Hygiene,Desi Utthana,4.933333333333334,624,28.0,166.0,194.0
+Beauty & Hygiene,Nivea,4.181609195402299,4583,184.0,10.0,194.0
+Beauty & Hygiene,Himalaya,4.172897196261682,5226,191.0,6.0,197.0
+Beauty & Hygiene,Dove,4.235897435897436,2036,148.0,52.0,200.0
+Beauty & Hygiene,Lifebuoy,4.28695652173913,1367,131.0,77.0,208.0
+Beauty & Hygiene,Lotus Herbals,4.183333333333334,3009,181.0,28.0,209.0
+Beauty & Hygiene,Qraa Men,5.0,487,14.0,196.0,210.0
+Beauty & Hygiene,Dettol,4.174242424242424,3216,188.0,24.0,212.0
+Beauty & Hygiene,Whisper ,4.236666666666666,1691,147.0,65.0,212.0
+Beauty & Hygiene,Dabur,4.151578947368422,4698,205.0,9.0,214.0
+Beauty & Hygiene,Colgate,4.148598130841122,5766,212.0,3.0,215.0
+Beauty & Hygiene,Joy,4.190476190476191,2148,173.0,47.0,220.0
+Beauty & Hygiene,David Beckham,4.9,494,29.0,193.0,222.0
+Beauty & Hygiene,Loreal Paris,4.141346153846154,5089,215.0,7.0,222.0
+Beauty & Hygiene,Palmolive,4.211428571428572,1736,162.0,61.0,223.0
+Beauty & Hygiene,Nivea Men,4.158823529411765,3299,202.0,22.0,224.0
+Beauty & Hygiene,Parachute ,4.408333333333333,673,70.0,155.0,225.0
+Beauty & Hygiene,Richfeel,4.2384615384615385,1301,146.0,80.0,226.0
+Beauty & Hygiene,Santoor,4.264285714285714,1215,137.0,89.0,226.0
+Beauty & Hygiene,Sirona,4.182222222222222,2233,183.0,46.0,229.0
+Beauty & Hygiene,Regal Essence,4.5,571,54.0,178.0,232.0
+Beauty & Hygiene,Soulflower,4.117857142857143,3926,225.0,16.0,241.0
+Beauty & Hygiene,Head & shoulders,4.307142857142857,759,103.0,139.0,242.0
+Beauty & Hygiene,Pears,4.268421052631578,941,133.0,109.0,242.0
+Beauty & Hygiene,Natural Vibes,4.49,560,63.0,180.0,243.0
+Beauty & Hygiene,Pepsodent,4.2124999999999995,1257,161.0,84.0,245.0
+Beauty & Hygiene,Goli Soda,5.0,406,14.0,233.0,247.0
+Beauty & Hygiene,Armaf,4.769230769230769,439,32.0,217.0,249.0
+Beauty & Hygiene,TRESemme,4.174193548387097,1779,189.0,60.0,249.0
+Beauty & Hygiene,STAYFREE,4.252631578947368,933,138.0,112.0,250.0
+Beauty & Hygiene,Sensodyne,4.325,671,93.5,157.0,250.5
+Beauty & Hygiene,The Face Shop,4.132727272727273,2889,219.0,32.5,251.5
+Beauty & Hygiene,Yardley London,4.12280701754386,2983,223.0,29.0,252.0
+Beauty & Hygiene,Continent Spice Khadi,4.828571428571428,428,30.0,223.0,253.0
+Beauty & Hygiene,Meera,4.358333333333333,616,84.0,169.0,253.0
+Beauty & Hygiene,Plum,4.311538461538462,666,99.0,158.0,257.0
+Beauty & Hygiene,The Moms Co,4.156756756756757,1975,204.0,53.0,257.0
+Beauty & Hygiene,Baidyanath,4.123809523809523,2469,222.0,39.0,261.0
+Beauty & Hygiene,Godrej No.1,4.290909090909091,766,127.0,136.0,263.0
+Beauty & Hygiene,Sunsilk,4.234782608695652,923,149.0,114.0,263.0
+Beauty & Hygiene,Olay,4.185714285714286,1236,177.0,87.0,264.0
+Beauty & Hygiene,Fem,4.1761904761904765,1339,186.0,79.0,265.0
+Beauty & Hygiene,K.P. Namboodiris,4.488888888888889,468,64.0,202.5,266.5
+Beauty & Hygiene,Mysore Sandal,4.311111111111111,623,100.0,167.0,267.0
+Beauty & Hygiene,Veet,4.184210526315789,1206,179.0,91.0,270.0
+Beauty & Hygiene,Shakira,5.0,355,14.0,258.0,272.0
+Beauty & Hygiene,Garnier Men,4.211111111111111,935,163.0,110.5,273.5
+Beauty & Hygiene,Banjara's,4.233333333333333,799,150.0,129.0,279.0
+Beauty & Hygiene,Lever Ayush,4.226315789473684,833,153.0,126.0,279.0
+Beauty & Hygiene,Medimix,4.3,647,115.5,164.5,280.0
+Beauty & Hygiene,MyGlamm,4.316666666666666,528,96.0,190.0,286.0
+Beauty & Hygiene,Dr Batra's ,4.4,436,75.5,219.0,294.5
+Beauty & Hygiene,Kapiva Ayurveda,4.1625,1067,199.0,98.0,297.0
+Beauty & Hygiene,Mirabelle,4.144,1246,213.0,85.0,298.0
+Beauty & Hygiene,Friends,4.2,790,167.0,133.0,300.0
+Beauty & Hygiene,Dr. Morepen,4.180000000000001,890,185.0,118.0,303.0
+Beauty & Hygiene,Palmer's,4.425,403,68.0,235.0,303.0
+Beauty & Hygiene,Azafran,4.157142857142857,1054,203.0,101.0,304.0
+Beauty & Hygiene,Lux,4.213333333333333,726,160.0,144.0,304.0
+Beauty & Hygiene,Neutrogena,4.161111111111111,985,200.0,104.0,304.0
+Beauty & Hygiene,Kerala Ayurveda,4.1,3314,289.5,21.0,310.5
+Beauty & Hygiene,Vivel,4.266666666666667,552,135.0,182.5,317.5
+Beauty & Hygiene,Amrutanjan,4.4125,373,69.0,251.0,320.0
+Beauty & Hygiene,Foresta Organics,4.571428571428571,305,45.0,276.0,321.0
+Beauty & Hygiene,Patanjali,4.2299999999999995,592,151.5,172.0,323.5
+Beauty & Hygiene,Vicks,4.333333333333333,388,89.5,239.0,328.5
+Beauty & Hygiene,Bixa Botanical,4.1,2266,289.5,45.0,334.5
+Beauty & Hygiene,Uncle Tony,4.1499999999999995,828,210.5,127.0,337.5
+Beauty & Hygiene,Nycil,4.31,392,101.0,237.0,338.0
+Beauty & Hygiene,Godrej Expert,4.288888888888889,455,128.5,210.0,338.5
+Beauty & Hygiene,Faces,4.288888888888889,451,128.5,212.0,340.5
+Beauty & Hygiene,ColorBar,4.3,421,115.5,227.0,342.5
+Beauty & Hygiene,Chandrika ,4.183333333333334,654,181.0,162.0,343.0
+Beauty & Hygiene,Bigen,4.328571428571428,365,92.0,255.0,347.0
+Beauty & Hygiene,Close Up,4.366666666666666,342,82.5,265.0,347.5
+Beauty & Hygiene,Oral-B,4.1,1820,289.5,58.0,347.5
+Beauty & Hygiene,Bajaj,4.173333333333334,663,190.0,159.0,349.0
+Beauty & Hygiene,Aramusk,4.333333333333333,348,89.5,261.5,351.0
+Beauty & Hygiene,Elovera,5.0,193,14.0,337.0,351.0
+Beauty & Hygiene,Zandu,4.222222222222222,486,156.0,197.0,353.0
+Beauty & Hygiene,Sebamed,4.2875,425,130.0,224.5,354.5
+Beauty & Hygiene,50ap,4.1722222222222225,647,192.0,164.5,356.5
+Beauty & Hygiene,Listerine,4.316666666666666,348,96.0,261.5,357.5
+Beauty & Hygiene,Nxtgen Ayurveda,4.7,214,36.5,321.0,357.5
+Beauty & Hygiene,Stonesoup,4.125,765,220.5,137.0,357.5
+Beauty & Hygiene,Set Wet Studio X,4.314285714285714,350,98.0,260.0,358.0
+Beauty & Hygiene,Dabur Vatika,4.1000000000000005,792,229.0,131.0,360.0
+Beauty & Hygiene,Colleen,5.0,182,14.0,346.5,360.5
+Beauty & Hygiene,Bioderma,4.5,231,54.0,309.0,363.0
+Beauty & Hygiene,Jiva Ayurveda,4.095294117647058,4347,351.0,14.0,365.0
+Beauty & Hygiene,Kama Ayurveda,4.2153846153846155,461,159.0,207.0,366.0
+Beauty & Hygiene,Khadi Natural,4.076136363636364,4401,355.0,11.0,366.0
+Beauty & Hygiene,Gillette Venus,4.357142857142857,294,85.0,283.0,368.0
+Beauty & Hygiene,Wild Ideas,4.133333333333334,678,217.0,153.0,370.0
+Beauty & Hygiene,Liberty,4.666666666666667,196,41.0,331.0,372.0
+Beauty & Hygiene,Clinic Plus,4.2444444444444445,414,144.0,230.0,374.0
+Beauty & Hygiene,La Shield,4.5,216,54.0,320.0,374.0
+Beauty & Hygiene,Rexona,4.1866666666666665,481,175.0,199.0,374.0
+Beauty & Hygiene,Everyuth Naturals,4.15,617,207.5,168.0,375.5
+Beauty & Hygiene,Aroma Magic ,4.026605504587156,5687,374.0,4.0,378.0
+Beauty & Hygiene,Boroplus,4.3999999999999995,252,81.0,297.0,378.0
+Beauty & Hygiene,Himalaya Wellness,4.105882352941176,685,228.0,150.5,378.5
+Beauty & Hygiene,Clean And Dry,4.366666666666666,252,82.5,297.0,379.5
+Beauty & Hygiene,BIOTIQUE,4.020869565217391,5498,375.0,5.0,380.0
+Beauty & Hygiene,Moov,4.316666666666666,288,96.0,284.5,380.5
+Beauty & Hygiene,Bvlgari,4.5,197,54.0,327.5,381.5
+Beauty & Hygiene,Paree Pariz,4.5,197,54.0,327.5,381.5
+Beauty & Hygiene,Vlcc,4.073846153846154,3176,356.0,26.0,382.0
+Beauty & Hygiene,Sri Sri Tattva,4.030232558139534,4379,373.0,12.0,385.0
+Beauty & Hygiene,Dabur Amla,4.3,320,115.5,272.0,387.5
+Beauty & Hygiene,Margo,4.3,312,115.5,274.0,389.5
+Beauty & Hygiene,Sri Sri Ayurveda ,4.1499999999999995,549,210.5,184.0,394.5
+Beauty & Hygiene,Vedapure,4.1,976,289.5,105.0,394.5
+Beauty & Hygiene,Rasasi,4.1,972,289.5,106.0,395.5
+Beauty & Hygiene,Hamdard,4.5,186,54.0,342.0,396.0
+Beauty & Hygiene,Hygienix,4.220000000000001,386,157.0,241.0,398.0
+Beauty & Hygiene,Varam,4.2299999999999995,376,151.5,248.0,399.5
+Beauty & Hygiene,Eno ,4.325,233,93.5,307.0,400.5
+Beauty & Hygiene,Lakme,4.0509433962264145,2542,363.0,38.0,401.0
+Beauty & Hygiene,Colour Me,4.3,286,115.5,286.0,401.5
+Beauty & Hygiene,Engage,4.017857142857143,3071,377.0,27.0,404.0
+Beauty & Hygiene,Aveeno,4.3,270,115.5,289.0,404.5
+Beauty & Hygiene,Godrej Cinthol,4.433333333333334,189,67.0,340.5,407.5
+Beauty & Hygiene,Klairs,4.5,177,54.0,353.5,407.5
+Beauty & Hygiene,Auravedic,5.0,137,14.0,394.5,408.5
+Beauty & Hygiene,Sofy,4.4,195,75.5,335.0,410.5
+Beauty & Hygiene,Charak,4.1,858,289.5,122.0,411.5
+Beauty & Hygiene,KeepSafe by Marico,4.3,252,115.5,297.0,412.5
+Beauty & Hygiene,Dabur Red,4.333333333333333,201,89.5,325.0,414.5
+Beauty & Hygiene,Eva,4.3,249,115.5,300.0,415.5
+Beauty & Hygiene,By Nature,4.1899999999999995,385,174.0,243.0,417.0
+Beauty & Hygiene,Ponds,4.002083333333333,2363,378.0,40.0,418.0
+Beauty & Hygiene,Khadi Meghdooth,5.0,128,14.0,405.5,419.5
+Beauty & Hygiene,Green Leaf,4.185714285714286,381,177.0,246.0,423.0
+Beauty & Hygiene,Fogg ,3.998550724637681,3820,409.0,17.0,426.0
+Beauty & Hygiene,Braun,5.0,120,14.0,413.5,427.5
+Beauty & Hygiene,Brylcreem,4.171428571428572,404,193.5,234.0,427.5
+Beauty & Hygiene,StBotanica,3.963829787234043,4723,420.0,8.0,428.0
+Beauty & Hygiene,Cinthol,4.037837837837838,1816,370.0,59.0,429.0
+Beauty & Hygiene,Muniyal Ayurveda,4.1,751,289.5,141.0,430.5
+Beauty & Hygiene,SIDDHAYU,4.1,703,289.5,146.0,435.5
+Beauty & Hygiene,Herbal Essence,4.185714285714286,353,177.0,259.0,436.0
+Beauty & Hygiene,Liril,4.25,256,141.0,295.0,436.0
+Beauty & Hygiene,Hamam ,4.3,204,115.5,323.0,438.5
+Beauty & Hygiene,mJOY,5.0,113,14.0,424.5,438.5
+Beauty & Hygiene,Aroma Treasures,3.977142857142857,3211,414.0,25.0,439.0
+Beauty & Hygiene,Jungle Magic,4.4,165,75.5,365.0,440.5
+Beauty & Hygiene,Fizzy Fern,4.044827586206896,1479,368.0,73.0,441.0
+Beauty & Hygiene,Glow & Lovely,4.175,363,187.0,256.0,443.0
+Beauty & Hygiene,Lotus Professional,4.266666666666667,228,135.0,310.5,445.5
+Beauty & Hygiene,YVES ROCHER,4.122222222222223,430,224.0,222.0,446.0
+Beauty & Hygiene,Mamaearth,3.9571428571428573,3241,424.0,23.0,447.0
+Beauty & Hygiene,Park avenue,3.975,2889,415.0,32.5,447.5
+Beauty & Hygiene,Nyassa,3.9660714285714285,2891,419.0,31.0,450.0
+Beauty & Hygiene,ORGANIC INDIA,3.967441860465116,2588,416.0,36.0,452.0
+Beauty & Hygiene,BB Home,3.993617021276596,2352,412.0,41.0,453.0
+Beauty & Hygiene,Clean & Clear,4.275,210,132.0,322.0,454.0
+Beauty & Hygiene,INATUR ,3.8821917808219175,7457,454.0,1.0,455.0
+Beauty & Hygiene,Comfy Snug Fit,4.225,246,154.5,301.0,455.5
+Beauty & Hygiene,Nihar,4.25,222,141.0,314.5,455.5
+Beauty & Hygiene,Nutribears,4.333333333333333,161,89.5,369.5,459.0
+Beauty & Hygiene,Tiger Balm,4.3,183,115.5,344.5,460.0
+Beauty & Hygiene,bb Combo,4.05,1174,366.0,95.0,461.0
+Beauty & Hygiene,AGARO,4.142857142857143,375,214.0,249.0,463.0
+Beauty & Hygiene,It's Skin,3.96304347826087,2339,421.0,42.0,463.0
+Beauty & Hygiene,Godrej,4.16,347,201.0,263.0,464.0
+Beauty & Hygiene,Aigner,4.1,561,289.5,179.0,468.5
+Beauty & Hygiene,MCaffeine ,4.7,108,36.5,432.5,469.0
+Beauty & Hygiene,Azani Active Nutrition,4.1,552,289.5,182.5,472.0
+Beauty & Hygiene,Bombay Shaving Company,3.9017857142857144,2767,438.0,34.0,472.0
+Beauty & Hygiene,Adidas,4.733333333333333,103,33.0,440.0,473.0
+Beauty & Hygiene,Scalpe Pro,4.4,134,75.5,397.5,473.0
+Beauty & Hygiene,Skin Cottage ,4.097058823529412,854,350.0,123.0,473.0
+Beauty & Hygiene,Axe,3.9842105263157896,1714,413.0,63.0,476.0
+Beauty & Hygiene,Just Herbs,3.932608695652174,2283,433.0,44.0,477.0
+Beauty & Hygiene,Moti's,4.053333333333333,920,362.0,115.0,477.0
+Beauty & Hygiene,Organic Harvest,3.852222222222222,4354,465.0,13.0,478.0
+Beauty & Hygiene,Vaseline,4.09375,817,352.0,128.0,480.0
+Beauty & Hygiene,Threptin,4.300000000000001,155,104.5,376.0,480.5
+Beauty & Hygiene,DrNatcure,5.0,89,14.0,472.0,486.0
+Beauty & Hygiene,Indulekha,4.171428571428572,262,193.5,293.5,487.0
+Beauty & Hygiene,Vaadi,3.9612903225806453,1699,423.0,64.0,487.0
+Beauty & Hygiene,Godrej Professional,5.0,87,14.0,477.5,491.5
+Beauty & Hygiene,Nike,3.7854838709677416,6223,490.0,2.0,492.0
+Beauty & Hygiene,Aloe Veda,3.8227272727272728,3478,475.0,19.0,494.0
+Beauty & Hygiene,Mondsub,5.0,86,14.0,480.0,494.0
+Beauty & Hygiene,Dabur Meswak,4.3,154,115.5,379.0,494.5
+Beauty & Hygiene,Salon,4.5,100,54.0,443.0,497.0
+Beauty & Hygiene,Schwarzkopf,3.8491525423728814,2904,470.0,30.0,500.0
+Beauty & Hygiene,Harmony,4.25,168,141.0,361.0,502.0
+Beauty & Hygiene,EverEve,4.4,111,75.5,427.5,503.0
+Beauty & Hygiene,Parachute Advansed,4.133333333333334,276,217.0,288.0,505.0
+Beauty & Hygiene,Floh,5.0,79,14.0,493.0,507.0
+Beauty & Hygiene,Jovees,4.0588235294117645,701,360.0,147.5,507.5
+Beauty & Hygiene,Lotus Organics+,4.057142857142858,695,361.0,149.0,510.0
+Beauty & Hygiene,Phy,4.116666666666666,288,226.5,284.5,511.0
+Beauty & Hygiene,Ezy Be,4.7,88,36.5,475.0,511.5
+Beauty & Hygiene,Coronation,5.0,75,14.0,498.0,512.0
+Beauty & Hygiene,Godrej Protekt,3.940740740740741,1278,430.0,83.0,513.0
+Beauty & Hygiene,Kaya Clinic,3.764925373134328,3402,493.0,20.0,513.0
+Beauty & Hygiene,ST. D'VENCE,3.9954545454545456,1023,410.0,103.0,513.0
+Beauty & Hygiene,VWash Wow,4.3,133,115.5,400.5,516.0
+Beauty & Hygiene,Swati Khadi,4.6000000000000005,88,43.0,475.0,518.0
+Beauty & Hygiene,Closeup,4.183333333333334,190,181.0,339.0,520.0
+Beauty & Hygiene,Clear,4.5,91,54.0,466.5,520.5
+Beauty & Hygiene,Carolina Herrera ,5.0,73,14.0,507.0,521.0
+Beauty & Hygiene,BTN Sports,4.1,408,289.5,232.0,521.5
+Beauty & Hygiene,Lomani,4.042857142857143,676,369.0,154.0,523.0
+Beauty & Hygiene,The Man Company,3.860606060606061,1726,462.0,62.0,524.0
+Beauty & Hygiene,Beardo,3.8289473684210527,1937,473.0,54.0,527.0
+Beauty & Hygiene,Nice,5.0,69,14.0,513.0,527.0
+Beauty & Hygiene,Kerala,4.7,81,36.5,491.0,527.5
+Beauty & Hygiene,Maharishi Ayurveda ,4.0,787,393.5,134.0,527.5
+Beauty & Hygiene,Brut,3.883870967741936,1398,452.0,76.0,528.0
+Beauty & Hygiene,Ciphands,4.3,120,115.5,413.5,529.0
+Beauty & Hygiene,Ikkai,4.5,88,54.0,475.0,529.0
+Beauty & Hygiene,Old Spice,3.875,1451,456.0,75.0,531.0
+Beauty & Hygiene,Pantene,4.071428571428571,590,357.0,174.0,531.0
+Beauty & Hygiene,Kaya Youth,3.952631578947368,967,425.0,107.0,532.0
+Beauty & Hygiene,Glamveda,3.85,1683,466.5,66.5,533.0
+Beauty & Hygiene,Man Arden,3.7975000000000003,2107,487.0,48.0,535.0
+Beauty & Hygiene,Set Wet,3.7763636363636364,2337,492.0,43.0,535.0
+Beauty & Hygiene,Kare In,4.25,137,141.0,394.5,535.5
+Beauty & Hygiene,Kamasutra,3.8696969696969696,1365,459.0,78.0,537.0
+Beauty & Hygiene,Gou Ganga,4.45,89,66.0,472.0,538.0
+Beauty & Hygiene,Tiera,4.199999999999999,163,171.5,367.0,538.5
+Beauty & Hygiene,Himalaya Men,3.9947368421052634,778,411.0,135.0,546.0
+Beauty & Hygiene,Origami,4.266666666666667,123,135.0,411.5,546.5
+Beauty & Hygiene,1mg,5.0,61,14.0,533.5,547.5
+Beauty & Hygiene,Dear Body,4.7,69,36.5,513.0,549.5
+Beauty & Hygiene,United Colors Of Benetton ,3.8736842105263154,1189,457.0,93.0,550.0
+Beauty & Hygiene,FabAlley,4.199999999999999,154,171.5,379.0,550.5
+Beauty & Hygiene,Ajmal,3.5470588235294116,3603,533.0,18.0,551.0
+Beauty & Hygiene,Natures Essence,3.7166666666666663,2092,501.0,50.0,551.0
+Beauty & Hygiene,LuxaDerme,5.0,57,14.0,539.5,553.5
+Beauty & Hygiene,Singh Styled,5.0,57,14.0,539.5,553.5
+Beauty & Hygiene,Panache,3.7075000000000005,2104,505.0,49.0,554.0
+Beauty & Hygiene,Oxy,4.125,195,220.5,335.0,555.5
+Beauty & Hygiene,Relispray,4.5,74,54.0,502.5,556.5
+Beauty & Hygiene,Herbal Strategi,4.8,63,31.0,528.0,559.0
+Beauty & Hygiene,Revlon,3.7088235294117644,1896,504.0,56.0,560.0
+Beauty & Hygiene,Ants-Duraprot,4.15,174,207.5,355.0,562.5
+Beauty & Hygiene,Creme 21,5.0,54,14.0,548.5,562.5
+Beauty & Hygiene,Carefree,4.4,83,75.5,488.5,564.0
+Beauty & Hygiene,Skore,3.8074074074074074,1219,478.0,88.0,566.0
+Beauty & Hygiene,Spruce Shave Club,3.8978260869565213,900,450.0,116.0,566.0
+Beauty & Hygiene,Nyle,4.066666666666666,457,358.5,209.0,567.5
+Beauty & Hygiene,Vedaearth,4.1,303,289.5,279.0,568.5
+Beauty & Hygiene,PediaCare,4.1,299,289.5,280.0,569.5
+Beauty & Hygiene,Peebuddy,4.116666666666666,182,226.5,346.5,573.0
+Beauty & Hygiene,Premium,4.133333333333334,173,217.0,356.0,573.0
+Beauty & Hygiene,Baldessarini,4.1,280,289.5,287.0,576.5
+Beauty & Hygiene,Volini,4.25,105,141.0,436.0,577.0
+Beauty & Hygiene,Astaberry,3.82,1025,476.0,102.0,578.0
+Beauty & Hygiene,Chicco,4.5,65,54.0,525.5,579.5
+Beauty & Hygiene,Rock Gold,4.1,268,289.5,290.5,580.0
+Beauty & Hygiene,J Del Pozo,4.1,267,289.5,292.0,581.5
+Beauty & Hygiene,Bio-Oil,4.0375,448,371.0,213.0,584.0
+Beauty & Hygiene,Mediker,4.2,117,167.0,417.0,584.0
+Beauty & Hygiene,Soft Touch,4.225,110,154.5,430.0,584.5
+Beauty & Hygiene,Meghdoot,3.2299999999999995,4046,570.0,15.0,585.0
+Beauty & Hygiene,Olivia,3.764,1201,494.0,92.0,586.0
+Beauty & Hygiene,Globus Naturals,3.7782608695652176,1171,491.0,96.0,587.0
+Beauty & Hygiene,Layerr,3.674285714285714,1569,518.0,69.0,587.0
+Beauty & Hygiene,Crazy Moments,4.5,61,54.0,533.5,587.5
+Beauty & Hygiene,Gold Deer,4.2,116,167.0,420.5,587.5
+Beauty & Hygiene,Matrix,3.8499999999999996,876,468.5,119.0,587.5
+Beauty & Hygiene,Nectar Valley,3.909090909090909,682,437.0,152.0,589.0
+Beauty & Hygiene,Dermi Cool,4.1,241,289.5,302.0,591.5
+Beauty & Hygiene,The Healthy Company,4.1,238,289.5,304.0,593.5
+Beauty & Hygiene,Remy ,4.1,232,289.5,308.0,597.5
+Beauty & Hygiene,Indus Valley,4.7,46,36.5,562.0,598.5
+Beauty & Hygiene,Pure,4.3,85,115.5,484.0,599.5
+Beauty & Hygiene,Royal Mirage,4.1,228,289.5,310.5,600.0
+Beauty & Hygiene,Wild Stone,3.576470588235294,1528,530.0,71.0,601.0
+Beauty & Hygiene,Charmis,4.166666666666667,128,196.5,405.5,602.0
+Beauty & Hygiene,Clove,4.1,226,289.5,313.0,602.5
+Beauty & Hygiene,Nisargalaya,4.5,54,54.0,548.5,602.5
+Beauty & Hygiene,Spinz,3.8642857142857143,746,461.0,142.5,603.5
+Beauty & Hygiene,Lacto Calamine,4.35,68,86.0,518.0,604.0
+Beauty & Hygiene,Tulips,3.9499999999999997,579,428.0,176.0,604.0
+Beauty & Hygiene,Hair & Care,4.166666666666667,125,196.5,408.5,605.0
+Beauty & Hygiene,Mercedes-Benz,4.1,221,289.5,316.0,605.5
+Beauty & Hygiene,USTRAA,3.5448717948717947,1492,534.0,72.0,606.0
+Beauty & Hygiene,Krack,4.3,81,115.5,491.0,606.5
+Beauty & Hygiene,Avene,4.1,220,289.5,317.5,607.0
+Beauty & Hygiene,Confetti London,4.1,220,289.5,317.5,607.0
+Beauty & Hygiene,Dabur Babool,4.4,61,75.5,533.5,609.0
+Beauty & Hygiene,Kaiv,3.74,935,500.0,110.5,610.5
+Beauty & Hygiene,18 Herbs,4.033333333333333,387,372.0,240.0,612.0
+Beauty & Hygiene,moha,4.1,202,289.5,324.0,613.5
+Beauty & Hygiene,Tous,4.1,200,289.5,326.0,615.5
+Beauty & Hygiene,Freale,4.5,46,54.0,562.0,616.0
+Beauty & Hygiene,Skinn by Titan,3.8470588235294123,716,471.0,145.0,616.0
+Beauty & Hygiene,Episoft,5.0,23,14.0,603.5,617.5
+Beauty & Hygiene,Indica,4.15,124,207.5,410.0,617.5
+Beauty & Hygiene,BodyHerbals,3.343243243243243,1862,562.0,57.0,619.0
+Beauty & Hygiene,Basicare,4.1,196,289.5,331.0,620.5
+Beauty & Hygiene,Upakarma,4.1,196,289.5,331.0,620.5
+Beauty & Hygiene,Kesh King,4.15,117,207.5,417.0,624.5
+Beauty & Hygiene,The Spice Club,4.3,71,115.5,509.0,624.5
+Beauty & Hygiene,Fair & Lovely ,4.083333333333333,314,353.0,273.0,626.0
+Beauty & Hygiene,Laser,5.0,16,14.0,612.0,626.0
+Beauty & Hygiene,Ring Guard,4.2,95,167.0,459.0,626.0
+Beauty & Hygiene,XPEL,3.9625,467,422.0,204.0,626.0
+Beauty & Hygiene,QRAA,3.472,1292,547.0,81.0,628.0
+Beauty & Hygiene,Peesafe,3.9,545,444.0,185.0,629.0
+Beauty & Hygiene,Bare Essentials,3.872727272727273,591,458.0,173.0,631.0
+Beauty & Hygiene,Siang Pure,4.0,390,393.5,238.0,631.5
+Beauty & Hygiene,Zippo,4.1,184,289.5,343.0,632.5
+Beauty & Hygiene,Dentoshine  ,3.8272727272727276,658,474.0,160.0,634.0
+Beauty & Hygiene,Vi-john,3.7115384615384617,791,503.0,132.0,635.0
+Beauty & Hygiene,Police,3.2971428571428567,1553,566.0,70.0,636.0
+Beauty & Hygiene,Niine,3.91,476,436.0,201.0,637.0
+Beauty & Hygiene,Meneza,4.1,179,289.5,350.0,639.5
+Beauty & Hygiene,Pony Effect,4.6,27,44.0,595.5,639.5
+Beauty & Hygiene,Anna sui,4.1,178,289.5,352.0,641.5
+Beauty & Hygiene,Supermax,3.9272727272727277,460,434.0,208.0,642.0
+Beauty & Hygiene,Alvizia,4.1,177,289.5,353.5,643.0
+Beauty & Hygiene,Durex,3.7857142857142856,672,489.0,156.0,645.0
+Beauty & Hygiene,ARAMIS,4.1,172,289.5,357.5,647.0
+Beauty & Hygiene,HAVOC,4.1,172,289.5,357.5,647.0
+Beauty & Hygiene,LetsShave,3.552941176470588,891,531.0,117.0,648.0
+Beauty & Hygiene,DELON,4.1,170,289.5,359.0,648.5
+Beauty & Hygiene,Depend,5.0,6,14.0,634.5,648.5
+Beauty & Hygiene,PureCult,4.5,27,54.0,595.5,649.5
+Beauty & Hygiene,Barber's Club,4.1,168,289.5,361.0,650.5
+Beauty & Hygiene,Open,4.1,168,289.5,361.0,650.5
+Beauty & Hygiene,Schwarzkopf Professional,4.0,357,393.5,257.0,650.5
+Beauty & Hygiene,Satinance,3.623076923076923,795,523.0,130.0,653.0
+Beauty & Hygiene,Dr.Batra'S,3.8083333333333336,577,477.0,177.0,654.0
+Beauty & Hygiene,Muscleblaze,5.0,4,14.0,640.0,654.0
+Beauty & Hygiene,Roots,4.1,165,289.5,365.0,654.5
+Beauty & Hygiene,Iodex,4.4,36,75.5,581.0,656.5
+Beauty & Hygiene,Seni,3.38,1060,558.0,99.0,657.0
+Beauty & Hygiene,Dermal,4.0,343,393.5,264.0,657.5
+Beauty & Hygiene,Streax,3.9454545454545453,420,429.0,228.5,657.5
+Beauty & Hygiene,Neem ,4.3,56,115.5,543.0,658.5
+Beauty & Hygiene,Livon Serum,4.166666666666667,93,196.5,462.5,659.0
+Beauty & Hygiene,Iba,4.0,337,393.5,267.0,660.5
+Beauty & Hygiene,Aquawhite,3.6384615384615384,752,521.0,140.0,661.0
+Beauty & Hygiene,Candid,4.2,78,167.0,494.5,661.5
+Beauty & Hygiene,Wow Skin Science,3.8875,452,451.0,211.0,662.0
+Beauty & Hygiene,Woodwards,4.4,31,75.5,588.0,663.5
+Beauty & Hygiene,Estee Lauder,4.1,155,289.5,376.0,665.5
+Beauty & Hygiene,Dorall Collection,2.9972972972972975,1678,598.0,68.0,666.0
+Beauty & Hygiene,Fuschia,3.1550000000000002,1182,572.0,94.0,666.0
+Beauty & Hygiene,Fiama Di Wills,4.4,30,75.5,591.0,666.5
+Beauty & Hygiene,Embark,3.4555555555555557,873,548.0,120.0,668.0
+Beauty & Hygiene,LOreal Professionnel,3.85,468,466.5,202.5,669.0
+Beauty & Hygiene,HE,4.02,262,376.0,293.5,669.5
+Beauty & Hygiene,Oriental Botanics,3.3454545454545452,925,561.0,113.0,674.0
+Beauty & Hygiene,Dimples,4.1,150,289.5,385.5,675.0
+Beauty & Hygiene,Jeva,3.7916666666666665,536,488.0,187.0,675.0
+Beauty & Hygiene,Dirty Works,4.1,146,289.5,388.0,677.5
+Beauty & Hygiene,Ob,4.5,11,54.0,624.0,678.0
+Beauty & Hygiene,Maybelline New York,3.8000000000000003,463,479.5,205.5,685.0
+Beauty & Hygiene,Vegetal,2.7379310344827585,1287,606.0,82.0,688.0
+Beauty & Hygiene,Enchanteur,3.835714285714286,437,472.0,218.0,690.0
+Beauty & Hygiene,Vedicline,4.1,133,289.5,400.5,690.0
+Beauty & Hygiene,NUTRIWISH,3.7636363636363637,483,495.0,198.0,693.0
+Beauty & Hygiene,Godrej Nupur,4.3,36,115.5,581.0,696.5
+Beauty & Hygiene,Vitro Naturals ,4.0,238,393.5,304.0,697.5
+Beauty & Hygiene,Akshara Herbals,3.744444444444445,478,499.0,200.0,699.0
+Beauty & Hygiene,bigbasket,4.3,31,115.5,588.0,703.5
+Beauty & Hygiene,3BO,1.9633333333333334,1458,632.0,74.0,706.0
+Beauty & Hygiene,Fredora,4.1,117,289.5,417.0,706.5
+Beauty & Hygiene,Omved,4.1,117,289.5,417.0,706.5
+Beauty & Hygiene,Guess,3.855555555555556,378,464.0,247.0,711.0
+Beauty & Hygiene,Macadamia,4.1,114,289.5,422.5,712.0
+Beauty & Hygiene,Nova,2.7695652173913046,957,604.0,108.0,712.0
+Beauty & Hygiene,The Beauty Co.,3.5,604,542.5,170.0,712.5
+Beauty & Hygiene,Oxylife,4.2,54,167.0,548.5,715.5
+Beauty & Hygiene,Nutrinorm,3.5833333333333335,529,529.0,189.0,718.0
+Beauty & Hygiene,Khadi Meghdoot ,1.9285714285714286,1239,633.0,86.0,719.0
+Beauty & Hygiene,Fa,4.166666666666667,66,196.5,523.5,720.0
+Beauty & Hygiene,Maxi,4.1,108,289.5,432.5,722.0
+Beauty & Hygiene,Spraymintt,3.8833333333333333,322,453.0,270.0,723.0
+Beauty & Hygiene,Shahnaz Husain,3.5,559,542.5,181.0,723.5
+Beauty & Hygiene,Jergens,3.533333333333333,535,536.0,188.0,724.0
+Beauty & Hygiene,Ulric De Varens,3.0666666666666664,746,583.0,142.5,725.5
+Beauty & Hygiene,All Good Scents,3.533333333333333,495,536.0,192.0,728.0
+Beauty & Hygiene,Hair4U,4.1,104,289.5,438.5,728.0
+Beauty & Hygiene,Vwash,4.300000000000001,11,104.5,624.0,728.5
+Beauty & Hygiene,Tommy Hilfiger,3.857142857142857,339,463.0,266.0,729.0
+Beauty & Hygiene,Soultree Ayurvedic,4.0,192,393.5,338.0,731.5
+Beauty & Hygiene,Maryaj,2.5714285714285716,852,611.0,124.0,735.0
+Beauty & Hygiene,Trust,3.9333333333333336,238,431.5,304.0,735.5
+Beauty & Hygiene,SSCPL HERBALS,3.88,295,455.0,282.0,737.0
+Beauty & Hygiene,Puma,3.625,440,522.0,216.0,738.0
+Beauty & Hygiene,Mom & World,3.409090909090909,537,554.0,186.0,740.0
+Beauty & Hygiene,Canopus,4.1,98,289.5,451.0,740.5
+Beauty & Hygiene,Pure Nutrition,4.1,98,289.5,451.0,740.5
+Beauty & Hygiene,ICare,4.05,155,366.0,376.0,742.0
+Beauty & Hygiene,Creightons,4.1,96,289.5,455.5,745.0
+Beauty & Hygiene,Formula,4.1,96,289.5,455.5,745.0
+Beauty & Hygiene,RawNature,2.9285714285714284,701,599.0,147.5,746.5
+Beauty & Hygiene,Neesh,3.590909090909091,435,528.0,220.0,748.0
+Beauty & Hygiene,Secret Temptation,3.75,373,497.0,251.0,748.0
+Beauty & Hygiene,Hajmola ,4.1,95,289.5,459.0,748.5
+Beauty & Hygiene,ZM LABS,3.8000000000000003,323,479.5,269.0,748.5
+Beauty & Hygiene,Natures Organic,4.3,6,115.5,634.5,750.0
+Beauty & Hygiene,Bontress,4.1,94,289.5,461.0,750.5
+Beauty & Hygiene,Dr. Vaidya's,2.0,835,627.0,125.0,752.0
+Beauty & Hygiene,Muyi,3.7999999999999994,336,485.5,268.0,753.5
+Beauty & Hygiene,Footlogix,4.1,92,289.5,464.5,754.0
+Beauty & Hygiene,Khadi,4.1,92,289.5,464.5,754.0
+Beauty & Hygiene,Vega,2.45,762,617.0,138.0,755.0
+Beauty & Hygiene,Arata Zero Chemicals,3.7125,370,502.0,254.0,756.0
+Beauty & Hygiene,FAIR AND HANDSOME,4.08,131,354.0,403.5,757.5
+Beauty & Hygiene,Blue heaven,4.0,165,393.5,365.0,758.5
+Beauty & Hygiene,Trigodon,4.1,89,289.5,472.0,761.5
+Beauty & Hygiene,Tabac,3.4375,447,550.0,214.0,764.0
+Beauty & Hygiene,Globus,3.522222222222222,420,538.0,228.5,766.5
+Beauty & Hygiene,Backpack,4.1,87,289.5,477.5,767.0
+Beauty & Hygiene,Chik,4.2,25,167.0,601.5,768.5
+Beauty & Hygiene,Lalique,4.1,86,289.5,480.0,769.5
+Beauty & Hygiene,The Earth Reserve,4.1,86,289.5,480.0,769.5
+Beauty & Hygiene,Akiva,4.1,85,289.5,484.0,773.5
+Beauty & Hygiene,Amazon Series,4.1,85,289.5,484.0,773.5
+Beauty & Hygiene,Love Beauty & Planet,3.06,507,584.0,191.0,775.0
+Beauty & Hygiene,Malu Wilz,4.1,84,289.5,487.0,776.5
+Beauty & Hygiene,Playboy,3.08,491,582.0,195.0,777.0
+Beauty & Hygiene,Nautica,3.4285714285714284,423,552.0,226.0,778.0
+Beauty & Hygiene,Biocare ,3.3714285714285714,431,559.0,221.0,780.0
+Beauty & Hygiene,Bodyguard,2.6538461538461537,597,609.0,171.0,780.0
+Beauty & Hygiene,Bionova,3.111111111111111,463,575.5,205.5,781.0
+Beauty & Hygiene,Beverly Hills Polo Club,2.25,656,621.0,161.0,782.0
+Beauty & Hygiene,FAST&UP,3.55,373,532.0,251.0,783.0
+Beauty & Hygiene,Future Organics,4.066666666666666,112,358.5,426.0,784.5
+Beauty & Hygiene,Prabhat,4.0,143,393.5,391.0,784.5
+Beauty & Hygiene,Dr Rhazes,2.2083333333333335,649,622.0,163.0,785.0
+Beauty & Hygiene,Yoni,3.0,492,591.5,194.0,785.5
+Beauty & Hygiene,Oilcure,4.1,75,289.5,498.0,787.5
+Beauty & Hygiene,T BASE,3.3076923076923075,425,563.0,224.5,787.5
+Beauty & Hygiene,IN2,3.15,444,573.0,215.0,788.0
+Beauty & Hygiene,Baol,4.0,136,393.5,396.0,789.5
+Beauty & Hygiene,Shower To Shower,3.7,296,509.5,281.0,790.5
+Beauty & Hygiene,AmitabhB,4.1,74,289.5,502.5,792.0
+Beauty & Hygiene,Eyova,4.1,74,289.5,502.5,792.0
+Beauty & Hygiene,Treaclemoon,4.1,74,289.5,502.5,792.0
+Beauty & Hygiene,Ego of Paris,3.685714285714286,304,516.0,277.5,793.5
+Beauty & Hygiene,Carmesi,3.62,321,524.0,271.0,795.0
+Beauty & Hygiene,Creation Lamis,4.1,73,289.5,507.0,796.5
+Beauty & Hygiene,Lite Glo,4.1,73,289.5,507.0,796.5
+Beauty & Hygiene,Healthmeds,4.1,70,289.5,510.0,799.5
+Beauty & Hygiene,Navratna,4.050000000000001,105,364.0,436.0,800.0
+Beauty & Hygiene,Fruit Of The Earth,4.1,69,289.5,513.0,802.5
+Beauty & Hygiene,Remington,4.1,69,289.5,513.0,802.5
+Beauty & Hygiene,Dabur Nature Care,4.1,68,289.5,518.0,807.5
+Beauty & Hygiene,Humaste,4.1,68,289.5,518.0,807.5
+Beauty & Hygiene,Nutriorg,4.05,100,366.0,443.0,809.0
+Beauty & Hygiene,Oxy Life,3.866666666666667,179,460.0,350.0,810.0
+Beauty & Hygiene,Health Potion,4.1,67,289.5,521.5,811.0
+Beauty & Hygiene,Paco Rabanne,4.1,66,289.5,523.5,813.0
+Beauty & Hygiene,Jovan,3.9333333333333336,151,431.5,383.5,815.0
+Beauty & Hygiene,Monika Chandra,4.1,65,289.5,525.5,815.0
+Beauty & Hygiene,Himani,4.1,63,289.5,528.0,817.5
+Beauty & Hygiene,Jacques Bogart,3.111111111111111,385,575.5,243.0,818.5
+Beauty & Hygiene,Tri-Activ,4.0,110,393.5,430.0,823.5
+Beauty & Hygiene,Super Smelly,3.9,153,444.0,381.0,825.0
+Beauty & Hygiene,FITWHEY,4.1,60,289.5,536.5,826.0
+Beauty & Hygiene,Jaguar,3.0818181818181816,382,581.0,245.0,826.0
+Beauty & Hygiene,SHAFIB,4.1,60,289.5,536.5,826.0
+Beauty & Hygiene,Red Hunt,3.1181818181818177,372,574.0,253.0,827.0
+Beauty & Hygiene,Antonio Banderas,4.0,107,393.5,434.0,827.5
+Beauty & Hygiene,Haeal,4.1,57,289.5,539.5,829.0
+Beauty & Hygiene,Itch Guard,4.1,57,289.5,539.5,829.0
+Beauty & Hygiene,Reliance Plast,3.966666666666667,123,417.5,411.5,829.0
+Beauty & Hygiene,Amante,3.414285714285714,304,553.0,277.5,830.5
+Beauty & Hygiene,La-par,4.0,104,393.5,438.5,832.0
+Beauty & Hygiene,Supply6,4.1,56,289.5,543.0,832.5
+Beauty & Hygiene,Wonder,4.1,56,289.5,543.0,832.5
+Beauty & Hygiene,Prakrta,3.6999999999999997,219,514.5,319.0,833.5
+Beauty & Hygiene,Doctor's Choice ,4.1,55,289.5,545.5,835.0
+Beauty & Hygiene,Bblunt,2.75,412,605.0,231.0,836.0
+Beauty & Hygiene,Bro Code,4.1,54,289.5,548.5,838.0
+Beauty & Hygiene,Cigar,4.1,53,289.5,551.5,841.0
+Beauty & Hygiene,Cosmetics,4.0,99,393.5,447.5,841.0
+Beauty & Hygiene,VITRO,4.0,99,393.5,447.5,841.0
+Beauty & Hygiene,Bubblenut Wash,3.9,133,444.0,400.5,844.5
+Beauty & Hygiene,Swiss Army,4.1,50,289.5,555.0,844.5
+Beauty & Hygiene,Bronson Professional,2.55,401,612.0,236.0,848.0
+Beauty & Hygiene,Glysolid,4.1,47,289.5,559.0,848.5
+Beauty & Hygiene,Wells,4.1,47,289.5,559.0,848.5
+Beauty & Hygiene,Lifree,3.6666666666666665,196,519.0,331.0,850.0
+Beauty & Hygiene,Cute Girl,3.9,127,444.0,407.0,851.0
+Beauty & Hygiene,Incidence,4.1,46,289.5,562.0,851.5
+Beauty & Hygiene,Chicnutrix,2.6,385,610.0,243.0,853.0
+Beauty & Hygiene,Abbies,3.44,236,549.0,306.0,855.0
+Beauty & Hygiene,Uproot,4.1,44,289.5,566.0,855.5
+Beauty & Hygiene,D'Acne,4.1,42,289.5,567.5,857.0
+Beauty & Hygiene,Happily Unmarried,4.1,42,289.5,567.5,857.0
+Beauty & Hygiene,Calvin Klein ,4.1,41,289.5,570.0,859.5
+Beauty & Hygiene,Nair ,4.1,41,289.5,570.0,859.5
+Beauty & Hygiene,Ceramic ,3.9,117,444.0,417.0,861.0
+Beauty & Hygiene,Fairkraft Creations,4.1,39,289.5,574.0,863.5
+Beauty & Hygiene,Body Cupid,4.1,37,289.5,578.0,867.5
+Beauty & Hygiene,Glow & Handsome,3.9,113,444.0,424.5,868.5
+Beauty & Hygiene,Filone,3.3833333333333333,227,557.0,312.0,869.0
+Beauty & Hygiene,Udy,3.7999999999999994,147,485.5,387.0,872.5
+Beauty & Hygiene,PINQ,4.1,34,289.5,584.0,873.5
+Beauty & Hygiene,Acnes,3.966666666666667,95,417.5,459.0,876.5
+Beauty & Hygiene,Carven,3.8,134,482.5,397.5,880.0
+Beauty & Hygiene,SHAMROCK,3.533333333333333,183,536.0,344.5,880.5
+Beauty & Hygiene,Active,4.1,27,289.5,595.5,885.0
+Beauty & Hygiene,Healthfab,4.1,27,289.5,595.5,885.0
+Beauty & Hygiene,Milani,4.1,27,289.5,595.5,885.0
+Beauty & Hygiene,Honeywell,3.9,100,444.0,443.0,887.0
+Beauty & Hygiene,Finesse,4.1,26,289.5,599.5,889.0
+Beauty & Hygiene,Do Bandar,4.1,25,289.5,601.5,891.0
+Beauty & Hygiene,De Fabulous,4.1,23,289.5,603.5,893.0
+Beauty & Hygiene,EVVER,4.1,22,289.5,605.0,894.5
+Beauty & Hygiene,Mud,4.1,18,289.5,610.0,899.5
+Beauty & Hygiene,Godrej Anoop,4.1,16,289.5,612.0,901.5
+Beauty & Hygiene,X-MEN,3.6999999999999997,145,514.5,389.0,903.5
+Beauty & Hygiene,Intimate,4.1,15,289.5,615.0,904.5
+Beauty & Hygiene,One man show,4.1,15,289.5,615.0,904.5
+Beauty & Hygiene,Bentley,3.0,222,591.5,314.5,906.0
+Beauty & Hygiene,Aloederm,3.6,152,526.0,382.0,908.0
+Beauty & Hygiene,Plush,3.6833333333333336,143,517.0,391.0,908.0
+Beauty & Hygiene,Ferrari ,1.5,308,634.0,275.0,909.0
+Beauty & Hygiene,Agastya,4.1,13,289.5,620.0,909.5
+Beauty & Hygiene,Remy Marquis,3.8,111,482.5,427.5,910.0
+Beauty & Hygiene,Bonorganik,3.5,160,542.5,371.0,913.5
+Beauty & Hygiene,Manju's,4.1,11,289.5,624.0,913.5
+Beauty & Hygiene,Naturals,3.5,158,542.5,372.0,914.5
+Beauty & Hygiene,Aps Cosmetofood,4.0,67,393.5,521.5,915.0
+Beauty & Hygiene,Paese Cosmetics,4.1,10,289.5,626.5,916.0
+Beauty & Hygiene,Versace V19.69,4.1,10,289.5,626.5,916.0
+Beauty & Hygiene,Dot & Key,3.75,116,497.0,420.5,917.5
+Beauty & Hygiene,Paul Penders Botanical,4.1,7,289.5,630.0,919.5
+Beauty & Hygiene,SINWUAS,4.1,7,289.5,630.0,919.5
+Beauty & Hygiene,OGA,3.0,196,591.5,331.0,922.5
+Beauty & Hygiene,DP,3.925,83,435.0,488.5,923.5
+Beauty & Hygiene,BSY,4.1,6,289.5,634.5,924.0
+Beauty & Hygiene,Kent,4.1,6,289.5,634.5,924.0
+Beauty & Hygiene,Paris,2.0,251,627.0,299.0,926.0
+Beauty & Hygiene,Namyaa,4.0,61,393.5,533.5,927.0
+Beauty & Hygiene,Swastik,3.95,74,426.5,502.5,929.0
+Beauty & Hygiene,The Body Shop,4.1,4,289.5,640.0,929.5
+Beauty & Hygiene,GoYNG,1.0,268,640.0,290.5,930.5
+Beauty & Hygiene,Batiste,3.25,166,568.0,363.0,931.0
+Beauty & Hygiene,Johnson's baby,4.1,1,289.5,642.5,932.0
+Beauty & Hygiene,Emami,3.5,143,542.5,391.0,933.5
+Beauty & Hygiene,SterloMax,4.1,0,289.5,644.0,933.5
+Beauty & Hygiene,Octus,3.25,161,568.0,369.5,937.5
+Beauty & Hygiene,Clenz U,3.4333333333333336,141,551.0,393.0,944.0
+Beauty & Hygiene,Madilu,3.9,74,444.0,502.5,946.5
+Beauty & Hygiene,Trisa ,3.1,162,578.5,368.0,946.5
+Beauty & Hygiene,Love Me,4.0,48,393.5,557.0,950.5
+Beauty & Hygiene,OGX,4.0,47,393.5,559.0,952.5
+Beauty & Hygiene,Smiley-Quick Dry,2.7,181,607.5,348.0,955.5
+Beauty & Hygiene,50 Ap ,3.4,133,555.5,400.5,956.0
+Beauty & Hygiene,ACETONE,4.0,45,393.5,564.5,958.0
+Beauty & Hygiene,Brimune,4.0,45,393.5,564.5,958.0
+Beauty & Hygiene,Kawach,3.7,98,509.5,451.0,960.5
+Beauty & Hygiene,Opex,3.9,68,444.0,518.0,962.0
+Beauty & Hygiene,Care 4 All,3.3666666666666667,131,560.0,403.5,963.5
+Beauty & Hygiene,Daiou,4.0,41,393.5,570.0,963.5
+Beauty & Hygiene,Bibo,4.0,39,393.5,574.0,967.5
+Beauty & Hygiene,Mirah Belle,2.0,189,627.0,340.5,967.5
+Beauty & Hygiene,Evaflor,2.4,179,618.0,350.0,968.0
+Beauty & Hygiene,Refresh Plus,4.0,36,393.5,581.0,974.5
+Beauty & Hygiene,Saffola,4.0,36,393.5,581.0,974.5
+Beauty & Hygiene,Morpheme,1.0,195,640.0,335.0,975.0
+Beauty & Hygiene,Prozo Plus,3.25,125,568.0,408.5,976.5
+Beauty & Hygiene,Wonder Fresh ,3.0,150,591.5,385.5,977.0
+Beauty & Hygiene,Big D,3.7,90,509.5,469.0,978.5
+Beauty & Hygiene,Lexus,3.6,96,526.0,455.5,981.5
+Beauty & Hygiene,Plasto World,2.7,156,607.5,374.0,981.5
+Beauty & Hygiene,Wahl,3.65,90,520.0,469.0,989.0
+Beauty & Hygiene,Khadi Essentials,3.6,91,526.0,466.5,992.5
+Beauty & Hygiene,O,3.7,85,509.5,484.0,993.5
+Beauty & Hygiene,Rica,4.0,20,393.5,607.0,1000.5
+Beauty & Hygiene,Keratone,4.0,19,393.5,608.5,1002.0
+Beauty & Hygiene,VClass,3.7,78,509.5,494.5,1004.0
+Beauty & Hygiene,Z,2.0,154,627.0,379.0,1006.0
+Beauty & Hygiene,Aeres,4.0,14,393.5,618.0,1011.5
+Beauty & Hygiene,Organicana,4.0,14,393.5,618.0,1011.5
+Beauty & Hygiene,CHENNAI SUPER KINGS,3.8,62,482.5,530.5,1013.0
+Beauty & Hygiene,Nirvana,3.8,62,482.5,530.5,1013.0
+Beauty & Hygiene,Novagold,1.0,157,640.0,373.0,1013.0
+Beauty & Hygiene,109°F,3.2,100,571.0,443.0,1014.0
+Beauty & Hygiene,Kare Med,3.8499999999999996,52,468.5,553.0,1021.5
+Beauty & Hygiene,EL PASO,1.0,151,640.0,383.5,1023.5
+Beauty & Hygiene,Nicka K,3.9,36,444.0,581.0,1025.0
+Beauty & Hygiene,Godrej Aer,3.95,26,426.5,599.5,1026.0
+Beauty & Hygiene,Dimpu Poop-Cee,3.9,33,444.0,585.0,1029.0
+Beauty & Hygiene,Swiss Beauty,4.0,1,393.5,642.5,1036.0
+Beauty & Hygiene,Palmex,2.5,114,614.5,422.5,1037.0
+Beauty & Hygiene,ezy,2.85,105,601.5,436.0,1037.5
+Beauty & Hygiene,Hairmac,2.0,110,627.0,430.0,1057.0
+Beauty & Hygiene,SEMCO,3.5,68,542.5,518.0,1060.5
+Beauty & Hygiene,Wellastrate,3.0,90,591.5,469.0,1060.5
+Beauty & Hygiene,SSS,2.5,99,614.5,447.5,1062.0
+Beauty & Hygiene,Lapar,2.3,100,619.5,443.0,1062.5
+Beauty & Hygiene,Livon,2.5,96,614.5,455.5,1070.0
+Beauty & Hygiene,Verage,3.75,39,497.0,574.0,1071.0
+Beauty & Hygiene,Miss Claire,2.0,99,627.0,447.5,1074.5
+Beauty & Hygiene,Airific,3.0,85,591.5,484.0,1075.5
+Beauty & Hygiene,Anatomicals,2.0,97,627.0,453.0,1080.0
+Beauty & Hygiene,KNM,3.05,77,585.0,496.0,1081.0
+Beauty & Hygiene,Botanica,3.0,75,591.5,498.0,1089.5
+Beauty & Hygiene,Everteen,1.0,93,640.0,462.5,1102.5
+Beauty & Hygiene,Intimus ,2.5,81,614.5,491.0,1105.5
+Beauty & Hygiene,Sri Swastik,3.3,49,564.5,556.0,1120.5
+Beauty & Hygiene,Chaoba,3.1,55,578.5,545.5,1124.0
+Beauty & Hygiene,Hansaplast,3.7,15,509.5,615.0,1124.5
+Beauty & Hygiene,Strawberry,3.7,8,509.5,628.0,1137.5
+Beauty & Hygiene,Ancient Living,3.0,53,591.5,551.5,1143.0
+Beauty & Hygiene,The August Co.,3.7,4,509.5,640.0,1149.5
+Beauty & Hygiene,ECO365,3.1,40,578.5,572.0,1150.5
+Beauty & Hygiene,Raho Safe,1.0,69,640.0,513.0,1153.0
+Beauty & Hygiene,MG Polyplast,3.5,16,542.5,612.0,1154.5
+Beauty & Hygiene,Scholl,2.0,63,627.0,528.0,1155.0
+Beauty & Hygiene,Nuface Ultra,3.5,14,542.5,618.0,1160.5
+Beauty & Hygiene,Aerostar,2.9,38,600.0,576.5,1176.5
+Beauty & Hygiene,Himalayan Natives,3.4,12,555.5,621.5,1177.0
+Beauty & Hygiene,PureFoods,2.85,38,601.5,576.5,1178.0
+Beauty & Hygiene,Promen,3.0,31,591.5,588.0,1179.5
+Beauty & Hygiene,Sloan's,3.0,27,591.5,595.5,1187.0
+Beauty & Hygiene,NaturoBell,2.8,31,603.0,588.0,1191.0
+Beauty & Hygiene,Subicsha,1.0,51,640.0,554.0,1194.0
+Beauty & Hygiene,SAFE-KI,3.0,21,591.5,606.0,1197.5
+Beauty & Hygiene,Bodygard,3.3,6,564.5,634.5,1199.0
+Beauty & Hygiene,Brother,3.1,12,578.5,621.5,1200.0
+Beauty & Hygiene,Aristocrat,2.3,29,619.5,592.0,1211.5
+Beauty & Hygiene,Kohinoor Condoms,3.0,6,591.5,634.5,1226.0
+Beauty & Hygiene,Prowomen,1.0,31,640.0,588.0,1228.0
+Beauty & Hygiene,Karkhana,1.2,19,635.0,608.5,1243.5
+Beauty & Hygiene,Callesta,2.0,7,627.0,630.0,1257.0
+Beauty & Hygiene,Philips,1.0,5,640.0,638.0,1278.0
+Beverages,VAHDAM,4.486440677966102,2842,11.0,1.0,12.0
+Beverages,Karma Kettle,4.954545454545454,383,5.0,33.0,38.0
+Beverages,Nescafe ,4.3,722,31.5,11.0,42.5
+Beverages,Red Bull,4.42,354,14.0,36.0,50.0
+Beverages,Tang,4.325,442,24.0,26.0,50.0
+Beverages,ORGANIC INDIA,4.283333333333333,712,39.0,13.0,52.0
+Beverages,Typhoo,4.25625,853,45.0,8.0,53.0
+Beverages,Glucon-D,4.285714285714286,620,38.0,16.0,54.0
+Beverages,Tetley,4.2615384615384615,483,44.0,23.0,67.0
+Beverages,Sunfeast,4.875,191,6.0,63.5,69.5
+Beverages,Horlicks,4.246666666666667,659,56.0,14.0,70.0
+Beverages,Coca-Cola,4.288888888888889,345,37.0,38.0,75.0
+Beverages,Tata Tea Premium,4.34,237,22.0,53.0,75.0
+Beverages,Complan,4.3,261,31.5,47.0,78.5
+Beverages,Eco Valley ,4.32,230,25.0,55.0,80.0
+Beverages,Kissan,4.3,250,31.5,50.0,81.5
+Beverages,Appy Fizz,4.550000000000001,167,7.0,76.0,83.0
+Beverages,Golden Tips,4.4,180,16.5,69.0,85.5
+Beverages,B Natural,4.2,753,76.5,10.0,86.5
+Beverages,Dezire,4.449999999999999,168,12.0,75.0,87.0
+Beverages,Levista,4.25,341,50.5,39.0,89.5
+Beverages,Bournvita,4.214285714285714,420,61.0,30.0,91.0
+Beverages,Mountain Dew,4.35,161,20.5,82.5,103.0
+Beverages,Real,4.137096774193548,1439,104.0,3.0,107.0
+Beverages,Aquafina,4.225,238,59.0,52.0,111.0
+Beverages,Kapiva Ayurveda,4.119047619047619,1152,108.0,4.0,112.0
+Beverages,TrueSouth,4.25,197,50.5,62.0,112.5
+Beverages,Gatorade,4.366666666666667,128,19.0,96.0,115.0
+Beverages,Tata Coffee,4.233333333333333,215,57.5,58.0,115.5
+Beverages,Desi Utthana,5.0,85,2.5,115.5,118.0
+Beverages,Bisleri ,4.1571428571428575,480,96.0,24.0,120.0
+Beverages,Paper Boat,4.1,888,113.0,7.0,120.0
+Beverages,Brewhouse Tea Brewing Co.,4.4,104,16.5,104.0,120.5
+Beverages,Twinings,4.18,425,94.0,29.0,123.0
+Beverages,Real Activ,4.15,453,98.5,25.0,123.5
+Beverages,Moti's,4.25,169,50.5,73.5,124.0
+Beverages,Frooti,4.2,260,76.5,48.0,124.5
+Beverages,Hersheys ,4.333333333333333,109,23.0,102.0,125.0
+Beverages,Alo Frut,4.2,254,76.5,49.0,125.5
+Beverages,Ovaltine,4.35,103,20.5,105.5,126.0
+Beverages,Barbican ,4.113636363636363,583,109.0,18.0,127.0
+Beverages,Pediasure,4.133333333333333,524,106.0,21.0,127.0
+Beverages,Appy ,4.3,127,31.5,97.0,128.5
+Beverages,Ojasvita,4.266666666666667,147,41.5,88.0,129.5
+Beverages,9t9,4.2,234,76.5,54.0,130.5
+Beverages,Tata Sampann,5.0,68,2.5,129.0,131.5
+Beverages,Maaza,4.2,228,76.5,56.0,132.5
+Beverages,Emperia,4.183333333333334,308,93.0,41.0,134.0
+Beverages,Pukka,5.0,63,2.5,132.5,135.0
+Beverages,Alkalen,4.5,71,9.0,126.5,135.5
+Beverages,Pepsi,4.220000000000001,165,60.0,77.0,137.0
+Beverages,Wagh Bakri,4.007142857142857,755,128.0,9.0,137.0
+Beverages,Teamonk,3.9191489361702123,2576,136.0,2.0,138.0
+Beverages,bb Combo,4.05,563,121.0,20.0,141.0
+Beverages,Lipton ,4.023076923076923,585,125.0,17.0,142.0
+Beverages,Tropicana,3.9124999999999996,981,137.0,5.0,142.0
+Beverages,7 Up,4.266666666666667,110,41.5,101.0,142.5
+Beverages,NaturoBell,4.1375,310,103.0,40.0,143.0
+Beverages,Continental,4.007692307692308,566,127.0,19.0,146.0
+Beverages,&Me,4.433333333333334,62,13.0,134.0,147.0
+Beverages,Protinex ,4.1499999999999995,285,101.0,46.0,147.0
+Beverages,Nutty Yogi,4.4,66,16.5,131.0,147.5
+Beverages,18 Herbs,3.775,971,143.0,6.0,149.0
+Beverages,Bayars,4.233333333333333,141,57.5,92.0,149.5
+Beverages,Namhya,5.0,46,2.5,147.0,149.5
+Beverages,Boost,4.25,111,50.5,100.0,150.5
+Beverages,Del Monte,4.3,83,31.5,119.0,150.5
+Beverages,Ensure,4.266666666666667,94,41.5,110.5,152.0
+Beverages,Monster,4.3,76,31.5,121.0,152.5
+Beverages,Tata Tea,4.085714285714286,347,116.0,37.0,153.0
+Beverages,Dabur,4.022222222222222,435,126.0,28.0,154.0
+Beverages,&Stirred,4.04,408,123.5,32.0,155.5
+Beverages,Raw Pressery,3.9818181818181815,490,134.0,22.0,156.0
+Beverages,Patanjali,4.2,163,76.5,80.0,156.5
+Beverages,Fanta,4.25,102,50.5,107.5,158.0
+Beverages,Kinley,4.1000000000000005,247,110.0,51.0,161.0
+Beverages,Rasna,3.725,626,146.0,15.0,161.0
+Beverages,Good Morning,4.15,191,98.5,63.5,162.0
+Beverages,Mirinda,4.2,146,76.5,89.0,165.5
+Beverages,iD,4.04,291,123.5,43.0,166.5
+Beverages,Tata Tea Gold,4.2,145,76.5,90.5,167.0
+Beverages,Bru ,4.266666666666667,69,41.5,128.0,169.5
+Beverages,Thums Up,4.2,138,76.5,93.0,169.5
+Beverages,Cadbury,4.25,81,50.5,120.0,170.5
+Beverages,Octavius,3.0133333333333336,715,161.0,12.0,173.0
+Beverages,Glucovita,4.4,14,16.5,158.5,175.0
+Beverages,Ammae,4.5,7,9.0,166.5,175.5
+Beverages,Mapro,4.133333333333334,176,105.0,71.0,176.0
+Beverages,Shunya,3.6699999999999995,440,150.0,27.0,177.0
+Beverages,Riseup,4.15,163,98.5,80.0,178.5
+Beverages,Amrutanjan,4.3,42,31.5,148.0,179.5
+Beverages,Kingfisher,3.9714285714285715,289,135.0,44.5,179.5
+Beverages,Red Label,4.2,106,76.5,103.0,179.5
+Beverages,Maltova,4.5,4,9.0,171.0,180.0
+Beverages,Rage Coffee,4.14,164,102.0,78.0,180.0
+Beverages,Tata Tea Kanan Devan,4.05,213,121.0,59.0,180.0
+Beverages,Hatti Kaapi,4.25,67,50.5,130.0,180.5
+Beverages,Enfagrow A+,4.3,37,31.5,150.0,181.5
+Beverages,Sprite,4.25,63,50.5,132.5,183.0
+Beverages,Jiva Ayurveda,4.066666666666666,182,117.5,66.0,183.5
+Beverages,24 Mantra,3.88,289,141.0,44.5,185.5
+Beverages,Bambino,4.3,23,31.5,154.5,186.0
+Beverages,Nestle ,4.199999999999999,133,92.0,94.0,186.0
+Beverages,Smoodies,4.0600000000000005,181,119.0,67.5,186.5
+Beverages,Sprig Tea,3.46,416,156.0,31.0,187.0
+Beverages,PRISTINE,3.6,369,154.0,34.0,188.0
+Beverages,Nature's First,4.2,88,76.5,112.0,188.5
+Beverages,Heineken,4.25,59,50.5,139.0,189.5
+Beverages,Tata ,4.2,87,76.5,113.5,190.0
+Beverages,Nestea,4.0,200,131.0,60.0,191.0
+Beverages,Tata Tea Agni,4.05,176,121.0,71.0,192.0
+Beverages,Cadburry,4.3,11,31.5,162.0,193.5
+Beverages,3 Roses,4.2,84,76.5,117.5,194.0
+Beverages,Isvaari,3.625,301,152.0,42.0,194.0
+Beverages,Pro360,4.2,84,76.5,117.5,194.0
+Beverages,Gulabs,3.3000000000000003,358,160.0,35.0,195.0
+Beverages,Tata Tea Chakra,4.300000000000001,5,26.0,169.5,195.5
+Beverages,MTR,4.15,117,98.5,98.0,196.5
+Beverages,Dhishoom,4.2,73,76.5,123.5,200.0
+Beverages,FabBox,4.0,176,131.0,71.0,202.0
+Beverages,Amul Pro,4.066666666666666,151,117.5,87.0,204.5
+Beverages,Cothas Coffee,4.175,94,95.0,110.5,205.5
+Beverages,Storia,3.9,181,139.0,67.5,206.5
+Beverages,Nectar Valley,4.25,12,50.5,160.0,210.5
+Beverages,Schweppes,4.2,61,76.5,135.0,211.5
+Beverages,Future Organics,4.2,60,76.5,137.0,213.5
+Beverages,Taj Mahal,4.125,98,107.0,109.0,216.0
+Beverages,7 Up Nimbooz,4.2,57,76.5,141.0,217.5
+Beverages,Mojoco,4.2,57,76.5,141.0,217.5
+Beverages,Manna ,3.75,169,144.5,73.5,218.0
+Beverages,EASY COFFEE,3.6,185,154.0,65.0,219.0
+Beverages,Enfagrow,4.2,54,76.5,143.0,219.5
+Beverages,Lehar,4.2,52,76.5,145.0,221.5
+Beverages,Dr. Vaidya's,2.0,221,168.5,57.0,225.5
+Beverages,Minute Maid ,4.2,39,76.5,149.0,225.5
+Beverages,Society,4.2,36,76.5,151.0,227.5
+Beverages,Morning Fresh,2.35,198,167.0,61.0,228.0
+Beverages,Coco mama,4.2,33,76.5,152.0,228.5
+Beverages,RISE UP ,3.75,158,144.5,84.0,228.5
+Beverages,WaghBakri,4.2,24,76.5,153.0,229.5
+Beverages,Slice,4.2,23,76.5,154.5,231.0
+Beverages,Seven Beans,4.2,20,76.5,157.0,233.5
+Beverages,iD Fresh,4.1,73,113.0,123.5,236.5
+Beverages,Cocojal,4.2,11,76.5,162.0,238.5
+Beverages,Limca ,4.2,11,76.5,162.0,238.5
+Beverages,Sericha,3.6333333333333333,145,151.0,90.5,241.5
+Beverages,Delight Foods,3.4,157,159.0,85.0,244.0
+Beverages,Organic Tattva,3.4333333333333336,153,158.0,86.0,244.0
+Beverages,Blendy,2.75,163,164.5,80.0,244.5
+Beverages,DaVinci Gourmet,3.0,161,162.5,82.5,245.0
+Beverages,BTN Sports,4.2,5,76.5,169.5,246.0
+Beverages,Himalayan,3.8,102,142.0,107.5,249.5
+Beverages,My Sip,3.7,103,148.0,105.5,253.5
+Beverages,Mrs Bector'S Cremica,2.5,130,166.0,95.0,261.0
+Beverages,Blv Fine Blend,2.75,112,164.5,99.0,263.5
+Beverages,Glaceau ,4.0,60,131.0,137.0,268.0
+Beverages,Morton,3.45,87,157.0,113.5,270.5
+Beverages,Bindu,4.1,10,113.0,164.5,277.5
+Beverages,Diabetics Dezire,3.0,85,162.5,115.5,278.0
+Beverages,Sunbean  ,4.1,7,113.0,166.5,279.5
+Beverages,Tata Tea Gemini,4.1,6,113.0,168.0,281.0
+Beverages,Manna Go Grains,3.9,52,139.0,145.0,284.0
+Beverages,Phalada Pure & Sure,3.9,52,139.0,145.0,284.0
+Beverages,Mr South,3.7,60,148.0,137.0,285.0
+Beverages,Narasus,4.0,21,131.0,156.0,287.0
+Beverages,Sidapur,3.7,57,148.0,141.0,289.0
+Beverages,Bionova,1.0,75,170.5,122.0,292.5
+Beverages,Coffee Day,2.0,72,168.5,125.0,293.5
+Beverages,NOCD,4.0,10,131.0,164.5,295.5
+Beverages,Jayanthi Coffee,1.0,71,170.5,126.5,297.0
+Beverages,sumeru,3.6,14,154.0,158.5,312.5
+Cleaning & Household,Kaadoo,4.869230769230769,613,16.0,56.0,72.0
+Cleaning & Household,Ariel ,4.370588235294117,1004,56.0,28.0,84.0
+Cleaning & Household,Selpak,4.380952380952381,983,53.0,32.0,85.0
+Cleaning & Household,Harpic,4.290909090909091,1733,88.0,13.0,101.0
+Cleaning & Household,Dettol,4.293103448275862,1479,87.0,17.0,104.0
+Cleaning & Household,Surf Excel,4.325,735,62.0,42.5,104.5
+Cleaning & Household,Pril,4.318181818181818,689,63.0,46.0,109.0
+Cleaning & Household,Doms,4.3076923076923075,640,65.0,49.0,114.0
+Cleaning & Household,BB Home Herbal,4.409090909090909,495,45.0,72.0,117.0
+Cleaning & Household,Papergrid,4.43,476,44.0,76.0,120.0
+Cleaning & Household,Frosch,4.286666666666666,886,89.0,34.0,123.0
+Cleaning & Household,Kolan,4.3,642,76.0,48.0,124.0
+Cleaning & Household,Weiman,4.625,383,28.0,97.0,125.0
+Cleaning & Household,Tide,4.3999999999999995,491,51.5,74.0,125.5
+Cleaning & Household,Mr Muscle,4.344444444444445,539,61.0,65.0,126.0
+Cleaning & Household,RENUZIT,5.0,301,7.5,120.5,128.0
+Cleaning & Household,Lizol,4.227586206896552,1460,113.0,18.0,131.0
+Cleaning & Household,Nimyle,4.816666666666666,326,17.0,115.5,132.5
+Cleaning & Household,DP,4.1863636363636365,5000,134.0,1.0,135.0
+Cleaning & Household,Navneet Youva,4.2625,844,99.0,37.0,136.0
+Cleaning & Household,Ezee ,4.314285714285715,492,64.0,73.0,137.0
+Cleaning & Household,Exo,4.271428571428571,735,95.0,42.5,137.5
+Cleaning & Household,Born Good,5.0,269,7.5,134.5,142.0
+Cleaning & Household,Cycle,4.226315789473684,996,114.0,30.0,144.0
+Cleaning & Household,Ezy Be,4.725,295,21.0,123.0,144.0
+Cleaning & Household,PureCult,4.527272727272727,331,32.0,112.0,144.0
+Cleaning & Household,BB Home,4.1414634146341465,3857,144.0,3.0,147.0
+Cleaning & Household,Florsafe +,5.0,249,7.5,144.0,151.5
+Cleaning & Household,Pidilite,4.158064516129032,1786,140.0,12.0,152.0
+Cleaning & Household,Classmate,4.137735849056604,2719,146.0,7.0,153.0
+Cleaning & Household,Cartini,4.214285714285714,841,118.0,38.0,156.0
+Cleaning & Household,Finish,4.23125,722,112.0,44.0,156.0
+Cleaning & Household,Liao,4.111290322580645,2924,151.0,5.0,156.0
+Cleaning & Household,Rin,4.26,584,100.5,59.0,159.5
+Cleaning & Household,Vim,4.258333333333334,585,102.0,58.0,160.0
+Cleaning & Household,Mangaldeep,4.281818181818182,478,90.0,75.0,165.0
+Cleaning & Household,Nayasa,4.266666666666667,525,97.0,68.0,165.0
+Cleaning & Household,Dylon ,4.5,274,36.5,132.0,168.5
+Cleaning & Household,Clorox,4.188235294117647,784,132.0,41.0,173.0
+Cleaning & Household,Kiwi,4.26,457,100.5,80.5,181.0
+Cleaning & Household,Pine Sol,4.76,190,19.0,166.0,185.0
+Cleaning & Household,Herbal Strategi,4.136111111111111,805,147.0,39.0,186.0
+Cleaning & Household,Mortein,4.2,535,124.5,67.0,191.5
+Cleaning & Household,Godrej Protekt,4.1230769230769235,661,150.0,47.0,197.0
+Cleaning & Household,Giffy,4.375,240,54.5,146.0,200.5
+Cleaning & Household,All Out,4.1899999999999995,505,131.0,70.5,201.5
+Cleaning & Household,Apsara,4.3,290,76.0,126.0,202.0
+Cleaning & Household,Gou Ganga,4.133333333333334,621,148.0,55.0,203.0
+Cleaning & Household,Germisol,4.3,287,76.0,128.0,204.0
+Cleaning & Household,Ujala,4.3999999999999995,230,51.5,153.0,204.5
+Cleaning & Household,RED LINE,5.0,139,7.5,199.0,206.5
+Cleaning & Household,Milton,4.16,505,139.0,70.5,209.5
+Cleaning & Household,Soulflower,4.1,1087,182.5,27.0,209.5
+Cleaning & Household,Hi-clean,5.0,135,7.5,203.0,210.5
+Cleaning & Household,Odomos,4.279999999999999,306,91.5,119.0,210.5
+Cleaning & Household,Comfort,4.220000000000001,384,116.5,95.5,212.0
+Cleaning & Household,Paseo,4.185714285714286,459,135.5,79.0,214.5
+Cleaning & Household,Domex,4.1875,454,133.0,82.0,215.0
+Cleaning & Household,Ravi Agencies,4.222222222222222,373,115.0,101.0,216.0
+Cleaning & Household,Smart Home,4.15,467,142.0,78.0,220.0
+Cleaning & Household,Glade,4.175,401,137.5,92.0,229.5
+Cleaning & Household,Hankley,4.75,120,20.0,210.0,230.0
+Cleaning & Household,SOVI,4.66,122,25.0,207.5,232.5
+Cleaning & Household,Odonil ,4.086666666666667,1436,214.0,19.0,233.0
+Cleaning & Household,Softouch,4.185714285714286,376,135.5,99.0,234.5
+Cleaning & Household,bb Combo,4.047674418604651,2230,227.0,9.0,236.0
+Cleaning & Household,Henko,4.125,407,149.0,90.5,239.5
+Cleaning & Household,Meixiang,4.3,192,76.0,163.5,239.5
+Cleaning & Household,Wheel ,4.366666666666667,160,57.0,183.0,240.0
+Cleaning & Household,Origami,4.0608695652173905,1248,220.0,21.0,241.0
+Cleaning & Household,Nataraj,4.24,270,110.0,133.0,243.0
+Cleaning & Household,Safewash,4.279999999999999,231,91.5,151.5,243.0
+Cleaning & Household,Godrej,4.3,188,76.0,167.5,243.5
+Cleaning & Household,Veggie Clean,4.633333333333333,112,27.0,217.5,244.5
+Cleaning & Household,ZEISS,4.3500000000000005,153,58.0,187.5,245.5
+Cleaning & Household,Stonesoup,4.25,255,106.0,140.5,246.5
+Cleaning & Household,Good knight,4.008333333333334,1575,231.0,16.0,247.0
+Cleaning & Household,Wc Net,4.1,537,182.5,66.0,248.5
+Cleaning & Household,Om Bhakti,4.275,194,93.5,160.5,254.0
+Cleaning & Household,Chuk,4.14,340,145.0,110.0,255.0
+Cleaning & Household,Ajax,4.9,95,15.0,241.0,256.0
+Cleaning & Household,Scrubit,4.55,108,31.0,225.5,256.5
+Cleaning & Household,Berger BreatheEasy,5.0,91,7.5,253.0,260.5
+Cleaning & Household,Moksh,4.35,136,59.5,201.0,260.5
+Cleaning & Household,Robin,4.433333333333334,112,43.0,217.5,260.5
+Cleaning & Household,Maruti,4.45,110,41.5,221.5,263.0
+Cleaning & Household,Scotch brite,3.989130434782609,2725,257.0,6.0,263.0
+Cleaning & Household,Pitambari,4.266666666666667,186,97.0,169.0,266.0
+Cleaning & Household,Fortune ,4.275,180,93.5,173.0,266.5
+Cleaning & Household,Dishmatic,4.1,437,182.5,85.0,267.5
+Cleaning & Household,Vanish,4.35,118,59.5,212.0,271.5
+Cleaning & Household,Flair,4.0636363636363635,632,219.0,53.0,272.0
+Cleaning & Household,NSH,4.4,107,48.0,227.0,275.0
+Cleaning & Household,Hi-Fresh,4.175,262,137.5,138.0,275.5
+Cleaning & Household,Sunty,4.1,398,182.5,93.0,275.5
+Cleaning & Household,Shalimar,4.08,574,215.0,62.0,277.0
+Cleaning & Household,Camlin,4.1,384,182.5,95.5,278.0
+Cleaning & Household,JK Copier,4.4,101,48.0,231.0,279.0
+Cleaning & Household,Dheepam,4.4,100,48.0,232.5,280.5
+Cleaning & Household,Aer,3.9432432432432436,1703,267.0,14.0,281.0
+Cleaning & Household,Baygon,4.066666666666666,546,217.0,64.0,281.0
+Cleaning & Household,Ratan,3.9224489795918367,2276,273.0,8.0,281.0
+Cleaning & Household,Pure Wipes,5.0,77,7.5,275.0,282.5
+Cleaning & Household,Smac,4.1,374,182.5,100.0,282.5
+Cleaning & Household,Ravi,3.994444444444445,998,255.0,29.0,284.0
+Cleaning & Household,Cif,4.2,194,124.5,160.5,285.0
+Cleaning & Household,Glad,4.2,194,124.5,160.5,285.0
+Cleaning & Household,York,3.960869565217391,1179,262.0,24.0,286.0
+Cleaning & Household,Emami,4.1,354,182.5,106.5,289.0
+Cleaning & Household,Ambica,4.6,87,29.5,260.0,289.5
+Cleaning & Household,Faber castell,3.9923076923076923,866,256.0,35.0,291.0
+Cleaning & Household,Rorito,4.220000000000001,174,116.5,175.0,291.5
+Cleaning & Household,TYDIBOWL,4.65,83,26.0,265.5,291.5
+Cleaning & Household,Wild Ideas,4.0875,457,212.0,80.5,292.5
+Cleaning & Household,The Better Home,4.25,153,106.0,187.5,293.5
+Cleaning & Household,HAZEL,3.95,922,264.5,33.0,297.5
+Cleaning & Household,Love In Life,4.7,77,23.0,275.0,298.0
+Cleaning & Household,Stationari+,4.1,326,182.5,115.5,298.0
+Cleaning & Household,Gala,3.725,3019,303.0,4.0,307.0
+Cleaning & Household,Nakoda,3.723076923076923,4827,305.0,2.0,307.0
+Cleaning & Household,Multix,4.5,79,36.5,271.0,307.5
+Cleaning & Household,Goli Soda,5.0,64,7.5,300.5,308.0
+Cleaning & Household,QIPS,5.0,62,7.5,303.0,310.5
+Cleaning & Household,KM,4.266666666666667,113,97.0,215.0,312.0
+Cleaning & Household,Green Shield,4.1,281,182.5,131.0,313.5
+Cleaning & Household,Cello,3.804761904761905,1203,292.0,23.0,315.0
+Cleaning & Household,Swastik,3.96,635,263.0,52.0,315.0
+Cleaning & Household,Lifebuoy,4.2,147,124.5,192.5,317.0
+Cleaning & Household,Kangaro,4.7,66,23.0,295.0,318.0
+Cleaning & Household,Peebuddy,4.1,268,182.5,136.0,318.5
+Cleaning & Household,Air wick,3.783333333333333,1217,297.0,22.0,319.0
+Cleaning & Household,Savlon,4.375,83,54.5,265.5,320.0
+Cleaning & Household,Healing Touch,5.0,54,7.5,314.0,321.5
+Cleaning & Household,ARNIGO,4.1,254,182.5,142.5,325.0
+Cleaning & Household,Good Home,3.936363636363636,604,268.0,57.0,325.0
+Cleaning & Household,Moskito Safe,4.1000000000000005,179,152.5,174.0,326.5
+Cleaning & Household,Rise N Shine,3.9066666666666667,639,276.0,50.5,326.5
+Cleaning & Household,Oddy ,4.022222222222222,379,229.0,98.0,327.0
+Cleaning & Household,Zermisol,4.25,110,106.0,221.5,327.5
+Cleaning & Household,SANIFRESH,4.2,134,124.5,205.0,329.5
+Cleaning & Household,Blor,5.0,49,7.5,323.5,331.0
+Cleaning & Household,Release on,5.0,49,7.5,323.5,331.0
+Cleaning & Household,Ayurvedic Technology,4.5,66,36.5,295.0,331.5
+Cleaning & Household,Cherry Blossom,4.0,407,243.0,90.5,333.5
+Cleaning & Household,B Vishal,3.7111111111111112,1101,308.0,26.0,334.0
+Cleaning & Household,Big D,4.25,106,106.0,228.5,334.5
+Cleaning & Household,Yagna,4.5,65,36.5,298.0,334.5
+Cleaning & Household,Soft Touch,3.925,550,272.0,63.0,335.0
+Cleaning & Household,Solo,4.4,69,48.0,287.0,335.0
+Cleaning & Household,Bodyguard,3.7714285714285714,801,298.0,40.0,338.0
+Cleaning & Household,KeepSafe by Marico,4.25,100,106.0,232.5,338.5
+Cleaning & Household,Murugesan,4.4,67,48.0,291.5,339.5
+Cleaning & Household,B2B,5.0,42,7.5,332.5,340.0
+Cleaning & Household,HIT,4.0874999999999995,287,213.0,128.0,341.0
+Cleaning & Household,Trm,3.6954545454545453,1126,318.0,25.0,343.0
+Cleaning & Household,Exit No Entry,4.25,96,106.0,238.0,344.0
+Cleaning & Household,Asahikasei,4.05,296,224.0,122.0,346.0
+Cleaning & Household,GOPURAM,4.3,79,76.0,271.0,347.0
+Cleaning & Household,Princeware,3.584848484848485,1820,336.0,11.0,347.0
+Cleaning & Household,Crystale,4.1,191,182.5,165.0,347.5
+Cleaning & Household,Brother,5.0,33,7.5,341.5,349.0
+Cleaning & Household,Fackelmann,4.1,188,182.5,167.5,350.0
+Cleaning & Household,Premier,4.0375,294,228.0,124.0,352.0
+Cleaning & Household,GIRI,3.7545454545454544,629,299.0,54.0,353.0
+Cleaning & Household,Bella,4.3,76,76.0,278.0,354.0
+Cleaning & Household,KCL,4.1,181,182.5,172.0,354.5
+Cleaning & Household,Hm International,3.4857142857142853,1686,343.0,15.0,358.0
+Cleaning & Household,Luxor,3.6149999999999998,992,327.0,31.0,358.0
+Cleaning & Household,Magix,3.4317073170731707,2140,348.0,10.0,358.0
+Cleaning & Household,Maya,4.1,170,182.5,176.0,358.5
+Cleaning & Household,Balaji foods,4.3,71,76.0,284.0,360.0
+Cleaning & Household,Genteel,4.25,90,106.0,255.0,361.0
+Cleaning & Household,Excel Plus,3.966666666666667,371,260.0,102.0,362.0
+Cleaning & Household,CamPure,3.6714285714285713,690,320.0,45.0,365.0
+Cleaning & Household,Fairy,4.1,160,182.5,183.0,365.5
+Cleaning & Household,Home Mate,3.8666666666666663,469,290.0,77.0,367.0
+Cleaning & Household,ATOMIC,4.1,157,182.5,185.0,367.5
+Cleaning & Household,Ujala Supreme,4.45,48,41.5,326.0,367.5
+Cleaning & Household,ELBOW GREASE,4.1,152,182.5,189.0,371.5
+Cleaning & Household,BIC Cello,4.016666666666667,254,230.0,142.5,372.5
+Cleaning & Household,Ponvandu,4.8,26,18.0,354.5,372.5
+Cleaning & Household,Mangalam,4.3,65,76.0,298.0,374.0
+Cleaning & Household,Shubhkart,3.7199999999999998,519,307.0,69.0,376.0
+Cleaning & Household,SCURE,4.1,141,182.5,198.0,380.5
+Cleaning & Household,Aristo,3.2357142857142853,1401,361.0,20.0,381.0
+Cleaning & Household,Dabur,3.9333333333333336,335,270.0,111.0,381.0
+Cleaning & Household,Godrej Proclean,4.1000000000000005,106,152.5,228.5,381.0
+Cleaning & Household,Bloo,3.433333333333333,861,347.0,36.0,383.0
+Cleaning & Household,Mamaearth,3.975,292,258.0,125.0,383.0
+Cleaning & Household,Good Luck,4.3,59,76.0,307.5,383.5
+Cleaning & Household,SHAMROCK,3.909090909090909,347,275.0,109.0,384.0
+Cleaning & Household,Colin,3.85,385,291.0,94.0,385.0
+Cleaning & Household,Dell,4.1,135,182.5,203.0,385.5
+Cleaning & Household,JOYO,3.6357142857142857,582,325.0,61.0,386.0
+Cleaning & Household,Maxkleen,4.0,241,243.0,145.0,388.0
+Cleaning & Household,Zebronics,4.1,129,182.5,206.0,388.5
+Cleaning & Household,Vijay,3.9,353,281.5,108.0,389.5
+Cleaning & Household,Revive,4.3,54,76.0,314.0,390.0
+Cleaning & Household,Sabena,4.3,52,76.0,317.5,393.5
+Cleaning & Household,Absorb-It,4.7,13,23.0,371.5,394.5
+Cleaning & Household,Qiaofeng,4.1,115,182.5,213.0,395.5
+Cleaning & Household,Wipro,4.233333333333333,70,111.0,286.0,397.0
+Cleaning & Household,Citrus Plus,4.3,50,76.0,321.5,397.5
+Cleaning & Household,Love & Care,4.3,50,76.0,321.5,397.5
+Cleaning & Household,Pahal,3.4299999999999997,639,349.0,50.5,399.5
+Cleaning & Household,Parksons,3.9333333333333336,282,270.0,130.0,400.0
+Cleaning & Household,Jaji,3.9499999999999997,269,266.0,134.5,400.5
+Cleaning & Household,Trident Spectra,4.6,13,29.5,371.5,401.0
+Cleaning & Household,Diyaz,3.87,328,288.0,113.5,401.5
+Cleaning & Household,Porna,4.3,48,76.0,326.0,402.0
+Cleaning & Household,Ambi pur,3.7409090909090907,364,301.0,103.0,404.0
+Cleaning & Household,Bhavi,4.5,16,36.5,368.0,404.5
+Cleaning & Household,Faultless,4.05,162,224.0,180.5,404.5
+Cleaning & Household,Spring Fest,4.05,162,224.0,180.5,404.5
+Cleaning & Household,Gebi ,3.744444444444444,359,300.0,105.0,405.0
+Cleaning & Household,Nimeasy,4.5,14,36.5,370.0,406.5
+Cleaning & Household,Good Morning,4.15,82,142.0,267.5,409.5
+Cleaning & Household,Polyset,3.358333333333333,583,350.0,60.0,410.0
+Cleaning & Household,Mukund,4.5,11,36.5,374.0,410.5
+Cleaning & Household,Kuxuna,4.3,40,76.0,335.0,411.0
+Cleaning & Household,Sterling,3.6625,411,322.0,89.0,411.0
+Cleaning & Household,Sofia,4.5,10,36.5,376.5,413.0
+Cleaning & Household,Freshee,3.6333333333333333,415,326.0,87.5,413.5
+Cleaning & Household,Abzorb-It,4.050000000000001,143,221.0,196.5,417.5
+Cleaning & Household,Bharath Brand,4.1,96,182.5,238.0,420.5
+Cleaning & Household,VITRO,4.0,169,243.0,177.5,420.5
+Cleaning & Household,Aaniya,4.15,75,142.0,279.0,421.0
+Cleaning & Household,Aarika,3.95,196,264.5,157.0,421.5
+Cleaning & Household,Sln  ,3.72,322,306.0,117.0,423.0
+Cleaning & Household,Maylo,4.1,95,182.5,241.0,423.5
+Cleaning & Household,SBE,3.9333333333333336,198,270.0,156.0,426.0
+Cleaning & Household,Logitech,4.1,94,182.5,244.0,426.5
+Cleaning & Household,Oral-B,4.1,94,182.5,244.0,426.5
+Cleaning & Household,V2,4.1,94,182.5,244.0,426.5
+Cleaning & Household,Arham,3.9200000000000004,223,274.0,154.0,428.0
+Cleaning & Household,Dr. Beckmann,4.1,93,182.5,247.0,429.5
+Cleaning & Household,Om sri Kar,3.9,236,281.5,148.0,429.5
+Cleaning & Household,Floroma,3.8000000000000003,266,293.0,137.0,430.0
+Cleaning & Household,Natraj,3.642857142857143,354,324.0,106.5,430.5
+Cleaning & Household,Omino Bianco,4.1,92,182.5,250.0,432.5
+Cleaning & Household,Darshi,4.3,23,76.0,357.5,433.5
+Cleaning & Household,Creightons,4.1,91,182.5,253.0,435.5
+Cleaning & Household,Shout,4.1,91,182.5,253.0,435.5
+Cleaning & Household,Veg Wash +,4.3,22,76.0,359.5,435.5
+Cleaning & Household,Kangaroo,3.9,220,281.5,155.0,436.5
+Cleaning & Household,Patanjali,4.3,21,76.0,362.0,438.0
+Cleaning & Household,Maxo,4.066666666666666,110,217.0,221.5,438.5
+Cleaning & Household,Milton - Spotzero,3.35,415,351.0,87.5,438.5
+Cleaning & Household,Nature Protect,3.9,195,281.5,158.0,439.5
+Cleaning & Household,Vitro Naturals ,4.0,137,243.0,200.0,443.0
+Cleaning & Household,Frestol,3.2285714285714286,443,362.0,83.0,445.0
+Cleaning & Household,Peesafe,4.3,15,76.0,369.0,445.0
+Cleaning & Household,Good maid,3.875,194,287.0,160.5,447.5
+Cleaning & Household,Nimwash,3.733333333333333,234,302.0,149.0,451.0
+Cleaning & Household,Wonder,3.966666666666667,148,260.0,191.0,451.0
+Cleaning & Household,Wonder Fresh ,3.177777777777778,428,365.0,86.0,451.0
+Cleaning & Household,Shengyi,4.1,77,182.5,275.0,457.5
+Cleaning & Household,Clean N Fresh,4.0,113,243.0,215.0,458.0
+Cleaning & Household,All Time,3.4799999999999995,328,345.0,113.5,458.5
+Cleaning & Household,Azafran,4.2,41,124.5,334.0,458.5
+Cleaning & Household,Priya Brand,4.3,6,76.0,383.0,459.0
+Cleaning & Household,The Green.Company,3.9,169,281.5,177.5,459.0
+Cleaning & Household,Pearl Luxury,3.483333333333333,314,344.0,118.0,462.0
+Cleaning & Household,Hindalco,4.1,74,182.5,280.0,462.5
+Cleaning & Household,Bacto-V,4.1,73,182.5,281.5,464.0
+Cleaning & Household,Ullas,4.2,35,124.5,339.5,464.0
+Cleaning & Household,Ambipur,4.0,110,243.0,221.5,464.5
+Cleaning & Household,Jai Veer,2.711111111111111,439,382.0,84.0,466.0
+Cleaning & Household,Omega,3.675,231,319.0,151.5,470.5
+Cleaning & Household,SSS,4.2,31,124.5,346.0,470.5
+Cleaning & Household,Brasso,4.1,68,182.5,288.5,471.0
+Cleaning & Household,Saura,4.1,68,182.5,288.5,471.0
+Cleaning & Household,Seven,4.0,103,243.0,230.0,473.0
+Cleaning & Household,Mugi Fresh,4.2,29,124.5,349.5,474.0
+Cleaning & Household,Liberty,3.042857142857143,363,371.0,104.0,475.0
+Cleaning & Household,Mr. Boss,3.6142857142857143,237,328.0,147.0,475.0
+Cleaning & Household,Schevaran,4.0,99,243.0,235.0,478.0
+Cleaning & Household,Godya,3.8666666666666667,147,289.0,192.5,481.5
+Cleaning & Household,Raju Candles,3.22,301,363.0,120.5,483.5
+Cleaning & Household,Ultra,4.2,22,124.5,359.5,484.0
+Cleaning & Household,ULLAS VIVIDHA,4.1,63,182.5,302.0,484.5
+Cleaning & Household,Bubblenut Wash,3.47,255,346.0,140.5,486.5
+Cleaning & Household,Canopus,4.1,61,182.5,305.0,487.5
+Cleaning & Household,Clean & Fresh,4.1,61,182.5,305.0,487.5
+Cleaning & Household,Poo-Pourri,4.1,57,182.5,310.5,493.0
+Cleaning & Household,Ezee Alka,3.7249999999999996,150,304.0,190.0,494.0
+Cleaning & Household,Febreze,4.1,52,182.5,317.5,500.0
+Cleaning & Household,Raju's Cloth,3.033333333333333,287,372.0,128.0,500.0
+Cleaning & Household,Reynolds,3.6666666666666665,163,321.0,179.0,500.0
+Cleaning & Household,Prozo Plus,3.55,192,338.5,163.5,502.0
+Cleaning & Household,Scotchgard,3.6,184,332.0,170.5,502.5
+Cleaning & Household,Dr. Morepen,4.0,86,243.0,261.5,504.5
+Cleaning & Household,Pledge,4.0,85,243.0,263.5,506.5
+Cleaning & Household,Samsung,4.1,48,182.5,326.0,508.5
+Cleaning & Household,Polyguards,3.257142857142857,232,360.0,150.0,510.0
+Cleaning & Household,Veg Fru Wash,4.1,47,182.5,328.0,510.5
+Cleaning & Household,Mr. White,4.2,3,124.5,386.5,511.0
+Cleaning & Household,Re,4.1,45,182.5,330.5,513.0
+Cleaning & Household,Morelight,4.2,1,124.5,389.5,514.0
+Cleaning & Household,Oasis,4.0,79,243.0,271.0,514.0
+Cleaning & Household,Dash,3.0,257,375.5,139.0,514.5
+Cleaning & Household,Kores,4.066666666666666,65,217.0,298.0,515.0
+Cleaning & Household,Kvg,3.9,99,281.5,235.0,516.5
+Cleaning & Household,Caremate,4.1,38,182.5,336.0,518.5
+Cleaning & Household,Homizol,3.3333333333333335,184,353.0,170.5,523.5
+Cleaning & Household,Kiara Foods,4.1,32,182.5,343.5,526.0
+Cleaning & Household,M Stick,4.0,71,243.0,284.0,527.0
+Cleaning & Household,Kasturi,4.1,31,182.5,346.0,528.5
+Cleaning & Household,365,4.1,30,182.5,348.0,530.5
+Cleaning & Household,Royal Touch,3.9,92,281.5,250.0,531.5
+Cleaning & Household,Krazy Lines,3.5666666666666664,143,337.0,196.5,533.5
+Cleaning & Household,LG,4.0,67,243.0,291.5,534.5
+Cleaning & Household,Mr Nomo,4.1,27,182.5,352.0,534.5
+Cleaning & Household,Corsafe Advance,4.1,26,182.5,354.5,537.0
+Cleaning & Household,Merito,4.1,21,182.5,362.0,544.5
+Cleaning & Household,GOTILE,4.1,19,182.5,364.5,547.0
+Cleaning & Household,Apex,3.9,82,281.5,267.5,549.0
+Cleaning & Household,Mikado's,3.325,144,354.0,195.0,549.0
+Cleaning & Household,Jianan,4.1,17,182.5,367.0,549.5
+Cleaning & Household,Boing,3.3,146,356.0,194.0,550.0
+Cleaning & Household,Venyaa,3.9,81,281.5,269.0,550.5
+Cleaning & Household,Hygienix,3.8,89,295.0,256.5,551.5
+Cleaning & Household,Yardley London,4.0,58,243.0,309.0,552.0
+Cleaning & Household,Laplast,3.15,156,366.5,186.0,552.5
+Cleaning & Household,Adithya,4.0,55,243.0,312.0,555.0
+Cleaning & Household,Catche,3.966666666666667,66,260.0,295.0,555.0
+Cleaning & Household,Odopic,4.1,11,182.5,374.0,556.5
+Cleaning & Household,Yashoda ,3.7,93,313.0,247.0,560.0
+Cleaning & Household,IRICH,3.65,96,323.0,238.0,561.0
+Cleaning & Household,Pilot,3.266666666666667,135,358.5,203.0,561.5
+Cleaning & Household,Mystique,3.3499999999999996,120,352.0,210.0,562.0
+Cleaning & Household,Metro,4.1,8,182.5,380.0,562.5
+Cleaning & Household,Cot Mate,4.1,7,182.5,381.5,564.0
+Cleaning & Household,SRS,3.55,108,338.5,225.5,564.0
+Cleaning & Household,ECO365,2.6666666666666665,160,383.0,183.0,566.0
+Cleaning & Household,Bittoo Tealight,4.1,3,182.5,386.5,569.0
+Cleaning & Household,Unik Home,4.1,1,182.5,389.5,572.0
+Cleaning & Household,Godrej Aer,3.125,122,368.0,207.5,575.5
+Cleaning & Household,Gomutra,4.0,42,243.0,332.5,575.5
+Cleaning & Household,Germi Chek,4.05,27,224.0,352.0,576.0
+Cleaning & Household,Sidhi,3.6,93,332.0,247.0,579.0
+Cleaning & Household,Evo bond,4.05,24,224.0,356.0,580.0
+Cleaning & Household,R.E Camphor,3.3,109,356.0,224.0,580.0
+Cleaning & Household,Montex,3.6,92,332.0,250.0,582.0
+Cleaning & Household,Bodysoul,3.0,120,375.5,210.0,585.5
+Cleaning & Household,Yellow Spark,4.0,32,243.0,343.5,586.5
+Cleaning & Household,Paperkraft,3.1,111,369.5,219.0,588.5
+Cleaning & Household,Ok,4.0,31,243.0,346.0,589.0
+Cleaning & Household,Khushbu,4.0,29,243.0,349.5,592.5
+Cleaning & Household,MVS,2.9,113,379.5,215.0,594.5
+Cleaning & Household,Astonish,4.0,27,243.0,352.0,595.0
+Cleaning & Household,Smell Fresh,3.7,71,313.0,284.0,597.0
+Cleaning & Household,Runaway,3.266666666666667,95,358.5,241.0,599.5
+Cleaning & Household,Goodluck,4.0,23,243.0,357.5,600.5
+Cleaning & Household,Raho Safe,3.15,99,366.5,235.0,601.5
+Cleaning & Household,Renew Air,3.7,67,313.0,291.5,604.5
+Cleaning & Household,Homey Home Fresh,4.0,21,243.0,362.0,605.0
+Cleaning & Household,Beeta,3.8,57,295.0,310.5,605.5
+Cleaning & Household,Post-It,3.5,77,341.0,275.0,616.0
+Cleaning & Household,Asthagandha,4.0,9,243.0,378.5,621.5
+Cleaning & Household,Klassic,3.2,88,364.0,258.5,622.5
+Cleaning & Household,Manju,3.6,67,332.0,291.5,623.5
+Cleaning & Household,Sanitt,3.7,54,313.0,314.0,627.0
+Cleaning & Household,Indian,3.7,52,313.0,317.5,630.5
+Cleaning & Household,Aarna,3.1,86,369.5,261.5,631.0
+Cleaning & Household,Morisons ,3.0,89,375.5,256.5,632.0
+Cleaning & Household,Unique Arts & Interiors,3.9,19,281.5,364.5,646.0
+Cleaning & Household,Ciplaplast,1.0,88,390.0,258.5,648.5
+Cleaning & Household,Ifb,2.5,85,385.0,263.5,648.5
+Cleaning & Household,Maped ,3.5,59,341.0,307.5,648.5
+Cleaning & Household,SKI,3.0,73,375.5,281.5,657.0
+Cleaning & Household,Clean Planet,2.5,77,385.0,275.0,660.0
+Cleaning & Household,Copy Gold,3.6,46,332.0,329.0,661.0
+Cleaning & Household,Parkash Candles,3.6,35,332.0,339.5,671.5
+Cleaning & Household,DND,3.8,7,295.0,381.5,676.5
+Cleaning & Household,Prestige,3.5,36,341.0,338.0,679.0
+Cleaning & Household,Scotch,3.7,18,313.0,366.0,679.0
+Cleaning & Household,Amrutha,3.7,10,313.0,376.5,689.5
+Cleaning & Household,Orpat,2.5,61,385.0,305.0,690.0
+Cleaning & Household,Panasonic,1.0,64,390.0,300.5,690.5
+Cleaning & Household,Ego of Paris,3.0,51,375.5,320.0,695.5
+Cleaning & Household,JK,3.7,5,313.0,384.0,697.0
+Cleaning & Household,Reliance,2.8,52,381.0,317.5,698.5
+Cleaning & Household,Feel Fresh,3.7,1,313.0,389.5,702.5
+Cleaning & Household,Cleox,1.0,45,390.0,330.5,720.5
+Cleaning & Household,Asian,3.6,1,332.0,389.5,721.5
+Cleaning & Household,LimeLite,2.0,37,387.5,337.0,724.5
+Cleaning & Household,Dr. Vaidya's,2.0,33,387.5,341.5,729.0
+Cleaning & Household,Spark,3.3,9,356.0,378.5,734.5
+Cleaning & Household,Real,2.9,11,379.5,374.0,753.5
+Cleaning & Household,Saafoo,3.0,4,375.5,385.0,760.5
+"Eggs, Meat & Fish",Fresho Signature,4.2,1522,4.5,2.0,6.5
+"Eggs, Meat & Fish",Meatzza,4.3,1076,3.0,4.0,7.0
+"Eggs, Meat & Fish",Golden Prize,4.2,810,4.5,7.0,11.5
+"Eggs, Meat & Fish",Bon Appetit,4.5,377,1.0,14.0,15.0
+"Eggs, Meat & Fish",Republic of Chicken,4.4,252,2.0,19.0,21.0
+"Eggs, Meat & Fish",Fresho,4.0,3328,23.0,1.0,24.0
+"Eggs, Meat & Fish",bb Combo,4.05,270,7.5,17.0,24.5
+"Eggs, Meat & Fish",La Carne,4.0,1305,23.0,3.0,26.0
+"Eggs, Meat & Fish",H.S. Dry Fish,4.0,920,23.0,5.0,28.0
+"Eggs, Meat & Fish",Gadre,4.0,852,23.0,6.0,29.0
+"Eggs, Meat & Fish",Seastar,4.0,548,23.0,9.0,32.0
+"Eggs, Meat & Fish",Big Sams,4.0,439,23.0,11.0,34.0
+"Eggs, Meat & Fish",Tannys,4.0,432,23.0,12.0,35.0
+"Eggs, Meat & Fish",Abbies,4.05,89,7.5,30.0,37.5
+"Eggs, Meat & Fish",Zorabian,4.0,356,23.0,15.0,38.0
+"Eggs, Meat & Fish",ITC Master Chef,4.0,278,23.0,16.0,39.0
+"Eggs, Meat & Fish",Mpm,4.0,264,23.0,18.0,41.0
+"Eggs, Meat & Fish",ALF-FARMS,4.0,251,23.0,20.0,43.0
+"Eggs, Meat & Fish",Desi,4.1,42,6.0,38.0,44.0
+"Eggs, Meat & Fish",Prasuma,4.0,243,23.0,21.0,44.0
+"Eggs, Meat & Fish",Premier,4.0,237,23.0,22.0,45.0
+"Eggs, Meat & Fish",Best,4.0,213,23.0,24.0,47.0
+"Eggs, Meat & Fish",Blue Flame,4.0,177,23.0,25.0,48.0
+"Eggs, Meat & Fish",Indofish,4.0,148,23.0,26.0,49.0
+"Eggs, Meat & Fish",Britte ,4.0,147,23.0,27.0,50.0
+"Eggs, Meat & Fish",Ifb,2.5,588,42.0,8.0,50.0
+"Eggs, Meat & Fish",UPF,4.0,135,23.0,28.0,51.0
+"Eggs, Meat & Fish",CP EVERYDAY,4.0,120,23.0,29.0,52.0
+"Eggs, Meat & Fish",Tasty Nibbles,3.8499999999999996,391,40.0,13.0,53.0
+"Eggs, Meat & Fish",Farm Made,4.0,82,23.0,31.0,54.0
+"Eggs, Meat & Fish",Quickee'S,2.3,503,44.0,10.0,54.0
+"Eggs, Meat & Fish",Ayur,4.0,78,23.0,32.0,55.0
+"Eggs, Meat & Fish",Meisterwurst,4.0,63,23.0,34.0,57.0
+"Eggs, Meat & Fish",Happy Hens Farms,4.0,60,23.0,35.0,58.0
+"Eggs, Meat & Fish",Ayur Plus,4.0,53,23.0,36.0,59.0
+"Eggs, Meat & Fish",Hita Farms,4.0,50,23.0,37.0,60.0
+"Eggs, Meat & Fish",Buffet ,3.85,235,39.0,23.0,62.0
+"Eggs, Meat & Fish",Pure South,4.0,38,23.0,39.0,62.0
+"Eggs, Meat & Fish",Saffa,4.0,34,23.0,40.0,63.0
+"Eggs, Meat & Fish",Ayur Egg,4.0,30,23.0,41.0,64.0
+"Eggs, Meat & Fish",Just Laid,4.0,23,23.0,42.0,65.0
+"Eggs, Meat & Fish",sumeru,3.9,66,38.0,33.0,71.0
+"Eggs, Meat & Fish",Yummiez,3.8,1,41.0,44.0,85.0
+"Eggs, Meat & Fish",Elicious ,2.45,19,43.0,43.0,86.0
+"Foodgrains, Oil & Masala",Earthon,4.3954545454545455,2371,26.0,11.0,37.0
+"Foodgrains, Oil & Masala",Everest,4.247222222222223,1964,53.0,15.0,68.0
+"Foodgrains, Oil & Masala",Tata Sampann,4.233333333333333,1879,54.5,17.0,71.5
+"Foodgrains, Oil & Masala",Phalada Pure & Sure,4.208888888888889,2185,63.0,13.0,76.0
+"Foodgrains, Oil & Masala",Marudhar,4.231578947368422,1074,56.0,30.0,86.0
+"Foodgrains, Oil & Masala",Sugar free,4.264705882352941,814,48.0,40.0,88.0
+"Foodgrains, Oil & Masala",Patanjali,4.252941176470588,799,49.0,41.0,90.0
+"Foodgrains, Oil & Masala",ella Spices,5.0,251,5.5,87.0,92.5
+"Foodgrains, Oil & Masala",Hakim,4.211764705882352,944,61.0,34.0,95.0
+"Foodgrains, Oil & Masala",Sundrop,4.269230769230769,675,46.0,49.0,95.0
+"Foodgrains, Oil & Masala",Catch,4.166666666666667,2534,90.5,10.0,100.5
+"Foodgrains, Oil & Masala",Annapoorna,4.205882352941177,874,64.0,37.0,101.0
+"Foodgrains, Oil & Masala",Grb,4.34,356,29.0,73.0,102.0
+"Foodgrains, Oil & Masala",MTR,4.181481481481481,1479,86.0,22.0,108.0
+"Foodgrains, Oil & Masala",Turn Organic ,4.152631578947369,2133,96.0,14.0,110.0
+"Foodgrains, Oil & Masala",Valley Spice,4.195454545454545,1322,84.0,26.0,110.0
+"Foodgrains, Oil & Masala",Smith & Jones,4.4,242,23.0,90.0,113.0
+"Foodgrains, Oil & Masala",Keya,4.130120481927711,4590,113.0,2.0,115.0
+"Foodgrains, Oil & Masala",JK,4.2,743,74.0,44.5,118.5
+"Foodgrains, Oil & Masala",Tata Salt,4.216666666666667,473,59.5,59.0,118.5
+"Foodgrains, Oil & Masala",Double Horse,4.158064516129032,1331,94.0,25.0,119.0
+"Foodgrains, Oil & Masala",Aashirvaad,4.162962962962963,1210,92.0,28.0,120.0
+"Foodgrains, Oil & Masala",Nature Way,4.3,270,38.5,82.0,120.5
+"Foodgrains, Oil & Masala",Sakthi,4.211111111111111,447,62.0,61.0,123.0
+"Foodgrains, Oil & Masala",Wingreens Farms,4.466666666666667,170,17.0,107.5,124.5
+"Foodgrains, Oil & Masala",Mdh,4.134146341463414,1923,109.0,16.0,125.0
+"Foodgrains, Oil & Masala",HappyChef,4.2,522,74.0,55.0,129.0
+"Foodgrains, Oil & Masala",Cambay Tiger,5.0,139,5.5,125.0,130.5
+"Foodgrains, Oil & Masala",Sunshine Farm,4.5,159,14.5,116.0,130.5
+"Foodgrains, Oil & Masala",Aachi,4.143478260869565,1267,107.0,27.0,134.0
+"Foodgrains, Oil & Masala",Graminway,4.2,429,74.0,62.0,136.0
+"Foodgrains, Oil & Masala",Samvuddhi & Co,4.45,146,18.5,119.0,137.5
+"Foodgrains, Oil & Masala",Manna ,4.157142857142857,754,95.0,43.0,138.0
+"Foodgrains, Oil & Masala",Saffola,4.183333333333334,584,85.0,53.0,138.0
+"Foodgrains, Oil & Masala",Nirapara,4.131818181818182,1110,112.0,29.0,141.0
+"Foodgrains, Oil & Masala",Emami,4.3,182,38.5,103.0,141.5
+"Foodgrains, Oil & Masala",Klf ,4.18,545,87.5,54.0,141.5
+"Foodgrains, Oil & Masala",Pavizham,4.4,144,23.0,120.0,143.0
+"Foodgrains, Oil & Masala",Eastern,4.075,3054,140.5,5.0,145.5
+"Foodgrains, Oil & Masala",Nourish You,4.35,152,27.5,118.0,145.5
+"Foodgrains, Oil & Masala",Rooted Peepul,5.0,115,5.5,141.5,147.0
+"Foodgrains, Oil & Masala",Snapin,4.1173913043478265,973,115.0,33.0,148.0
+"Foodgrains, Oil & Masala",24 Mantra,4.055,3999,146.0,4.0,150.0
+"Foodgrains, Oil & Masala",Draft,4.4,129,23.0,130.5,153.5
+"Foodgrains, Oil & Masala",Aashirvaad Svasti,4.45,122,18.5,137.0,155.5
+"Foodgrains, Oil & Masala",Amul,4.171428571428572,401,89.0,68.0,157.0
+"Foodgrains, Oil & Masala",Fortune ,4.1466666666666665,599,106.0,52.0,158.0
+"Foodgrains, Oil & Masala",Oleev,4.1625,422,93.0,65.0,158.0
+"Foodgrains, Oil & Masala",MAGGI ,4.300000000000001,132,30.5,128.0,158.5
+"Foodgrains, Oil & Masala",Kohinoor,4.053488372093023,2284,147.0,12.0,159.0
+"Foodgrains, Oil & Masala",The Spice Club,4.2,244,74.0,89.0,163.0
+"Foodgrains, Oil & Masala",bb Royal,4.024,26687,162.0,1.0,163.0
+"Foodgrains, Oil & Masala",AMADO,5.0,83,5.5,158.0,163.5
+"Foodgrains, Oil & Masala",Natureland Organics,4.064285714285714,1504,144.0,21.0,165.0
+"Foodgrains, Oil & Masala",Nutrela,4.216666666666667,170,59.5,107.5,167.0
+"Foodgrains, Oil & Masala",Organic Tattva,4.007446808510638,4582,168.0,3.0,171.0
+"Foodgrains, Oil & Masala",Super Saver,4.053333333333333,1390,148.0,23.0,171.0
+"Foodgrains, Oil & Masala",Chekko,4.220000000000001,162,57.5,115.0,172.5
+"Foodgrains, Oil & Masala",Praakritik,4.073684210526316,982,142.0,32.0,174.0
+"Foodgrains, Oil & Masala",Ssp,4.3,124,38.5,135.5,174.0
+"Foodgrains, Oil & Masala",PRISTINE,4.036111111111111,1870,157.0,18.0,175.0
+"Foodgrains, Oil & Masala",bb Popular,4.005172413793103,2826,169.0,6.0,175.0
+"Foodgrains, Oil & Masala",Ching'S Secret,4.1499999999999995,357,104.0,72.0,176.0
+"Foodgrains, Oil & Masala",Safe Harvest,4.010714285714285,2679,167.0,9.0,176.0
+"Foodgrains, Oil & Masala",bb Combo,4.05,1337,152.0,24.0,176.0
+"Foodgrains, Oil & Masala",Mothers Recipe,4.2,181,74.0,104.0,178.0
+"Foodgrains, Oil & Masala",Dabur,4.233333333333333,139,54.5,125.0,179.5
+"Foodgrains, Oil & Masala",Nirmal,4.220000000000001,141,57.5,122.5,180.0
+"Foodgrains, Oil & Masala",Trust,4.18,234,87.5,93.0,180.5
+"Foodgrains, Oil & Masala",Engine,4.35,93,27.5,153.5,181.0
+"Foodgrains, Oil & Masala",Mother's Recipe,4.090909090909091,743,137.0,44.5,181.5
+"Foodgrains, Oil & Masala",Jharna,4.4,81,23.0,160.5,183.5
+"Foodgrains, Oil & Masala",Rro,4.25,126,51.0,132.5,183.5
+"Foodgrains, Oil & Masala",Pro Nature,4.0162162162162165,1842,165.0,19.0,184.0
+"Foodgrains, Oil & Masala",Satyendra,4.9,68,11.0,173.0,184.0
+"Foodgrains, Oil & Masala",BORGES,4.416666666666667,76,20.0,165.5,185.5
+"Foodgrains, Oil & Masala",Himalayan Natives,3.9770491803278687,2816,179.0,7.0,186.0
+"Foodgrains, Oil & Masala",Orika,4.015384615384615,1545,166.0,20.0,186.0
+"Foodgrains, Oil & Masala",VVV  ,4.3,98,38.5,148.0,186.5
+"Foodgrains, Oil & Masala",Daawat ,4.078571428571428,698,139.0,48.0,187.0
+"Foodgrains, Oil & Masala",Maxcare,4.3,97,38.5,149.0,187.5
+"Foodgrains, Oil & Masala",Indira's,4.1499999999999995,259,104.0,85.5,189.5
+"Foodgrains, Oil & Masala",Nectar Valley,4.25,118,51.0,139.0,190.0
+"Foodgrains, Oil & Masala",Unity,4.3,94,38.5,152.0,190.5
+"Foodgrains, Oil & Masala",India Gate,4.1,423,127.0,64.0,191.0
+"Foodgrains, Oil & Masala",Jivika Naturals,4.266666666666667,108,47.0,144.0,191.0
+"Foodgrains, Oil & Masala",Gold Winner,4.2,141,74.0,122.5,196.5
+"Foodgrains, Oil & Masala",Badshah,4.025,891,161.0,36.0,197.0
+"Foodgrains, Oil & Masala",Madhur,4.25,104,51.0,146.0,197.0
+"Foodgrains, Oil & Masala",Future Organics,4.15,197,99.5,98.0,197.5
+"Foodgrains, Oil & Masala",MeraKisan,3.85,2685,190.0,8.0,198.0
+"Foodgrains, Oil & Masala",Tree Grab,4.5,56,14.5,187.5,202.0
+"Foodgrains, Oil & Masala",Roopak,4.1,317,127.0,76.0,203.0
+"Foodgrains, Oil & Masala",Milky Mist,4.2,129,74.0,130.5,204.5
+"Foodgrains, Oil & Masala",Parry's,4.116666666666666,249,116.5,88.0,204.5
+"Foodgrains, Oil & Masala",Organic Nation,4.042857142857143,664,156.0,50.0,206.0
+"Foodgrains, Oil & Masala",Delicious,4.116666666666666,241,116.5,91.0,207.5
+"Foodgrains, Oil & Masala",Trucrose,5.0,40,5.5,202.0,207.5
+"Foodgrains, Oil & Masala",Idhayam,4.15,168,99.5,109.0,208.5
+"Foodgrains, Oil & Masala",Grocery Farm,4.021428571428571,742,163.0,46.0,209.0
+"Foodgrains, Oil & Masala",Merkera,4.1,263,127.0,83.0,210.0
+"Foodgrains, Oil & Masala",Skc,5.0,38,5.5,204.5,210.0
+"Foodgrains, Oil & Masala",Dhara ,4.119999999999999,210,114.0,97.0,211.0
+"Foodgrains, Oil & Masala",Weikfield,4.3,68,38.5,173.0,211.5
+"Foodgrains, Oil & Masala",Kapiva Ayurveda,4.5,47,14.5,198.0,212.5
+"Foodgrains, Oil & Masala",Udupi Ruchi,4.033333333333333,493,158.5,57.0,215.5
+"Foodgrains, Oil & Masala",Ravi,4.057142857142857,363,145.0,71.0,216.0
+"Foodgrains, Oil & Masala",Eastern jackfruit365,4.3,62,38.5,178.0,216.5
+"Foodgrains, Oil & Masala",Miller,4.3,62,38.5,178.0,216.5
+"Foodgrains, Oil & Masala",Lion,4.0285714285714285,452,160.0,60.0,220.0
+"Foodgrains, Oil & Masala",Allegro,4.15,142,99.5,121.0,220.5
+"Foodgrains, Oil & Masala",Ogara,5.0,28,5.5,215.5,221.0
+"Foodgrains, Oil & Masala",Merit Vco,4.7,33,12.0,209.5,221.5
+"Foodgrains, Oil & Masala",Chings,4.133333333333333,166,111.0,111.5,222.5
+"Foodgrains, Oil & Masala",Tropics,4.3,57,38.5,184.0,222.5
+"Foodgrains, Oil & Masala",DIVING DUCK,5.0,25,5.5,218.0,223.5
+"Foodgrains, Oil & Masala",Elite,4.083333333333333,259,138.0,85.5,223.5
+"Foodgrains, Oil & Masala",Nutriorg,3.9000000000000004,788,183.0,42.0,225.0
+"Foodgrains, Oil & Masala",Freedom,4.1,195,127.0,99.0,226.0
+"Foodgrains, Oil & Masala",Sri Sri Tattva,4.2,93,74.0,153.5,227.5
+"Foodgrains, Oil & Masala",Conscious Food,3.838461538461538,820,192.0,39.0,231.0
+"Foodgrains, Oil & Masala",Fedora,4.3,52,38.5,193.0,231.5
+"Foodgrains, Oil & Masala",Annai,5.0,12,5.5,226.5,232.0
+"Foodgrains, Oil & Masala",BB Royal Organic,4.05,274,152.0,80.0,232.0
+"Foodgrains, Oil & Masala",Mr. Gold,4.1499999999999995,131,104.0,129.0,233.0
+"Foodgrains, Oil & Masala",Eagle,4.3,51,38.5,195.5,234.0
+"Foodgrains, Oil & Masala",A.D.J Classic Choice,4.15,124,99.5,135.5,235.0
+"Foodgrains, Oil & Masala",Sunpure ,4.166666666666667,107,90.5,145.0,235.5
+"Foodgrains, Oil & Masala",Live Yum,4.5,21,14.5,222.0,236.5
+"Foodgrains, Oil & Masala",Coco Soul,4.133333333333334,135,110.0,127.0,237.0
+"Foodgrains, Oil & Masala",Til Sona,4.2,78,74.0,163.0,237.0
+"Foodgrains, Oil & Masala",Arya Organic,3.71875,931,203.0,35.0,238.0
+"Foodgrains, Oil & Masala",Dezire,4.2,76,74.0,165.5,239.5
+"Foodgrains, Oil & Masala",Chandan,3.816666666666667,734,193.0,47.0,240.0
+"Foodgrains, Oil & Masala",Eco Fresh,3.9125,477,182.0,58.0,240.0
+"Foodgrains, Oil & Masala",Orino,5.0,0,5.5,235.0,240.5
+"Foodgrains, Oil & Masala",Sugar Watchers,4.016666666666667,313,164.0,77.0,241.0
+"Foodgrains, Oil & Masala",RKG AGMARK GHEE,4.2,75,74.0,167.5,241.5
+"Foodgrains, Oil & Masala",Nutty Yogi,4.1375,125,108.0,134.0,242.0
+"Foodgrains, Oil & Masala",RAS CHEKKU OIL,4.066666666666666,192,143.0,100.5,243.5
+"Foodgrains, Oil & Masala",SSK,4.4,22,23.0,220.5,243.5
+"Foodgrains, Oil & Masala",Gowardhan,4.075,177,140.5,105.0,245.5
+"Foodgrains, Oil & Masala",Max Health ,4.3,34,38.5,208.0,246.5
+"Foodgrains, Oil & Masala",FabBox,3.566666666666667,826,210.0,38.0,248.0
+"Foodgrains, Oil & Masala",Ajinomoto,4.300000000000001,24,30.5,219.0,249.5
+"Foodgrains, Oil & Masala",Wipro,4.033333333333333,236,158.5,92.0,250.5
+"Foodgrains, Oil & Masala",Tasty Tales,3.883333333333333,428,188.0,63.0,251.0
+"Foodgrains, Oil & Masala",Kitchen Treasures,4.2,62,74.0,178.0,252.0
+"Foodgrains, Oil & Masala",Zevic,4.3,28,38.5,215.5,254.0
+"Foodgrains, Oil & Masala",LG,4.2,60,74.0,181.0,255.0
+"Foodgrains, Oil & Masala",Kpl,4.2,57,74.0,184.0,258.0
+"Foodgrains, Oil & Masala",Iyengar Spices & Food Specialists ,3.6,625,208.0,51.0,259.0
+"Foodgrains, Oil & Masala",Jawai,3.8666666666666667,375,189.0,70.0,259.0
+"Foodgrains, Oil & Masala",Just A Minute,3.0,1024,228.0,31.0,259.0
+"Foodgrains, Oil & Masala",Slurrp Farm,3.8875,340,187.0,75.0,262.0
+"Foodgrains, Oil & Masala",Falcon,3.65,415,206.0,66.0,272.0
+"Foodgrains, Oil & Masala",Kpl Shudhi,4.2,46,74.0,199.0,273.0
+"Foodgrains, Oil & Masala",BONGO BHOG,4.2,43,74.0,200.0,274.0
+"Foodgrains, Oil & Masala",Cardia,4.15,67,99.5,175.0,274.5
+"Foodgrains, Oil & Masala",Soulfit,3.766666666666667,355,202.0,74.0,276.0
+"Foodgrains, Oil & Masala",Salonik,3.78,299,201.0,78.0,279.0
+"Foodgrains, Oil & Masala",G.D ,4.2,37,74.0,206.0,280.0
+"Foodgrains, Oil & Masala",Delight Foods,3.95,192,180.0,100.5,280.5
+"Foodgrains, Oil & Masala",NUTRIWISH,3.8,260,197.0,84.0,281.0
+"Foodgrains, Oil & Masala",Nutraj,3.025,509,225.0,56.0,281.0
+"Foodgrains, Oil & Masala",SriRudra,4.1,89,127.0,156.0,283.0
+"Foodgrains, Oil & Masala",Heritage,4.1,82,127.0,159.0,286.0
+"Foodgrains, Oil & Masala",Isvaari,3.3000000000000003,392,217.0,69.0,286.0
+"Foodgrains, Oil & Masala",Leonardo,4.15,56,99.5,187.5,287.0
+"Foodgrains, Oil & Masala",Pillsbury,4.05,120,152.0,138.0,290.0
+"Foodgrains, Oil & Masala",Dizzle,4.2,26,74.0,217.0,291.0
+"Foodgrains, Oil & Masala",18 Herbs,3.8,221,197.0,95.0,292.0
+"Foodgrains, Oil & Masala",NaturoBell,4.05,116,152.0,140.0,292.0
+"Foodgrains, Oil & Masala",Orkay,3.9333333333333336,166,181.0,111.5,292.5
+"Foodgrains, Oil & Masala",Easy life,3.0,414,228.0,67.0,295.0
+"Foodgrains, Oil & Masala",Nandini,4.1,71,127.0,170.0,297.0
+"Foodgrains, Oil & Masala",GoodDiet,4.05,100,152.0,147.0,299.0
+"Foodgrains, Oil & Masala",Rampura,3.6833333333333336,213,204.0,96.0,300.0
+"Foodgrains, Oil & Masala",Samvruddhi,3.0,298,228.0,79.0,307.0
+"Foodgrains, Oil & Masala",Akshayakalpa,4.2,2,74.0,234.0,308.0
+"Foodgrains, Oil & Masala",True Elements,3.84,155,191.0,117.0,308.0
+"Foodgrains, Oil & Masala",Spice Liquid,3.0,273,228.0,81.0,309.0
+"Foodgrains, Oil & Masala",The Earth Reserve,4.1,59,127.0,182.0,309.0
+"Foodgrains, Oil & Masala",Kesari,3.6,185,208.0,102.0,310.0
+"Foodgrains, Oil & Masala",Satvik Organic,4.1,57,127.0,184.0,311.0
+"Foodgrains, Oil & Masala",Mathura,4.1,56,127.0,187.5,314.5
+"Foodgrains, Oil & Masala",PRO ORGANIC LIFE,4.0,113,174.0,143.0,317.0
+"Foodgrains, Oil & Masala",Orysa,4.1,54,127.0,191.5,318.5
+"Foodgrains, Oil & Masala",Anandam,4.05,72,152.0,169.0,321.0
+"Foodgrains, Oil & Masala",Fresho Organic,3.0,227,228.0,94.0,322.0
+"Foodgrains, Oil & Masala",Akar,4.1,51,127.0,195.5,322.5
+"Foodgrains, Oil & Masala",Tez,4.1,51,127.0,195.5,322.5
+"Foodgrains, Oil & Masala",Farmers Family,3.4,167,214.5,110.0,324.5
+"Foodgrains, Oil & Masala",Ammi Samayal,3.4166666666666665,165,212.0,113.0,325.0
+"Foodgrains, Oil & Masala",LAXMI NARAYAN,4.0,90,174.0,155.0,329.0
+"Foodgrains, Oil & Masala",Jivo,3.8,126,197.0,132.5,329.5
+"Foodgrains, Oil & Masala",Arogya Dhan,4.0,86,174.0,157.0,331.0
+"Foodgrains, Oil & Masala",Organic Origins,3.2399999999999998,164,222.0,114.0,336.0
+"Foodgrains, Oil & Masala",Urban Platter,3.9,95,185.0,151.0,336.0
+"Foodgrains, Oil & Masala",Annapurna,4.1,30,127.0,211.5,338.5
+"Foodgrains, Oil & Masala",OLIVANA,4.1,30,127.0,211.5,338.5
+"Foodgrains, Oil & Masala",R.K,2.0,171,233.0,106.0,339.0
+"Foodgrains, Oil & Masala",mother dairy,4.1,29,127.0,213.5,340.5
+"Foodgrains, Oil & Masala",ORGANIC INDIA,4.0,70,174.0,171.0,345.0
+"Foodgrains, Oil & Masala",Malabar Coast,3.2999999999999994,139,221.0,125.0,346.0
+"Foodgrains, Oil & Masala",Swarnanjali ,3.6500000000000004,115,205.0,141.5,346.5
+"Foodgrains, Oil & Masala",Harin,4.0,68,174.0,173.0,347.0
+"Foodgrains, Oil & Masala",Vivatta,4.1,19,127.0,223.0,350.0
+"Foodgrains, Oil & Masala",Fresho,4.1,12,127.0,226.5,353.5
+"Foodgrains, Oil & Masala",AMAJAIN,3.8,81,197.0,160.5,357.5
+"Foodgrains, Oil & Masala",Sugarlite,4.1,5,127.0,231.5,358.5
+"Foodgrains, Oil & Masala",Forgreen,4.05,36,152.0,207.0,359.0
+"Foodgrains, Oil & Masala",Flyberry,3.45,96,211.0,150.0,361.0
+"Foodgrains, Oil & Masala",Tech Organea,4.0,55,174.0,190.0,364.0
+"Foodgrains, Oil & Masala",Blv Fine Blend,4.0,51,174.0,195.5,369.5
+"Foodgrains, Oil & Masala",Saravanas,3.8,63,197.0,176.0,373.0
+"Foodgrains, Oil & Masala",Nature Fresh,4.0,40,174.0,202.0,376.0
+"Foodgrains, Oil & Masala",Ketofy,3.3,77,219.0,164.0,383.0
+"Foodgrains, Oil & Masala",Isvaryam,3.2,80,223.0,162.0,385.0
+"Foodgrains, Oil & Masala",Bechef,3.3,75,219.0,167.5,386.5
+"Foodgrains, Oil & Masala",Palmpure,4.0,29,174.0,213.5,387.5
+"Foodgrains, Oil & Masala",Go Desi,3.4,61,214.5,180.0,394.5
+"Foodgrains, Oil & Masala",Nonandrai Bholanath,3.6,56,208.0,187.5,395.5
+"Foodgrains, Oil & Masala",Ved A2,3.8,38,197.0,204.5,401.5
+"Foodgrains, Oil & Masala",Natural Tattva ,3.9,15,185.0,224.0,409.0
+"Foodgrains, Oil & Masala",Elina,3.3,54,219.0,191.5,410.5
+"Foodgrains, Oil & Masala",Nature's Pick ,3.8,22,197.0,220.5,417.5
+"Foodgrains, Oil & Masala",Popular Essentials,3.9,3,185.0,233.0,418.0
+"Foodgrains, Oil & Masala",Tiger,1.0,40,235.0,202.0,437.0
+"Foodgrains, Oil & Masala",Pass Pass,2.5,33,231.0,209.5,440.5
+"Foodgrains, Oil & Masala",Nature's Treat,3.4,7,214.5,228.5,443.0
+"Foodgrains, Oil & Masala",Sampriti,3.4,6,214.5,230.0,444.5
+"Foodgrains, Oil & Masala",Bemisal,3.1,7,224.0,228.5,452.5
+"Foodgrains, Oil & Masala",Killi,2.0,14,233.0,225.0,458.0
+"Foodgrains, Oil & Masala",Nu-Shakti,2.0,5,233.0,231.5,464.5
+Fruits & Vegetables,Fresho,4.0,27469,3.5,1.0,4.5
+Fruits & Vegetables,bb Combo,4.05,57,1.0,4.0,5.0
+Fruits & Vegetables,Supa Corn,4.0,242,3.5,2.0,5.5
+Fruits & Vegetables,Tadaa,4.0,188,3.5,3.0,6.5
+Fruits & Vegetables,RoseBazaar,4.0,29,3.5,5.0,8.5
+Gourmet & World Food,Karma Kettle,5.0,1166,14.0,47.0,61.0
+Gourmet & World Food,The Whole Truth,4.857142857142857,869,37.5,63.0,100.5
+Gourmet & World Food,Delight Nuts,4.544444444444444,972,60.0,55.0,115.0
+Gourmet & World Food,The Nibble Box,4.953333333333333,692,28.0,87.5,115.5
+Gourmet & World Food,Bobs Red Mill,4.892857142857143,697,36.0,86.0,122.0
+Gourmet & World Food,Sol,5.0,616,14.0,110.0,124.0
+Gourmet & World Food,Monsoon Harvest,4.495238095238095,1122,80.0,48.5,128.5
+Gourmet & World Food,Earthon,4.455555555555556,1057,82.0,52.0,134.0
+Gourmet & World Food,Anmara,4.857142857142857,650,37.5,100.5,138.0
+Gourmet & World Food,BORGES,4.269148936170213,2435,129.0,15.0,144.0
+Gourmet & World Food,Health 1st,4.2631578947368425,2067,131.0,19.0,150.0
+Gourmet & World Food,Loacker,4.333333333333333,1318,112.0,40.0,152.0
+Gourmet & World Food,Voila,4.666666666666667,637,46.5,106.0,152.5
+Gourmet & World Food,Real Thai,4.25,1890,134.5,22.0,156.5
+Gourmet & World Food,Samyang,4.536363636363636,656,61.0,98.5,159.5
+Gourmet & World Food,Purix,4.5,682,72.0,90.0,162.0
+Gourmet & World Food,Disano,4.271428571428571,1424,128.0,39.0,167.0
+Gourmet & World Food,Fresho Signature,4.198648648648648,3741,165.0,4.0,169.0
+Gourmet & World Food,American Garden ,4.214634146341464,1830,147.0,27.0,174.0
+Gourmet & World Food,HappyChef,4.196610169491525,3091,167.0,10.0,177.0
+Gourmet & World Food,Mackays,4.3500000000000005,763,105.0,75.0,180.0
+Gourmet & World Food,Del Monte,4.335714285714286,790,110.0,71.0,181.0
+Gourmet & World Food,On1y,4.294736842105263,933,124.0,57.5,181.5
+Gourmet & World Food,Nectar Valley,4.260416666666667,1104,132.0,50.0,182.0
+Gourmet & World Food,Tiffany,4.375,709,98.0,84.0,182.0
+Gourmet & World Food,Lindberg,4.188888888888889,2312,169.0,17.0,186.0
+Gourmet & World Food,Tong Garden,4.134848484848485,3600,181.0,6.0,187.0
+Gourmet & World Food,PastificioG Di Martino,5.0,357,14.0,175.0,189.0
+Gourmet & World Food,Sattuz,5.0,357,14.0,175.0,189.0
+Gourmet & World Food,Munchys,4.511111111111111,537,64.0,126.0,190.0
+Gourmet & World Food,Colavita,4.197058823529411,1863,166.0,25.0,191.0
+Gourmet & World Food,Urban Platter,4.159259259259259,2272,174.0,18.0,192.0
+Gourmet & World Food,All That Dips,4.5,557,72.0,124.0,196.0
+Gourmet & World Food,Happy Cow,5.0,338,14.0,185.0,199.0
+Gourmet & World Food,REGENCY,4.2250000000000005,870,142.0,62.0,204.0
+Gourmet & World Food,NUTRASHIL,4.319230769230769,657,115.0,97.0,212.0
+Gourmet & World Food,Habanero,4.2176470588235295,819,146.0,69.0,215.0
+Gourmet & World Food,Saucery,4.916666666666667,335,30.0,189.0,219.0
+Gourmet & World Food,Barilla,4.2,848,155.0,66.0,221.0
+Gourmet & World Food,Trident,4.9399999999999995,330,29.0,192.5,221.5
+Gourmet & World Food,Organic Nation,4.3875,526,95.0,130.0,225.0
+Gourmet & World Food,Figaro,4.292857142857143,649,125.0,102.0,227.0
+Gourmet & World Food,NectWorks Honey,4.616666666666667,357,53.0,175.0,228.0
+Gourmet & World Food,Dairy Craft,4.15,967,175.5,56.0,231.5
+Gourmet & World Food,Nescafe ,4.3,612,119.5,112.0,231.5
+Gourmet & World Food,Neo,4.1684210526315795,919,173.0,60.0,233.0
+Gourmet & World Food,Serapheena,4.3590909090909085,524,103.0,131.0,234.0
+Gourmet & World Food,Ongs,4.2214285714285715,676,145.0,91.0,236.0
+Gourmet & World Food,Nando's,4.414285714285714,425,90.0,150.0,240.0
+Gourmet & World Food,Samudra,4.355555555555556,491,104.0,136.0,240.0
+Gourmet & World Food,Zoe,4.825,316,39.5,203.5,243.0
+Gourmet & World Food,Nestle ,4.2,687,155.0,89.0,244.0
+Gourmet & World Food,Remia,4.279999999999999,590,127.0,117.0,244.0
+Gourmet & World Food,The Laughing Cow,4.5,363,72.0,172.0,244.0
+Gourmet & World Food,Namhya,5.0,266,14.0,231.0,245.0
+Gourmet & World Food,Black & Green,5.0,265,14.0,232.5,246.5
+Gourmet & World Food,Geo-Fresh,4.183333333333334,742,170.5,78.0,248.5
+Gourmet & World Food,La Vieja Fabrica,4.246153846153846,609,137.0,113.0,250.0
+Gourmet & World Food,Dolce Vita,4.5,341,72.0,181.0,253.0
+Gourmet & World Food,Kikkoman,5.0,252,14.0,243.0,257.0
+Gourmet & World Food,Sugarless Bliss,4.108823529411764,788,185.0,72.0,257.0
+Gourmet & World Food,Twinings,4.4,370,92.0,166.0,258.0
+Gourmet & World Food,Makino,4.135714285714285,728,180.0,80.0,260.0
+Gourmet & World Food,Gone mad,4.366666666666666,371,101.0,164.5,265.5
+Gourmet & World Food,Veekes & Company,4.5285714285714285,316,62.0,203.5,265.5
+Gourmet & World Food,Hersheys ,4.121428571428572,710,184.0,83.0,267.0
+Gourmet & World Food,Gourmets Delite ,4.35,378,107.0,162.0,269.0
+Gourmet & World Food,Nutro,4.24,529,140.0,129.0,269.0
+Gourmet & World Food,DrNatcure,4.8,269,42.0,230.0,272.0
+Gourmet & World Food,Snickers,4.4625,330,81.0,192.5,273.5
+Gourmet & World Food,Delfi,5.0,225,14.0,260.5,274.5
+Gourmet & World Food,Blue Dragon,4.142857142857143,656,178.5,98.5,277.0
+Gourmet & World Food,Daucy,4.9,242,32.5,245.5,278.0
+Gourmet & World Food,Nongshim,4.3375,364,109.0,170.5,279.5
+Gourmet & World Food,IMPACT,4.433333333333334,325,86.5,194.0,280.5
+Gourmet & World Food,Beelicious ,5.0,222,14.0,267.5,281.5
+Gourmet & World Food,Nourish You,4.333333333333333,364,112.0,170.5,282.5
+Gourmet & World Food,Bhuira,4.183333333333334,598,170.5,115.0,285.5
+Gourmet & World Food,Ice Breakers,4.65,261,49.5,236.0,285.5
+Gourmet & World Food,Betty Crocker,4.825,236,39.5,251.0,290.5
+Gourmet & World Food,Te-A-Me,4.1,1811,261.5,29.0,290.5
+Gourmet & World Food,Mantra,4.172727272727273,583,172.0,119.0,291.0
+Gourmet & World Food,Cafe Junyali,4.1,1622,261.5,32.0,293.5
+Gourmet & World Food,Mama,4.3,355,119.5,178.0,297.5
+Gourmet & World Food,Newby,4.1,1468,261.5,37.0,298.5
+Gourmet & World Food,Hugo Reitzel ,4.225,386,143.5,160.0,303.5
+Gourmet & World Food,Sleepy Owl,4.1,1256,261.5,42.0,303.5
+Gourmet & World Food,Sancha,4.1,1231,261.5,43.0,304.5
+Gourmet & World Food,Chabaa,4.433333333333334,284,86.5,219.0,305.5
+Gourmet & World Food,Swa Artisanal Syrups,4.1,1223,261.5,44.0,305.5
+Gourmet & World Food,Bali Kitchen,4.283333333333333,343,126.0,180.0,306.0
+Gourmet & World Food,Chiko,4.375,305,98.0,209.0,307.0
+Gourmet & World Food,London Dairy,4.1,1076,261.5,51.0,312.5
+Gourmet & World Food,Pietro Coricelli,4.383333333333334,287,96.0,216.5,312.5
+Gourmet & World Food,Stute ,5.0,180,14.0,299.5,313.5
+Gourmet & World Food,4700BC,4.1,1023,261.5,53.0,314.5
+Gourmet & World Food,Meishi,4.3,323,119.5,196.0,315.5
+Gourmet & World Food,Tabasco,4.62,224,52.0,264.0,316.0
+Gourmet & World Food,Schogetten,4.7,215,45.0,272.0,317.0
+Gourmet & World Food,Gery Gone Mad,4.43,265,88.0,232.5,320.5
+Gourmet & World Food,Veeba,4.32,314,114.0,206.5,320.5
+Gourmet & World Food,Silk,5.0,163,14.0,310.0,324.0
+Gourmet & World Food,Beanies,4.1,823,261.5,68.0,329.5
+Gourmet & World Food,KOKOLEKA,4.566666666666666,215,58.0,272.0,330.0
+Gourmet & World Food,Kerk,4.666666666666667,192,46.5,285.5,332.0
+Gourmet & World Food,Toyo Kombucha,4.1,774,261.5,74.0,335.5
+Gourmet & World Food,Monetta,4.8999999999999995,179,35.0,301.5,336.5
+Gourmet & World Food,GoodDiet,4.075257731958763,4808,337.0,1.0,338.0
+Gourmet & World Food,Rooted Peepul,5.0,150,14.0,325.0,339.0
+Gourmet & World Food,Pantai,4.125,392,182.5,157.0,339.5
+Gourmet & World Food,Nutriplate,4.65,187,49.5,292.0,341.5
+Gourmet & World Food,Blue Tokai ,4.1,717,261.5,81.0,342.5
+Gourmet & World Food,Chaayos,4.1,716,261.5,82.0,343.5
+Gourmet & World Food,Ragu,4.142857142857143,366,178.5,168.0,346.5
+Gourmet & World Food,The Kitchen Farms,5.0,138,14.0,336.5,350.5
+Gourmet & World Food,Happilo,4.065151515151515,3265,342.0,9.0,351.0
+Gourmet & World Food,True Elements,4.052054794520548,3614,346.0,5.0,351.0
+Gourmet & World Food,Basso,4.766666666666667,167,44.0,307.5,351.5
+Gourmet & World Food,Dana,4.244444444444444,288,138.0,214.5,352.5
+Gourmet & World Food,Tify,4.42,224,89.0,264.0,353.0
+Gourmet & World Food,Wingreens Farms,4.057627118644067,2981,344.0,11.0,355.0
+Gourmet & World Food,SAPPHERO,4.1,667,261.5,94.5,356.0
+Gourmet & World Food,Nutty Yogi,4.045569620253165,4097,355.0,3.0,358.0
+Gourmet & World Food,Olicoop,4.65,163,49.5,310.0,359.5
+Gourmet & World Food,Twister,4.5249999999999995,183,63.0,296.5,359.5
+Gourmet & World Food,RRO DAIRY,4.1,650,261.5,100.5,362.0
+Gourmet & World Food,By Nature,4.069230769230769,1878,339.5,24.0,363.5
+Gourmet & World Food,Kodai Cheese,4.1,648,261.5,103.0,364.5
+Gourmet & World Food,Haagen-Dazs,4.1,643,261.5,104.0,365.5
+Gourmet & World Food,Lavazza,4.1,639,261.5,105.0,366.5
+Gourmet & World Food,Fox'S,4.9,139,32.5,334.5,367.0
+Gourmet & World Food,BHUIRA ,4.45,195,84.0,284.0,368.0
+Gourmet & World Food,Colombian Brew Coffee,4.1,636,261.5,107.0,368.5
+Gourmet & World Food,Coolberg,4.225,273,143.5,227.5,371.0
+Gourmet & World Food,THE BROOKLYN CREAMERY,4.1,613,261.5,111.0,372.5
+Gourmet & World Food,Mojo Bar,4.125,331,182.5,191.0,373.5
+Gourmet & World Food,Sprig,4.048648648648649,1896,354.0,21.0,375.0
+Gourmet & World Food,Cornitos,4.020408163265306,2751,363.0,13.0,376.0
+Gourmet & World Food,Monini,4.9,130,32.5,344.0,376.5
+Gourmet & World Food,Flat Tummies,4.1,591,261.5,116.0,377.5
+Gourmet & World Food,The Spice Club,4.242857142857143,255,139.0,239.5,378.5
+Gourmet & World Food,Cocon,4.1499999999999995,316,177.0,203.5,380.5
+Gourmet & World Food,Didier & Frank ,4.1,577,261.5,120.0,381.5
+Gourmet & World Food,GPC,5.0,107,14.0,368.0,382.0
+Gourmet & World Food,bb Combo,4.05,1747,351.0,31.0,382.0
+Gourmet & World Food,Koka,4.042857142857143,1816,357.0,28.0,385.0
+Gourmet & World Food,Yellow Crumb,4.6,145,55.5,331.0,386.5
+Gourmet & World Food,Mlesna,4.1,534,261.5,127.0,388.5
+Gourmet & World Food,Blue Elephant,4.25,231,134.5,255.5,390.0
+Gourmet & World Food,Nutriorg,4.036764705882353,1517,358.0,35.0,393.0
+Gourmet & World Food,Graminway,3.9863636363636368,3306,386.0,8.0,394.0
+Gourmet & World Food,FOCO,4.1,519,261.5,133.0,394.5
+Gourmet & World Food,ChingTam,5.0,98,14.0,382.0,396.0
+Gourmet & World Food,Pintola,4.072222222222222,922,338.0,59.0,397.0
+Gourmet & World Food,Papacream,4.1,477,261.5,137.0,398.5
+Gourmet & World Food,SnackAmor,4.1,462,261.5,142.0,403.5
+Gourmet & World Food,Nutella,4.5,142,72.0,332.0,404.0
+Gourmet & World Food,Teamonk,4.0,1759,374.5,30.0,404.5
+Gourmet & World Food,Micks,5.0,93,14.0,391.5,405.5
+Gourmet & World Food,Abbies,3.9984375,1880,383.0,23.0,406.0
+Gourmet & World Food,Fruitoria,4.1,457,261.5,145.0,406.5
+Gourmet & World Food,Puramate,3.9083333333333337,4350,405.0,2.0,407.0
+Gourmet & World Food,The Harvest Bowl,4.1,451,261.5,146.0,407.5
+Gourmet & World Food,Post,4.1,422,261.5,151.0,412.5
+Gourmet & World Food,LiL'Goodness,4.5,132,72.0,342.5,414.5
+Gourmet & World Food,Spirit of the Tribe,4.1,413,261.5,153.0,414.5
+Gourmet & World Food,Epigamia ,3.917857142857143,2923,404.0,12.0,416.0
+Gourmet & World Food,Malabar Coast,4.266666666666667,188,130.0,289.5,419.5
+Gourmet & World Food,Miaow Miaow,4.1,390,261.5,158.0,419.5
+Gourmet & World Food,RawNH,4.1,388,261.5,159.0,420.5
+Gourmet & World Food,Yoga bar,3.9068181818181817,2328,406.0,16.0,422.0
+Gourmet & World Food,Monin,4.1,379,261.5,161.0,422.5
+Gourmet & World Food,Brewhouse Tea Brewing Co.,4.2,217,155.0,269.5,424.5
+Gourmet & World Food,Daarzel,4.1899999999999995,230,168.0,257.5,425.5
+Gourmet & World Food,Dhatu Organics & Naturals,4.029411764705882,851,361.0,65.0,426.0
+Gourmet & World Food,Oateo,4.1,371,261.5,164.5,426.0
+Gourmet & World Food,Eat Real,4.1,366,261.5,168.0,429.5
+Gourmet & World Food,Pekers,4.2,210,155.0,276.0,431.0
+Gourmet & World Food,Jus Amazin,3.9419354838709677,1483,396.0,36.0,432.0
+Gourmet & World Food,Tex Mex Salsalito,4.043333333333333,758,356.0,76.0,432.0
+Gourmet & World Food,Live Yum,4.5,110,72.0,362.5,434.5
+Gourmet & World Food,Fini,4.013333333333334,778,364.0,73.0,437.0
+Gourmet & World Food,Maverick & Farmer Coffee,4.1,356,261.5,177.0,438.5
+Gourmet & World Food,Kelloggs,4.3999999999999995,128,94.0,346.5,440.5
+Gourmet & World Food,Organic Origins,3.978947368421052,1004,388.0,54.0,442.0
+Gourmet & World Food,NUTRIWISH,3.788333333333333,2542,433.0,14.0,447.0
+Gourmet & World Food,Vinanth,4.5,100,72.0,377.0,449.0
+Gourmet & World Food,DOLE,4.1,336,261.5,188.0,449.5
+Gourmet & World Food,IKO,5.0,73,14.0,435.5,449.5
+Gourmet & World Food,La Cremella,4.1,324,261.5,195.0,456.5
+Gourmet & World Food,TGL Co.,3.6,3450,449.5,7.0,456.5
+Gourmet & World Food,Fragata,3.876923076923077,1314,416.0,41.0,457.0
+Gourmet & World Food,Ala Fresh,4.1,322,261.5,197.0,458.5
+Gourmet & World Food,Organica,4.375,110,98.0,362.5,460.5
+Gourmet & World Food,Cadbury,4.069230769230769,565,339.5,123.0,462.5
+Gourmet & World Food,Mogu Mogu,4.1,316,261.5,203.5,465.0
+Gourmet & World Food,St. Dalfour,4.550000000000001,87,59.0,408.5,467.5
+Gourmet & World Food,Habit,3.929411764705882,811,399.0,70.0,469.0
+Gourmet & World Food,Wedderspoon,5.0,62,14.0,455.0,469.0
+Gourmet & World Food,Post Selects,4.1,313,261.5,208.0,469.5
+Gourmet & World Food,Harveys,3.8318181818181816,1196,424.0,46.0,470.0
+Gourmet & World Food,Tai Hua,3.9923076923076923,692,384.0,87.5,471.5
+Gourmet & World Food,BENGAMESE,4.05,571,351.0,121.0,472.0
+Gourmet & World Food,Nescafe Gold,4.1,294,261.5,213.0,474.5
+Gourmet & World Food,Organicana,3.9375,731,397.0,79.0,476.0
+Gourmet & World Food,Tulip,4.1,288,261.5,214.5,476.0
+Gourmet & World Food,Ferrero,4.0600000000000005,495,343.0,135.0,478.0
+Gourmet & World Food,Kara,4.45,91,84.0,395.0,479.0
+Gourmet & World Food,Delight Foods,4.1,285,261.5,218.0,479.5
+Gourmet & World Food,Olitalia,5.0,58,14.0,465.5,479.5
+Gourmet & World Food,&Stirred,4.1,283,261.5,220.5,482.0
+Gourmet & World Food,CCDS,4.65,74,49.5,432.5,482.0
+Gourmet & World Food,Scotti,5.0,55,14.0,469.0,483.0
+Gourmet & World Food,Rro,4.25,126,134.5,349.0,483.5
+Gourmet & World Food,Ziofit,4.1,282,261.5,222.0,483.5
+Gourmet & World Food,Rostaa,3.486842105263158,2042,464.0,20.0,484.0
+Gourmet & World Food,Baskin Robbins,4.1,278,261.5,224.0,485.5
+Gourmet & World Food,Entree,3.5757575757575757,1591,452.0,34.0,486.0
+Gourmet & World Food,Dolphin ,4.1,273,261.5,227.5,489.0
+Gourmet & World Food,Epiphany Snacks,4.1,273,261.5,227.5,489.0
+Gourmet & World Food,Hart Beat,4.35,95,107.0,384.0,491.0
+Gourmet & World Food,Lindt,4.011111111111111,548,366.0,125.0,491.0
+Gourmet & World Food,6 Rasa,4.8,65,42.0,451.5,493.5
+Gourmet & World Food,Bertolli,4.5,78,72.0,423.0,495.0
+Gourmet & World Food,FabBox,3.431578947368421,1856,469.0,26.0,495.0
+Gourmet & World Food,Trents,5.0,48,14.0,481.5,495.5
+Gourmet & World Food,Davidoff,4.1,262,261.5,235.0,496.5
+Gourmet & World Food,MOOZ,3.710526315789474,933,440.0,57.5,497.5
+Gourmet & World Food,JIMMY'S COCKTAILS,4.1,259,261.5,237.0,498.5
+Gourmet & World Food,La Espanola,4.1,254,261.5,241.5,503.0
+Gourmet & World Food,Sapphire,3.4096774193548387,1596,470.0,33.0,503.0
+Gourmet & World Food,Spray Lite,4.1,254,261.5,241.5,503.0
+Gourmet & World Food,Naturally Yours,4.9,54,32.5,471.5,504.0
+Gourmet & World Food,Mars,4.5,74,72.0,432.5,504.5
+Gourmet & World Food,Prasukh,3.8444444444444446,707,420.0,85.0,505.0
+Gourmet & World Food,Himalaya Wellness,4.3,94,119.5,387.0,506.5
+Gourmet & World Food,Oriental,4.1,242,261.5,245.5,507.0
+Gourmet & World Food,Galaxy,4.233333333333333,108,141.0,366.5,507.5
+Gourmet & World Food,Toblerone,4.035714285714286,427,359.0,149.0,508.0
+Gourmet & World Food,Indomie,4.3,93,119.5,391.5,511.0
+Gourmet & World Food,Kopiko,4.4,79,92.0,421.5,513.5
+Gourmet & World Food,NutraHi,3.7214285714285715,745,438.0,77.0,515.0
+Gourmet & World Food,Rodolfi,4.8,53,42.0,473.0,515.0
+Gourmet & World Food,American Delight,4.1,233,261.5,254.0,515.5
+Gourmet & World Food,Schar,4.033333333333333,393,360.0,155.5,515.5
+Gourmet & World Food,M&M's,4.1000000000000005,146,186.0,330.0,516.0
+Gourmet & World Food,Battler,4.1,231,261.5,255.5,517.0
+Gourmet & World Food,So Sweet,3.91875,601,403.0,114.0,517.0
+Gourmet & World Food,Epicure,3.8272727272727276,668,425.0,93.0,518.0
+Gourmet & World Food,Gunsberg,4.1,225,261.5,260.5,522.0
+Gourmet & World Food,Pez,5.0,33,14.0,508.0,522.0
+Gourmet & World Food,Tealia,4.1,225,261.5,260.5,522.0
+Gourmet & World Food,Nutty Gritties,3.5,863,459.5,64.0,523.5
+Gourmet & World Food,Dr. Patkars,4.0285714285714285,375,362.0,163.0,525.0
+Gourmet & World Food,Phalyum,4.1,224,261.5,264.0,525.5
+Gourmet & World Food,Lee,4.5,63,72.0,454.0,526.0
+Gourmet & World Food,Chef'S Basket,5.0,29,14.0,513.0,527.0
+Gourmet & World Food,Malkist,4.366666666666666,76,101.0,426.0,527.0
+Gourmet & World Food,kings Coffee,4.1,223,261.5,266.0,527.5
+Gourmet & World Food,Toska Chocolates,3.857142857142857,620,419.0,109.0,528.0
+Gourmet & World Food,Yan Yan ,4.199999999999999,109,163.5,364.5,528.0
+Gourmet & World Food,Peacock ,4.35,79,107.0,421.5,528.5
+Gourmet & World Food,Chai Point,3.4375,909,468.0,61.0,529.0
+Gourmet & World Food,The B Queen Co,4.1,222,261.5,267.5,529.0
+Gourmet & World Food,La Costena,5.0,27,14.0,517.0,531.0
+Gourmet & World Food,Vizyon,4.1,217,261.5,269.5,531.0
+Gourmet & World Food,Honey Twigs,4.057142857142857,337,345.0,186.5,531.5
+Gourmet & World Food,Skippy,4.4,70,92.0,439.5,531.5
+Gourmet & World Food,Slurrp Farm,4.2,100,155.0,377.0,532.0
+Gourmet & World Food,Cocosutra,4.0125,366,365.0,168.0,533.0
+Gourmet & World Food,Cascina Belvedere,4.5,59,72.0,462.0,534.0
+Gourmet & World Food,Tiera,4.199999999999999,105,163.5,371.5,535.0
+Gourmet & World Food,Berrinutty,4.1,212,261.5,274.0,535.5
+Gourmet & World Food,Rage,3.2363636363636363,1198,491.0,45.0,536.0
+Gourmet & World Food,Americano,4.1,208,261.5,277.0,538.5
+Gourmet & World Food,Bonne Maman,4.1,207,261.5,279.0,540.5
+Gourmet & World Food,Fresh Honest,4.1,207,261.5,279.0,540.5
+Gourmet & World Food,West Frisian,4.1,207,261.5,279.0,540.5
+Gourmet & World Food,As Chefs Cook,3.6769230769230767,658,446.0,96.0,542.0
+Gourmet & World Food,Heinz,3.9799999999999995,393,387.0,155.5,542.5
+Gourmet & World Food,Ketofy,3.185,1122,495.0,48.5,543.5
+Gourmet & World Food,TWG Tea,4.1,203,261.5,282.0,543.5
+Gourmet & World Food,Puro,4.6,45,55.5,488.5,544.0
+Gourmet & World Food,Kims,4.1,196,261.5,283.0,544.5
+Gourmet & World Food,Montanini,3.9444444444444446,416,395.0,152.0,547.0
+Gourmet & World Food,Harin,5.0,14,14.0,534.5,548.5
+Gourmet & World Food,Merba,3.9200000000000004,440,401.5,147.0,548.5
+Gourmet & World Food,Tang,4.3,74,119.5,432.5,552.0
+Gourmet & World Food,Heracles,4.25,80,134.5,419.5,554.0
+Gourmet & World Food,Marudhar,3.727272727272727,585,437.0,118.0,555.0
+Gourmet & World Food,Soyvita,5.0,6,14.0,541.5,555.5
+Gourmet & World Food,Bruvet,4.1,185,261.5,294.5,556.0
+Gourmet & World Food,Chymey,4.1,183,261.5,296.5,558.0
+Gourmet & World Food,San Remo,3.8642857142857143,468,418.0,140.0,558.0
+Gourmet & World Food,Delfi Twister,4.6,35,55.5,504.0,559.5
+Gourmet & World Food,Woh Hup,3.8375,471,421.0,139.0,560.0
+Gourmet & World Food,Cesar,4.2,88,155.0,406.0,561.0
+Gourmet & World Food,Dabur,4.2,88,155.0,406.0,561.0
+Gourmet & World Food,Twix,4.5,43,72.0,491.0,563.0
+Gourmet & World Food,Pringles,3.7399999999999998,532,436.0,128.0,564.0
+Gourmet & World Food,Tasties,4.0,333,374.5,190.0,564.5
+Gourmet & World Food,Hershey's Kisses,3.8333333333333335,461,422.5,143.5,566.0
+Gourmet & World Food,The Gourmet Jar,3.0058823529411764,826,500.0,67.0,567.0
+Gourmet & World Food,Simpkins ,3.9875,339,385.0,183.5,568.5
+Gourmet & World Food,COFFEE JOY,4.6,28,55.5,515.0,570.5
+Gourmet & World Food,Valentino,4.1,163,261.5,310.0,571.5
+Gourmet & World Food,American Pancake Co.,3.7625,472,434.0,138.0,572.0
+Gourmet & World Food,ORGANIC INDIA,4.15,90,175.5,397.5,573.0
+Gourmet & World Food,Udyan Tea,4.1,160,261.5,313.0,574.5
+Gourmet & World Food,Grandma Singletons,4.1,159,261.5,315.0,576.5
+Gourmet & World Food,Sakurafresh,2.0,1432,538.5,38.0,576.5
+Gourmet & World Food,Kokozo,4.1,156,261.5,316.5,578.0
+Gourmet & World Food,Wise Crack,4.1,155,261.5,318.0,579.5
+Gourmet & World Food,Heidi,3.715384615384615,466,439.0,141.0,580.0
+Gourmet & World Food,Teddy Roosevelt,4.1,153,261.5,321.0,582.5
+Gourmet & World Food,Chupa Chups,4.2,75,155.0,429.0,584.0
+Gourmet & World Food,San Pellegrino,4.1,151,261.5,323.5,585.0
+Gourmet & World Food,Snack Amor,4.1,151,261.5,323.5,585.0
+Gourmet & World Food,Svami ,4.1,149,261.5,326.0,587.5
+Gourmet & World Food,Gastone Lago,3.4799999999999995,569,466.0,122.0,588.0
+Gourmet & World Food,Agnesi,3.9785714285714286,319,389.0,200.0,589.0
+Gourmet & World Food,SPICHI,3.1647058823529415,675,497.0,92.0,589.0
+Gourmet & World Food,Walkers,3.8666666666666667,359,417.0,173.0,590.0
+Gourmet & World Food,Neo foods ,4.45,32,84.0,510.0,594.0
+Gourmet & World Food,Cofresh,4.1,140,261.5,333.0,594.5
+Gourmet & World Food,Zour Bomb,4.2,70,155.0,439.5,594.5
+Gourmet & World Food,Bounty,4.3,51,119.5,476.0,595.5
+Gourmet & World Food,Starbucks,4.1,138,261.5,336.5,598.0
+Gourmet & World Food,Yes You Can,4.1,136,261.5,338.0,599.5
+Gourmet & World Food,Loyka,4.1,135,261.5,339.0,600.5
+Gourmet & World Food,Kokos Natural,3.9749999999999996,299,390.0,211.0,601.0
+Gourmet & World Food,Sour Punk,4.366666666666666,37,101.0,501.0,602.0
+Gourmet & World Food,Mcvities,4.333333333333333,43,112.0,491.0,603.0
+Gourmet & World Food,Smoor,3.0,667,508.5,94.5,603.0
+Gourmet & World Food,Impero,4.1,129,261.5,345.0,606.5
+Gourmet & World Food,Cocoacraft,3.55,400,454.0,154.0,608.0
+Gourmet & World Food,Under The Mango Tree,3.966666666666667,287,391.5,216.5,608.0
+Gourmet & World Food,TrueNature,4.5,13,72.0,536.5,608.5
+Gourmet & World Food,Millet Mantra,4.1,122,261.5,350.0,611.5
+Gourmet & World Food,Vico,4.1,120,261.5,352.5,614.0
+Gourmet & World Food,Sriracha,4.5,4,72.0,543.0,615.0
+Gourmet & World Food,Britte ,4.1,118,261.5,355.5,617.0
+Gourmet & World Food,EXPLORE CUISINE,4.2,59,155.0,462.0,617.0
+Gourmet & World Food,Nature Valley,4.05,215,351.0,272.0,623.0
+Gourmet & World Food,Yum Yum,3.1666666666666665,520,496.0,132.0,628.0
+Gourmet & World Food,She made,2.766666666666667,623,521.0,108.0,629.0
+Gourmet & World Food,Ask Foods,3.966666666666667,255,391.5,239.5,631.0
+Gourmet & World Food,Bel Normande,4.1,106,261.5,369.5,631.0
+Gourmet & World Food,Evian,4.1,106,261.5,369.5,631.0
+Gourmet & World Food,Ausum Tea,4.1,105,261.5,371.5,633.0
+Gourmet & World Food,Broth Craft,4.1,100,261.5,377.0,638.5
+Gourmet & World Food,Fusen,4.1,100,261.5,377.0,638.5
+Gourmet & World Food,Beantree,3.9666666666666663,241,393.0,248.5,641.5
+Gourmet & World Food,D-Alive,3.05,461,498.0,143.5,641.5
+Gourmet & World Food,Kraft,4.1,99,261.5,380.5,642.0
+Gourmet & World Food,Kantan,3.0,518,508.5,134.0,642.5
+Gourmet & World Food,Quaker,4.3,21,119.5,524.0,643.5
+Gourmet & World Food,NuttyFox,4.1,96,261.5,383.0,644.5
+Gourmet & World Food,Mangajo,4.1,94,261.5,387.0,648.5
+Gourmet & World Food,Sidapur,3.7,314,442.5,206.5,649.0
+Gourmet & World Food,Fabelle,3.9200000000000004,241,401.5,248.5,650.0
+Gourmet & World Food,Delouis,4.2,40,155.0,497.0,652.0
+Gourmet & World Food,Batchelors,4.1,93,261.5,391.5,653.0
+Gourmet & World Food,Deli Sun,4.066666666666666,160,341.0,313.0,654.0
+Gourmet & World Food,Elephant House,4.1,91,261.5,395.0,656.5
+Gourmet & World Food,Future Organics,4.2,35,155.0,504.0,659.0
+Gourmet & World Food,Sacla,4.1,90,261.5,397.5,659.0
+Gourmet & World Food,OrientAsian,3.9,241,411.5,248.5,660.0
+Gourmet & World Food,Coco Cado,3.3333333333333335,339,478.0,183.5,661.5
+Gourmet & World Food,Aranya's,4.1,89,261.5,401.5,663.0
+Gourmet & World Food,LO! Foods,4.1,89,261.5,401.5,663.0
+Gourmet & World Food,Lezzet,4.1,89,261.5,401.5,663.0
+Gourmet & World Food,Tango,4.1,89,261.5,401.5,663.0
+Gourmet & World Food,Thoa,4.1,88,261.5,406.0,667.5
+Gourmet & World Food,KOOKIN,4.1,87,261.5,408.5,670.0
+Gourmet & World Food,Glint,4.1,85,261.5,412.5,674.0
+Gourmet & World Food,Queen,4.1,85,261.5,412.5,674.0
+Gourmet & World Food,Wilbur,4.1,85,261.5,412.5,674.0
+Gourmet & World Food,Orileys,2.5500000000000003,429,527.0,148.0,675.0
+Gourmet & World Food,MAGGI ,4.2,23,155.0,521.0,676.0
+Gourmet & World Food,Gullon,4.1,84,261.5,415.5,677.0
+Gourmet & World Food,Mission,4.1,84,261.5,415.5,677.0
+Gourmet & World Food,PureFoods,3.0214285714285714,346,499.0,179.0,678.0
+Gourmet & World Food,Hoegaarden 0.0,4.2,21,155.0,524.0,679.0
+Gourmet & World Food,Colourmist,3.7,257,442.5,238.0,680.5
+Gourmet & World Food,Roasty Tasty,3.5714285714285716,273,453.0,227.5,680.5
+Gourmet & World Food,Nourish Organics,3.5,276,459.5,225.0,684.5
+Gourmet & World Food,Appitas,3.2714285714285714,320,487.0,198.5,685.5
+Gourmet & World Food,Eco Pack,4.1,76,261.5,426.0,687.5
+Gourmet & World Food,Golden Prize,4.2,15,155.0,532.5,687.5
+Gourmet & World Food,Mamy,4.0,160,374.5,313.0,687.5
+Gourmet & World Food,Yoga Pulp,4.1,76,261.5,426.0,687.5
+Gourmet & World Food,Toonpops,3.25,318,489.0,201.0,690.0
+Gourmet & World Food,Sunsweet,4.1,75,261.5,429.0,690.5
+Gourmet & World Food,Hup Seng,3.31,298,479.5,212.0,691.5
+Gourmet & World Food,Duncan Hines,4.0,154,374.5,319.0,693.5
+Gourmet & World Food,Kapiva Ayurveda,3.9250000000000003,185,400.0,294.5,694.5
+Gourmet & World Food,Ah!rogya Bar,3.9,192,411.5,285.5,697.0
+Gourmet & World Food,Dorset,4.1,73,261.5,435.5,697.0
+Gourmet & World Food,Country Bean,4.1,72,261.5,437.0,698.5
+Gourmet & World Food,On The Run,2.85,340,519.0,182.0,701.0
+Gourmet & World Food,Cambridge Tea Party,3.9,187,411.5,292.0,703.5
+Gourmet & World Food,Zoik,4.1,69,261.5,442.0,703.5
+Gourmet & World Food,marshmallow,4.1,69,261.5,442.0,703.5
+Gourmet & World Food,Spigadro,4.1,68,261.5,444.5,706.0
+Gourmet & World Food,Skittles,3.483333333333333,244,465.0,244.0,709.0
+Gourmet & World Food,HELL,4.1,66,261.5,448.5,710.0
+Gourmet & World Food,Ontherun,4.1,66,261.5,448.5,710.0
+Gourmet & World Food,Dutch Delights,4.1,65,261.5,451.5,713.0
+Gourmet & World Food,Chizzpa,4.0,134,374.5,340.0,714.5
+Gourmet & World Food,Anveshan,4.1,61,261.5,457.0,718.5
+Gourmet & World Food,BLUFF,4.1,61,261.5,457.0,718.5
+Gourmet & World Food,Saffola FITTIFY Gourmet,2.4285714285714284,337,532.0,186.5,718.5
+Gourmet & World Food,Fresh Ground,3.5,225,459.5,260.5,720.0
+Gourmet & World Food,Blue Tea,4.1,60,261.5,459.0,720.5
+Gourmet & World Food,Cantina Mexicana,2.7142857142857144,320,523.0,198.5,721.5
+Gourmet & World Food,Saffola,4.050000000000001,101,347.5,374.0,721.5
+Gourmet & World Food,Bellie,4.0,127,374.5,348.0,722.5
+Gourmet & World Food,Frubites,4.1,59,261.5,462.0,723.5
+Gourmet & World Food,Walden Farms,4.1,59,261.5,462.0,723.5
+Gourmet & World Food,Weetabix,4.1,58,261.5,465.5,727.0
+Gourmet & World Food,Jivika Naturals,4.0,118,374.5,355.5,730.0
+Gourmet & World Food,Delaviuda,4.1,55,261.5,469.0,730.5
+Gourmet & World Food,Wow Confetti,3.0,280,508.5,223.0,731.5
+Gourmet & World Food,Gogi,4.1,52,261.5,474.5,736.0
+Gourmet & World Food,Japanese Choice,3.25,241,489.0,248.5,737.5
+Gourmet & World Food,Spigadoro,4.1,50,261.5,477.0,738.5
+Gourmet & World Food,Zevic Premium,3.9333333333333336,133,398.0,341.0,739.0
+Gourmet & World Food,Fine Decor,4.1,49,261.5,479.0,740.5
+Gourmet & World Food,Flahavan'S,4.1,49,261.5,479.0,740.5
+Gourmet & World Food,Murginns,3.9000000000000004,139,407.0,334.5,741.5
+Gourmet & World Food,Sprig Tea,3.45,211,467.0,275.0,742.0
+Gourmet & World Food,ARMR,4.1,47,261.5,484.0,745.5
+Gourmet & World Food,The Health Factory,3.6666666666666665,180,447.0,299.5,746.5
+Gourmet & World Food,Dae Chun Gim,3.5,190,459.5,288.0,747.5
+Gourmet & World Food,Dolpin,4.1,46,261.5,486.5,748.0
+Gourmet & World Food,Again,3.5,188,459.5,289.5,749.0
+Gourmet & World Food,Purple Hippie,1.5333333333333332,301,540.0,210.0,750.0
+Gourmet & World Food,Delishh,2.95,264,517.0,234.0,751.0
+Gourmet & World Food,Bogutti,2.425,283,533.0,220.5,753.5
+Gourmet & World Food,Ambriona,3.9,128,411.5,346.5,758.0
+Gourmet & World Food,FIESTA,4.1,40,261.5,497.0,758.5
+Gourmet & World Food,Hii,4.1,40,261.5,497.0,758.5
+Gourmet & World Food,Quencha,4.1,40,261.5,497.0,758.5
+Gourmet & World Food,Swabhiman33,4.1,40,261.5,497.0,758.5
+Gourmet & World Food,Oleiva Gold,3.31,205,479.5,281.0,760.5
+Gourmet & World Food,Brunella,4.0,94,374.5,387.0,761.5
+Gourmet & World Food,John's,4.1,35,261.5,504.0,765.5
+Gourmet & World Food,Perrier,4.1,35,261.5,504.0,765.5
+Gourmet & World Food,Picnic,3.375,187,476.0,292.0,768.0
+Gourmet & World Food,Nummy,4.1,33,261.5,508.0,769.5
+Gourmet & World Food,Nelson Honey,4.1,29,261.5,513.0,774.5
+Gourmet & World Food,Care,2.7600000000000002,234,522.0,253.0,775.0
+Gourmet & World Food,Kettle Studio,3.5,156,459.5,316.5,776.0
+Gourmet & World Food,Opera,3.533333333333333,153,455.0,321.0,776.0
+Gourmet & World Food,Bechef,3.216666666666667,191,493.0,287.0,780.0
+Gourmet & World Food,Isvaari,3.35,177,477.0,303.0,780.0
+Gourmet & World Food,Meiji ,4.05,75,351.0,429.0,780.0
+Gourmet & World Food,V8,4.1,25,261.5,519.0,780.5
+Gourmet & World Food,Choc Coin,3.8333333333333335,115,422.5,359.0,781.5
+Gourmet & World Food,Foodecor,2.5,235,529.5,252.0,781.5
+Gourmet & World Food,Al' Fez,4.1,23,261.5,521.0,782.5
+Gourmet & World Food,Capilano,3.95,93,394.0,391.5,785.5
+Gourmet & World Food,Terra,3.5,148,459.5,327.0,786.5
+Gourmet & World Food,Dr. Schar,4.0,85,374.5,412.5,787.0
+Gourmet & World Food,Matilde Vicenzi,2.5,230,529.5,257.5,787.0
+Gourmet & World Food,Carl Jung,3.8,114,429.0,360.0,789.0
+Gourmet & World Food,Alpen,4.1,19,261.5,528.0,789.5
+Gourmet & World Food,Marshmelts,3.3,168,484.0,306.0,790.0
+Gourmet & World Food,Alaska,4.1,15,261.5,532.5,794.0
+Gourmet & World Food,Grami Superfoods,4.0,80,374.5,419.5,794.0
+Gourmet & World Food,Kolln,4.1,14,261.5,534.5,796.0
+Gourmet & World Food,Bragg,4.05,67,351.0,446.0,797.0
+Gourmet & World Food,Healthsootra,4.1,9,261.5,539.0,800.5
+Gourmet & World Food,Health Sutra,3.75,108,435.0,366.5,801.5
+Gourmet & World Food,The Butternut Co.,4.1,7,261.5,540.0,801.5
+Gourmet & World Food,Naturesmith,4.1,6,261.5,541.5,803.0
+Gourmet & World Food,MOJO THINS,3.0,181,508.5,298.0,806.5
+Gourmet & World Food,Hatti Kaapi,3.6,116,449.5,358.0,807.5
+Gourmet & World Food,Van Pur,4.1,0,261.5,546.0,807.5
+Gourmet & World Food,Octavius,3.0,174,508.5,304.0,812.5
+Gourmet & World Food,Naturals,3.0,171,508.5,305.0,813.5
+Gourmet & World Food,Cocoland,4.050000000000001,55,347.5,469.0,816.5
+Gourmet & World Food,Jiva Ayurveda,2.8666666666666667,179,518.0,301.5,819.5
+Gourmet & World Food,Max Health ,3.7,100,442.5,377.0,819.5
+Gourmet & World Food,BIKA,3.4000000000000004,120,471.0,352.5,823.5
+Gourmet & World Food,Parle,3.6999999999999997,99,445.0,380.5,825.5
+Gourmet & World Food,Lune De Miel ,4.0,64,374.5,453.0,827.5
+Gourmet & World Food,Vochelle,3.9,83,411.5,417.5,829.0
+Gourmet & World Food,RYCA,3.0,153,508.5,321.0,829.5
+Gourmet & World Food,Bakerswhip,2.566666666666667,167,526.0,307.5,833.5
+Gourmet & World Food,Rampura,3.233333333333333,132,492.0,342.5,834.5
+Gourmet & World Food,BHealthy,3.0,147,508.5,328.5,837.0
+Gourmet & World Food,Hintz,3.0,147,508.5,328.5,837.0
+Gourmet & World Food,Aaha Oho,3.4,109,473.5,364.5,838.0
+Gourmet & World Food,Corniche,3.3000000000000003,117,481.0,357.0,838.0
+Gourmet & World Food,Amrutanjan Fruitnik,3.8,86,429.0,410.0,839.0
+Gourmet & World Food,Sri Sri Tattva,4.0,57,374.5,467.0,841.5
+Gourmet & World Food,Lotus,3.9,68,411.5,444.5,856.0
+Gourmet & World Food,Chocoville,4.0,47,374.5,484.0,858.5
+Gourmet & World Food,Madilu,3.9,66,411.5,448.5,860.0
+Gourmet & World Food,Mothers Maid,3.4,94,473.5,387.0,860.5
+Gourmet & World Food,SARI GANDUM,4.0,45,374.5,488.5,863.0
+Gourmet & World Food,Lotte,3.6,77,449.5,424.0,873.5
+Gourmet & World Food,Lee Kum Kee,2.5,111,529.5,361.0,890.5
+Gourmet & World Food,Langnese,2.1999999999999997,119,537.0,354.0,891.0
+Gourmet & World Food,ZOROY,1.0,121,543.5,351.0,894.5
+Gourmet & World Food,Hunter's Gourmet,3.0,94,508.5,387.0,895.5
+Gourmet & World Food,Baron De Bercy,3.8,54,429.0,471.5,900.5
+Gourmet & World Food,Ambrosia Delicatessen,3.3,83,484.0,417.5,901.5
+Gourmet & World Food,bb Royal,4.0,19,374.5,528.0,902.5
+Gourmet & World Food,Bachun ,4.0,16,374.5,531.0,905.5
+Gourmet & World Food,Zazzy,3.6,61,449.5,457.0,906.5
+Gourmet & World Food,Royal Dansk,2.3,104,535.0,373.0,908.0
+Gourmet & World Food,Loreto,3.0,89,508.5,401.5,910.0
+Gourmet & World Food,Jacker ,3.25,69,489.0,442.0,931.0
+Gourmet & World Food,Christopher Cocoa,3.8,35,429.0,504.0,933.0
+Gourmet & World Food,Tofu,3.9,21,411.5,524.0,935.5
+Gourmet & World Food,GoYNG,1.0,91,543.5,395.0,938.5
+Gourmet & World Food,Briyas,3.8,31,429.0,511.0,940.0
+Gourmet & World Food,General Mills,1.0,89,543.5,401.5,945.0
+Gourmet & World Food,DaVinci Gourmet,3.8,23,429.0,521.0,950.0
+Gourmet & World Food,Go Desi,3.4,48,473.5,481.5,955.0
+Gourmet & World Food,Soulfull,2.7,71,524.5,438.0,962.5
+Gourmet & World Food,Maple Joe,3.8,13,429.0,536.5,965.5
+Gourmet & World Food,Haribo,3.3,47,484.0,484.0,968.0
+Gourmet & World Food,Blue Diamond,3.2,52,494.0,474.5,968.5
+Gourmet & World Food,Sakura,1.0,74,543.5,432.5,976.0
+Gourmet & World Food,137 Degree,3.5,27,459.5,517.0,976.5
+Gourmet & World Food,The Healthy Cravings Co.,3.7,3,442.5,544.0,986.5
+Gourmet & World Food,Diamond,1.0,66,543.5,448.5,992.0
+Gourmet & World Food,ADIRA,3.0,46,508.5,486.5,995.0
+Gourmet & World Food,Ice Berg,3.3,29,484.0,513.0,997.0
+Gourmet & World Food,Cpp,2.8,49,520.0,479.0,999.0
+Gourmet & World Food,Dhampur Green,3.0,43,508.5,491.0,999.5
+Gourmet & World Food,Taj Mahal,2.0,59,538.5,462.0,1000.5
+Gourmet & World Food,Alfa,3.3,27,484.0,517.0,1001.0
+Gourmet & World Food,Blv Fine Blend,3.0,42,508.5,493.0,1001.5
+Gourmet & World Food,Elephant ,3.4,19,473.5,528.0,1001.5
+Gourmet & World Food,Fantastic,3.0,41,508.5,494.0,1002.5
+Gourmet & World Food,Arcor,2.3,38,535.0,500.0,1035.0
+Gourmet & World Food,The Bridge Bio,2.3,33,535.0,508.0,1043.0
+Gourmet & World Food,Bakersveggie,3.0,1,508.5,545.0,1053.5
+Gourmet & World Food,Chicnutrix,2.5,20,529.5,526.0,1055.5
+Gourmet & World Food,Double Pagoda,2.7,11,524.5,538.0,1062.5
+Gourmet & World Food,Spc,1.0,18,543.5,530.0,1073.5
+"Kitchen, Garden & Pets",Ocean,4.7368421052631575,1925,11.0,23.0,34.0
+"Kitchen, Garden & Pets",Laopala Diva,4.7105263157894735,1719,12.0,29.0,41.0
+"Kitchen, Garden & Pets",DP,4.219117647058824,6299,50.0,2.0,52.0
+"Kitchen, Garden & Pets",BB Home,4.194648829431438,15343,54.0,1.0,55.0
+"Kitchen, Garden & Pets",Pedigree,4.309090909090909,2305,40.0,17.0,57.0
+"Kitchen, Garden & Pets",Corelle,4.473076923076923,1431,24.0,35.0,59.0
+"Kitchen, Garden & Pets",Whiskas,4.416216216216216,1728,32.0,28.0,60.0
+"Kitchen, Garden & Pets",Glenand,4.448484848484849,1559,30.0,33.0,63.0
+"Kitchen, Garden & Pets",Rslee,5.0,893,4.0,60.0,64.0
+"Kitchen, Garden & Pets",Captain Zack,4.4523809523809526,1157,27.0,45.0,72.0
+"Kitchen, Garden & Pets",Hi-Luxe,4.620588235294117,895,16.0,59.0,75.0
+"Kitchen, Garden & Pets",Treo,4.0321428571428575,2957,63.0,12.0,75.0
+"Kitchen, Garden & Pets",Hot Muggs,4.458333333333333,1044,26.0,51.0,77.0
+"Kitchen, Garden & Pets",Krosno - Europe,4.607142857142857,738,17.0,68.0,85.0
+"Kitchen, Garden & Pets",Ratan,4.121739130434783,1186,55.0,44.0,99.0
+"Kitchen, Garden & Pets",Saaj,4.013333333333334,1343,65.0,37.0,102.0
+"Kitchen, Garden & Pets",Hawkins Futura,4.286666666666666,849,45.0,62.0,107.0
+"Kitchen, Garden & Pets",Roxx,4.4,602,35.0,79.0,114.0
+"Kitchen, Garden & Pets",Cello,3.913592233009709,4885,118.0,4.0,122.0
+"Kitchen, Garden & Pets",Pyrex,4.6499999999999995,332,14.0,111.0,125.0
+"Kitchen, Garden & Pets",Nayasa,3.9892857142857143,1732,107.0,27.0,134.0
+"Kitchen, Garden & Pets",Flair,3.9378378378378374,1990,116.0,20.0,136.0
+"Kitchen, Garden & Pets",SHEBA,4.377777777777777,419,39.0,97.0,136.0
+"Kitchen, Garden & Pets",Tallboy,4.008333333333333,676,66.0,71.0,137.0
+"Kitchen, Garden & Pets",Pasabahce,3.8499999999999996,3238,130.0,10.0,140.0
+"Kitchen, Garden & Pets",FNS,5.0,198,4.0,143.0,147.0
+"Kitchen, Garden & Pets",Mastercook,3.805172413793103,2901,135.0,14.0,149.0
+"Kitchen, Garden & Pets",Iveo ,3.7542372881355934,5561,147.0,3.0,150.0
+"Kitchen, Garden & Pets",Milton,3.9066666666666667,1615,120.0,31.0,151.0
+"Kitchen, Garden & Pets",Drools,3.859459459459459,1923,128.0,24.0,152.0
+"Kitchen, Garden & Pets",Hawkins,3.8595238095238096,1763,127.0,26.0,153.0
+"Kitchen, Garden & Pets",Yera,3.7880000000000003,2574,138.0,15.0,153.0
+"Kitchen, Garden & Pets",Tedemei,3.827777777777778,1963,132.0,22.0,154.0
+"Kitchen, Garden & Pets",Fackelmann,3.782222222222222,2357,140.0,16.0,156.0
+"Kitchen, Garden & Pets",Himalaya Pet Care,4.1,410,57.0,99.5,156.5
+"Kitchen, Garden & Pets",Nouvetta,4.625,203,15.0,142.0,157.0
+"Kitchen, Garden & Pets",Claycraft,3.7010752688172044,4531,156.0,5.0,161.0
+"Kitchen, Garden & Pets",Homio,4.3,293,42.5,119.0,161.5
+"Kitchen, Garden & Pets",Parachase,5.0,155,4.0,158.5,162.5
+"Kitchen, Garden & Pets",Elephant ,3.9,1292,121.5,42.0,163.5
+"Kitchen, Garden & Pets",Saura,3.7552631578947366,2264,146.0,18.0,164.0
+"Kitchen, Garden & Pets",Steelo,3.8607142857142853,1328,126.0,38.0,164.0
+"Kitchen, Garden & Pets",Eveready,3.8894736842105266,1299,124.0,40.5,164.5
+"Kitchen, Garden & Pets",bb Combo,4.05,351,59.5,105.0,164.5
+"Kitchen, Garden & Pets",Chappi,4.466666666666667,205,25.0,140.0,165.0
+"Kitchen, Garden & Pets",Philips,3.9549999999999996,981,109.0,56.0,165.0
+"Kitchen, Garden & Pets",Anjali,3.6987951807228914,4005,160.0,6.0,166.0
+"Kitchen, Garden & Pets",Borosil,3.9214285714285713,1050,117.0,50.0,167.0
+"Kitchen, Garden & Pets",Purepet,3.9523809523809526,932,110.0,58.0,168.0
+"Kitchen, Garden & Pets",Maxi Persian,5.0,122,4.0,170.5,174.5
+"Kitchen, Garden & Pets",Glass Ideas ,4.1,303,57.0,118.0,175.0
+"Kitchen, Garden & Pets",Pinnacle,4.5,160,20.5,156.0,176.5
+"Kitchen, Garden & Pets",Asian,3.559036144578313,3760,170.0,7.0,177.0
+"Kitchen, Garden & Pets",Kitchen Essentials,3.7821428571428575,1356,141.0,36.0,177.0
+"Kitchen, Garden & Pets",HAZEL,3.570588235294118,3511,169.0,9.0,178.0
+"Kitchen, Garden & Pets",Temptations,4.4,193,35.0,144.0,179.0
+"Kitchen, Garden & Pets",Yongsheng,4.5,155,20.5,158.5,179.0
+"Kitchen, Garden & Pets",Craftel,4.279999999999999,230,46.0,134.0,180.0
+"Kitchen, Garden & Pets",Yujing,4.3,208,42.5,137.5,180.0
+"Kitchen, Garden & Pets",Princeware,3.6880434782608695,2175,162.0,19.0,181.0
+"Kitchen, Garden & Pets",Soogo,4.4399999999999995,177,31.0,150.0,181.0
+"Kitchen, Garden & Pets",Pearlpet,4.04,284,61.0,122.0,183.0
+"Kitchen, Garden & Pets",Cook4U,4.7,118,13.0,172.0,185.0
+"Kitchen, Garden & Pets",Shri & Sam,4.75,103,9.5,176.5,186.0
+"Kitchen, Garden & Pets",Chip Chops,4.5,139,20.5,166.0,186.5
+"Kitchen, Garden & Pets",KM,4.45,152,28.5,160.0,188.5
+"Kitchen, Garden & Pets",LaOpala,3.4735294117647055,3546,182.0,8.0,190.0
+"Kitchen, Garden & Pets",Bergner,5.0,94,4.0,186.5,190.5
+"Kitchen, Garden & Pets",Steel Lock,3.7304347826086954,1299,150.0,40.5,190.5
+"Kitchen, Garden & Pets",Daily Dump,4.05,233,59.5,131.5,191.0
+"Kitchen, Garden & Pets",IAMS,4.3999999999999995,169,38.0,153.5,191.5
+"Kitchen, Garden & Pets",Kvg,3.71,1326,154.0,39.0,193.0
+"Kitchen, Garden & Pets",Ritu,3.5378048780487807,1980,172.0,21.0,193.0
+"Kitchen, Garden & Pets",BTN Sports,4.0,343,86.5,107.0,193.5
+"Kitchen, Garden & Pets",Dogsee Crunch,4.25,186,47.5,146.0,193.5
+"Kitchen, Garden & Pets",KINGSTA,4.5,114,20.5,173.0,193.5
+"Kitchen, Garden & Pets",JOYO,3.728,1216,151.0,43.0,194.0
+"Kitchen, Garden & Pets",Wipro,3.96,545,108.0,86.0,194.0
+"Kitchen, Garden & Pets",Casasunco,4.25,182,47.5,148.0,195.5
+"Kitchen, Garden & Pets",Energizer,3.942857142857143,585,115.0,81.0,196.0
+"Kitchen, Garden & Pets",Tefal,4.75,94,9.5,186.5,196.0
+"Kitchen, Garden & Pets",Yoo Yee,4.8,93,8.0,189.0,197.0
+"Kitchen, Garden & Pets",Polyset,3.642857142857143,1569,166.0,32.0,198.0
+"Kitchen, Garden & Pets",Vinod,3.893333333333333,652,123.0,76.0,199.0
+"Kitchen, Garden & Pets",Pet king,4.0,318,86.5,113.0,199.5
+"Kitchen, Garden & Pets",Prestige,3.452238805970149,3028,189.0,11.0,200.0
+"Kitchen, Garden & Pets",Joyo Steel,3.552941176470588,1690,171.0,30.0,201.0
+"Kitchen, Garden & Pets",Panasonic,3.9444444444444446,541,114.0,87.0,201.0
+"Kitchen, Garden & Pets",Animology,4.0,311,86.5,115.0,201.5
+"Kitchen, Garden & Pets",Lyra,3.8000000000000003,760,136.5,66.0,202.5
+"Kitchen, Garden & Pets",Hm International,3.4347826086956523,2917,190.0,13.0,203.0
+"Kitchen, Garden & Pets",Seven seas,3.8454545454545452,670,131.0,72.0,203.0
+"Kitchen, Garden & Pets",JCPL,4.2,176,52.0,151.5,203.5
+"Kitchen, Garden & Pets",Namhya,5.0,77,4.0,199.5,203.5
+"Kitchen, Garden & Pets",Fng,4.3,147,42.5,162.0,204.5
+"Kitchen, Garden & Pets",Xishifeng,4.45,99,28.5,178.5,207.0
+"Kitchen, Garden & Pets",Ferplast,4.0,288,86.5,121.0,207.5
+"Kitchen, Garden & Pets",Nakoda,3.9499999999999997,451,113.0,96.0,209.0
+"Kitchen, Garden & Pets",HONGLI,4.5,93,20.5,189.0,209.5
+"Kitchen, Garden & Pets",Signoraware,3.8000000000000003,662,136.5,73.0,209.5
+"Kitchen, Garden & Pets",Wiggles.in,4.0,262,86.5,124.0,210.5
+"Kitchen, Garden & Pets",Wood & Kemp,5.0,56,4.0,209.0,213.0
+"Kitchen, Garden & Pets",Jagdamba,4.4,99,35.0,178.5,213.5
+"Kitchen, Garden & Pets",Jerhigh,4.0,245,86.5,128.0,214.5
+"Kitchen, Garden & Pets",Laplast,3.484848484848485,1484,181.0,34.0,215.0
+"Kitchen, Garden & Pets",Vinayak,3.59,1124,168.0,47.0,215.0
+"Kitchen, Garden & Pets",Kennel kitchen ,3.9,465,121.5,94.0,215.5
+"Kitchen, Garden & Pets",BP Bharat,3.707142857142857,871,155.0,61.0,216.0
+"Kitchen, Garden & Pets",Neelam,3.4212121212121214,1798,191.0,25.0,216.0
+"Kitchen, Garden & Pets",Duracell,4.025,169,64.0,153.5,217.5
+"Kitchen, Garden & Pets",Natures Plus,3.9071428571428575,394,119.0,102.0,221.0
+"Kitchen, Garden & Pets",Wahl,3.65,939,164.0,57.0,221.0
+"Kitchen, Garden & Pets",Bamboooz,3.7714285714285714,600,143.0,80.0,223.0
+"Kitchen, Garden & Pets",SKI,3.6923076923076925,750,161.0,67.0,228.0
+"Kitchen, Garden & Pets",Nippo,3.7583333333333333,546,145.0,85.0,230.0
+"Kitchen, Garden & Pets",Yellow Spark,3.7857142857142856,484,139.0,92.0,231.0
+"Kitchen, Garden & Pets",Home Puff,3.857142857142857,374,129.0,103.0,232.0
+"Kitchen, Garden & Pets",Nirlon,3.4863636363636363,1017,180.0,52.0,232.0
+"Kitchen, Garden & Pets",Namoo,3.7666666666666666,508,144.0,89.0,233.0
+"Kitchen, Garden & Pets",Blinkmax,4.0,182,86.5,148.0,234.5
+"Kitchen, Garden & Pets",Deli,4.2,96,52.0,183.5,235.5
+"Kitchen, Garden & Pets",Ramson,3.72,565,153.0,83.0,236.0
+"Kitchen, Garden & Pets",Trm,3.47,1004,184.5,53.5,238.0
+"Kitchen, Garden & Pets",Cartini by Godrej,3.8125,344,134.0,106.0,240.0
+"Kitchen, Garden & Pets",India Circus,3.727272727272727,518,152.0,88.0,240.0
+"Kitchen, Garden & Pets",Aristo,3.6,653,167.0,75.0,242.0
+"Kitchen, Garden & Pets",NNF,4.5,33,20.5,224.0,244.5
+"Kitchen, Garden & Pets",Milltec,3.6454545454545455,566,165.0,82.0,247.0
+"Kitchen, Garden & Pets",NSH,4.4,51,35.0,213.5,248.5
+"Kitchen, Garden & Pets",Petcrux,4.0,147,86.5,162.0,248.5
+"Kitchen, Garden & Pets",Cartini,4.3,57,42.5,207.5,250.0
+"Kitchen, Garden & Pets",H&B,3.5,656,177.0,74.0,251.0
+"Kitchen, Garden & Pets",Ziva,4.033333333333333,93,62.0,189.0,251.0
+"Kitchen, Garden & Pets",Xing wang,4.0,142,86.5,165.0,251.5
+"Kitchen, Garden & Pets",Servewell,3.325,1004,200.0,53.5,253.5
+"Kitchen, Garden & Pets",Tarrington house,4.0,129,86.5,167.0,253.5
+"Kitchen, Garden & Pets",IFFCO Urban Gardens,4.233333333333333,62,49.0,206.0,255.0
+"Kitchen, Garden & Pets",Montavo,3.5357142857142856,557,173.0,84.0,257.0
+"Kitchen, Garden & Pets",Crystal,3.392857142857143,774,194.0,65.0,259.0
+"Kitchen, Garden & Pets",Fendo,3.3529411764705883,812,196.0,63.0,259.0
+"Kitchen, Garden & Pets",TGL Co.,3.8200000000000003,249,133.0,126.0,259.0
+"Kitchen, Garden & Pets",All Time,3.4733333333333336,623,183.0,77.0,260.0
+"Kitchen, Garden & Pets",Pet en Care,4.0,110,86.5,174.0,260.5
+"Kitchen, Garden & Pets",Green apple,4.1,72,57.0,204.0,261.0
+"Kitchen, Garden & Pets",Magnus,3.6818181818181817,418,163.0,98.0,261.0
+"Kitchen, Garden & Pets",Iqix,4.0,103,86.5,176.5,263.0
+"Kitchen, Garden & Pets",Le Kaviraj,3.0949999999999998,1131,218.0,46.0,264.0
+"Kitchen, Garden & Pets",Mansaa,3.8666666666666667,205,125.0,140.0,265.0
+"Kitchen, Garden & Pets",Adithya,4.4,18,35.0,231.0,266.0
+"Kitchen, Garden & Pets",Superware,3.0913043478260867,1119,219.0,48.0,267.0
+"Kitchen, Garden & Pets",Big Plastic,4.0,97,86.5,181.0,267.5
+"Kitchen, Garden & Pets",Leo Natura,4.0,97,86.5,181.0,267.5
+"Kitchen, Garden & Pets",Get Off,4.0,96,86.5,183.5,270.0
+"Kitchen, Garden & Pets",Frestol,2.8476190476190473,1116,225.0,49.0,274.0
+"Kitchen, Garden & Pets",AGARO,3.95,146,111.5,164.0,275.5
+"Kitchen, Garden & Pets",Choostix,4.0,91,86.5,191.5,278.0
+"Kitchen, Garden & Pets",Diamond'S,4.0,91,86.5,191.5,278.0
+"Kitchen, Garden & Pets",Omega,3.5,407,177.0,101.0,278.0
+"Kitchen, Garden & Pets",Lets Bite,4.2,27,52.0,226.5,278.5
+"Kitchen, Garden & Pets",Raja,3.733333333333333,234,149.0,130.0,279.0
+"Kitchen, Garden & Pets",Health Potion,4.0,90,86.5,193.0,279.5
+"Kitchen, Garden & Pets",Royal Canin,4.0,86,86.5,195.0,281.5
+"Kitchen, Garden & Pets",NanoNine,2.815,995,227.0,55.0,282.0
+"Kitchen, Garden & Pets",Companian Pets,4.0,84,86.5,196.0,282.5
+"Kitchen, Garden & Pets",Swastik Steel,3.457142857142857,455,188.0,95.0,283.0
+"Kitchen, Garden & Pets",Mr.Copper King,3.0785714285714287,810,220.0,64.0,284.0
+"Kitchen, Garden & Pets",Swastik,3.1833333333333336,678,214.0,70.0,284.0
+"Kitchen, Garden & Pets",Syska,3.3909090909090907,505,195.0,90.0,285.0
+"Kitchen, Garden & Pets",Klassic,3.108333333333333,717,217.0,69.0,286.0
+"Kitchen, Garden & Pets",Kemei,4.0,76,86.5,201.5,288.0
+"Kitchen, Garden & Pets",Silicone ,4.0,76,86.5,201.5,288.0
+"Kitchen, Garden & Pets",Trixie,4.0,73,86.5,203.0,289.5
+"Kitchen, Garden & Pets",Wonderchef,3.466666666666667,357,186.5,104.0,290.5
+"Kitchen, Garden & Pets",Aagam,3.161538461538462,605,216.0,78.0,294.0
+"Kitchen, Garden & Pets",Furresh,4.0,57,86.5,207.5,294.0
+"Kitchen, Garden & Pets",FITDI,4.0,55,86.5,210.0,296.5
+"Kitchen, Garden & Pets",Mukti,3.7000000000000006,205,157.0,140.0,297.0
+"Kitchen, Garden & Pets",RYL,4.0,53,86.5,211.0,297.5
+"Kitchen, Garden & Pets",Ebpowon,4.0,52,86.5,212.0,298.5
+"Kitchen, Garden & Pets",Gnawlers,4.0,51,86.5,213.5,300.0
+"Kitchen, Garden & Pets",Eco,3.3,410,204.0,99.5,303.5
+"Kitchen, Garden & Pets",Forgreen,3.775,147,142.0,162.0,304.0
+"Kitchen, Garden & Pets",IRICH,3.2399999999999998,471,211.0,93.0,304.0
+"Kitchen, Garden & Pets",Kolan,4.0,42,86.5,218.0,304.5
+"Kitchen, Garden & Pets",Farmina,4.0,39,86.5,220.0,306.5
+"Kitchen, Garden & Pets",My Beau,4.0,37,86.5,221.0,307.5
+"Kitchen, Garden & Pets",Rolex ,3.47,263,184.5,123.0,307.5
+"Kitchen, Garden & Pets",Jensons,3.3333333333333335,333,198.5,110.0,308.5
+"Kitchen, Garden & Pets",Victor,3.95,82,111.5,197.0,308.5
+"Kitchen, Garden & Pets",Goodies,4.0,34,86.5,222.5,309.0
+"Kitchen, Garden & Pets",Pigeon,3.35,322,197.0,112.0,309.0
+"Kitchen, Garden & Pets",Master,3.4,291,192.5,120.0,312.5
+"Kitchen, Garden & Pets",Bento,4.0,22,86.5,229.0,315.5
+"Kitchen, Garden & Pets",Lexton,3.2750000000000004,337,207.0,109.0,316.0
+"Kitchen, Garden & Pets",Mahaware,3.7399999999999998,128,148.0,168.0,316.0
+"Kitchen, Garden & Pets",Srushti Gold,3.25,341,209.0,108.0,317.0
+"Kitchen, Garden & Pets",Pet Heal,4.0,18,86.5,231.0,317.5
+"Kitchen, Garden & Pets",C&S Electric,3.466666666666667,233,186.5,131.5,318.0
+"Kitchen, Garden & Pets",Cerbiatto,4.0,17,86.5,233.0,319.5
+"Kitchen, Garden & Pets",Catsan,4.0,15,86.5,234.0,320.5
+"Kitchen, Garden & Pets",Command,2.65,488,231.5,91.0,322.5
+"Kitchen, Garden & Pets",Nilkamal,4.0,11,86.5,236.0,322.5
+"Kitchen, Garden & Pets",Himalaya,4.0,8,86.5,237.0,323.5
+"Kitchen, Garden & Pets",Kr,3.5,182,177.0,148.0,325.0
+"Kitchen, Garden & Pets",Companion Pets,4.0,4,86.5,239.0,325.5
+"Kitchen, Garden & Pets",Classic Essentials,3.3166666666666664,258,201.0,125.0,326.0
+"Kitchen, Garden & Pets",Rasna,4.0,3,86.5,240.0,326.5
+"Kitchen, Garden & Pets",Cesar,3.525,166,174.0,155.0,329.0
+"Kitchen, Garden & Pets",Canine Creek,3.3333333333333335,208,198.5,137.5,336.0
+"Kitchen, Garden & Pets",Dogsee Chew,3.5,125,177.0,169.0,346.0
+"Kitchen, Garden & Pets",Crompton,2.4625,309,233.0,116.0,349.0
+"Kitchen, Garden & Pets",Greenchef,2.0,316,235.5,114.0,349.5
+"Kitchen, Garden & Pets",Ciplaplast,1.1333333333333333,305,238.0,117.0,355.0
+"Kitchen, Garden & Pets",Savera,2.9333333333333336,231,224.0,133.0,357.0
+"Kitchen, Garden & Pets",Tedemi,3.0,227,222.0,135.0,357.0
+"Kitchen, Garden & Pets",Suvidha,2.05,247,234.0,127.0,361.0
+"Kitchen, Garden & Pets",United,2.8249999999999997,222,226.0,136.0,362.0
+"Kitchen, Garden & Pets",Big Plastics,3.25,158,209.0,157.0,366.0
+"Kitchen, Garden & Pets",Sanjeev Kapoor,1.0,240,239.5,129.0,368.5
+"Kitchen, Garden & Pets",UCOOK,2.65,187,231.5,145.0,376.5
+"Kitchen, Garden & Pets",Triones,2.775,176,229.0,151.5,380.5
+"Kitchen, Garden & Pets",Steelo Sunpet,3.7,23,158.5,228.0,386.5
+"Kitchen, Garden & Pets",Stonesoup,3.0,122,222.0,170.5,392.5
+"Kitchen, Garden & Pets",HealthChoice,3.2,97,212.5,181.0,393.5
+"Kitchen, Garden & Pets",Cosmo,3.7,6,158.5,238.0,396.5
+"Kitchen, Garden & Pets",Prozo+,3.3,87,204.0,194.0,398.0
+"Kitchen, Garden & Pets",camry,3.5,27,177.0,226.5,403.5
+"Kitchen, Garden & Pets",Parka,3.3,64,204.0,205.0,409.0
+"Kitchen, Garden & Pets",Spartan,3.4,40,192.5,219.0,411.5
+"Kitchen, Garden & Pets",Gift Basket,1.0,109,239.5,175.0,414.5
+"Kitchen, Garden & Pets",Manya,3.1666666666666665,77,215.0,199.5,414.5
+"Kitchen, Garden & Pets",BVC,3.3,48,204.0,215.5,419.5
+"Kitchen, Garden & Pets",Ganesh,2.0,95,235.5,185.0,420.5
+"Kitchen, Garden & Pets",Kittos,3.3,43,204.0,217.0,421.0
+"Kitchen, Garden & Pets",Gupta Glass Ideas,2.8,79,228.0,198.0,426.0
+"Kitchen, Garden & Pets",Macclite,3.0,48,222.0,215.5,437.5
+"Kitchen, Garden & Pets",National Gardens,3.2,30,212.5,225.0,437.5
+"Kitchen, Garden & Pets",Urban Terra,3.25,18,209.0,231.0,440.0
+"Kitchen, Garden & Pets",JLT,1.4,34,237.0,222.5,459.5
+"Kitchen, Garden & Pets",Suryaflame,2.7,12,230.0,235.0,465.0
+Snacks & Branded Foods,Sangam Sweets,4.9375,851,9.0,48.0,57.0
+Snacks & Branded Foods,Fabelle,4.3950000000000005,1064,32.0,39.0,71.0
+Snacks & Branded Foods,Kelloggs,4.2439024390243905,2250,75.0,8.0,83.0
+Snacks & Branded Foods,Britannia,4.213793103448276,2864,82.0,3.0,85.0
+Snacks & Branded Foods,Sunfeast,4.21044776119403,3259,85.0,2.0,87.0
+Snacks & Branded Foods,Nestle ,4.30625,886,42.0,47.0,89.0
+Snacks & Branded Foods,Cadbury,4.274074074074075,1301,62.0,29.0,91.0
+Snacks & Branded Foods,LiL'Goodness,4.5,557,21.0,75.0,96.0
+Snacks & Branded Foods,Saffola,4.228571428571429,1397,77.0,23.0,100.0
+Snacks & Branded Foods,Dr. Oetker,4.212,1346,83.0,26.0,109.0
+Snacks & Branded Foods,Kissan,4.28,834,60.0,50.0,110.0
+Snacks & Branded Foods,ALPENLIEBE,4.308333333333334,575,41.0,73.0,114.0
+Snacks & Branded Foods,Bisk Farm,4.219047619047619,1096,80.0,35.0,115.0
+Snacks & Branded Foods,Bingo,4.222727272727273,1094,79.0,36.5,115.5
+Snacks & Branded Foods,Parle,4.190476190476191,2101,111.0,10.0,121.0
+Snacks & Branded Foods,Del Monte,4.24375,849,76.0,49.0,125.0
+Snacks & Branded Foods,MAGGI ,4.2,1284,96.5,30.0,126.5
+Snacks & Branded Foods,Weikfield,4.190909090909091,1558,110.0,17.0,127.0
+Snacks & Branded Foods,Fryums,4.383333333333334,445,33.0,95.0,128.0
+Snacks & Branded Foods,Knorr,4.21875,808,81.0,51.0,132.0
+Snacks & Branded Foods,HappyChef,4.178571428571429,1541,115.0,18.0,133.0
+Snacks & Branded Foods,Amul,4.161764705882353,1588,119.0,16.0,135.0
+Snacks & Branded Foods,Veeba,4.13,2522,131.5,6.0,137.5
+Snacks & Branded Foods,RiteBite Max Protein,4.129411764705882,2580,133.0,5.0,138.0
+Snacks & Branded Foods,Micks,4.9,308,10.5,132.0,142.5
+Snacks & Branded Foods,Haldirams ,4.113157894736841,2291,141.0,7.0,148.0
+Snacks & Branded Foods,Mother's Recipe,4.119354838709677,1778,138.0,11.0,149.0
+Snacks & Branded Foods,Unibic,4.174074074074074,1125,116.0,33.0,149.0
+Snacks & Branded Foods,Organic Nation,4.4714285714285715,320,24.0,127.0,151.0
+Snacks & Branded Foods,Chings,4.144444444444444,1380,127.5,24.0,151.5
+Snacks & Branded Foods,Gits,4.132142857142857,1404,130.0,22.0,152.0
+Snacks & Branded Foods,Hersheys ,4.192857142857143,758,109.0,54.0,163.0
+Snacks & Branded Foods,Center Fresh,4.328571428571428,311,40.0,131.0,171.0
+Snacks & Branded Foods,GoodDiet,4.1,1533,155.0,19.0,174.0
+Snacks & Branded Foods,ACT II,4.082926829268293,2153,170.0,9.0,179.0
+Snacks & Branded Foods,Priya,4.211111111111111,429,84.0,98.0,182.0
+Snacks & Branded Foods,McCain,4.083333333333333,1674,169.0,14.0,183.0
+Snacks & Branded Foods,Ching'S Secret,4.111111111111111,918,142.0,46.0,188.0
+Snacks & Branded Foods,Quaker,4.3999999999999995,210,31.0,158.0,189.0
+Snacks & Branded Foods,Too Yumm!,4.123529411764705,669,135.0,59.5,194.5
+Snacks & Branded Foods,MTR,4.017391304347826,3490,194.0,1.0,195.0
+Snacks & Branded Foods,Orbit,4.26,319,67.0,128.0,195.0
+Snacks & Branded Foods,Cadbury Dairy Milk,4.171428571428572,539,117.0,80.0,197.0
+Snacks & Branded Foods,Doritos,4.2875000000000005,265,59.0,138.0,197.0
+Snacks & Branded Foods,Wrigleys,4.5,169,21.0,177.0,198.0
+Snacks & Branded Foods,Bagrrys,4.065384615384615,1368,179.0,25.0,204.0
+Snacks & Branded Foods,Dukes,4.053333333333333,1330,183.0,27.0,210.0
+Snacks & Branded Foods,Azafran,4.35,170,35.0,176.0,211.0
+Snacks & Branded Foods,Mcvities,4.0608695652173905,1208,180.0,31.0,211.0
+Snacks & Branded Foods,Pringles,4.144444444444444,500,127.5,85.0,212.5
+Snacks & Branded Foods,Betty Crocker,4.225,278,78.0,135.0,213.0
+Snacks & Branded Foods,Mentos,4.266666666666667,231,64.5,149.0,213.5
+Snacks & Branded Foods,LuvIt,4.18,425,113.0,101.0,214.0
+Snacks & Branded Foods,Grand Sweets,4.333333333333333,165,38.0,180.0,218.0
+Snacks & Branded Foods,Jabsons,4.118181818181818,545,139.0,79.0,218.0
+Snacks & Branded Foods,Rusingo,4.1,621,155.0,63.0,218.0
+Snacks & Branded Foods,Pickwick ,4.25,232,71.0,148.0,219.0
+Snacks & Branded Foods,WhyFryy,4.3,189,50.5,169.0,219.5
+Snacks & Branded Foods,Dabur,4.076923076923077,799,173.0,52.0,225.0
+Snacks & Branded Foods,Sundrop,4.0928571428571425,724,167.0,58.0,225.0
+Snacks & Branded Foods,Happydent ,4.25,218,71.0,155.0,226.0
+Snacks & Branded Foods,A-1 Chips,4.055555555555555,921,181.5,45.0,226.5
+Snacks & Branded Foods,Doublemint,4.275,194,61.0,166.5,227.5
+Snacks & Branded Foods,Lotte,4.2,290,96.5,134.0,230.5
+Snacks & Branded Foods,ITC Master Chef,3.987878787878788,1632,218.0,15.0,233.0
+Snacks & Branded Foods,Ruchi,4.35,137,35.0,199.0,234.0
+Snacks & Branded Foods,Sowbhagya foods,4.3,159,50.5,183.5,234.0
+Snacks & Branded Foods,Ask Foods,4.055555555555555,780,181.5,53.0,234.5
+Snacks & Branded Foods,Azad ,4.55,118,17.5,217.5,235.0
+Snacks & Branded Foods,Brown & Polson,4.333333333333333,138,38.0,197.5,235.5
+Snacks & Branded Foods,Paper Boat,4.091666666666667,590,168.0,69.0,237.0
+Snacks & Branded Foods,True Elements,4.0095238095238095,1014,196.0,41.0,237.0
+Snacks & Branded Foods,Tasties,3.9372881355932203,2863,235.0,4.0,239.0
+Snacks & Branded Foods,Cadbury Temptations,4.3,149,50.5,190.0,240.5
+Snacks & Branded Foods,Fisherman's Friend,4.55,108,17.5,224.5,242.0
+Snacks & Branded Foods,Namhya,5.0,96,4.5,241.0,245.5
+Snacks & Branded Foods,Cadbury Dairy Milk Silk,4.266666666666667,162,64.5,182.0,246.5
+Snacks & Branded Foods,Nissin,4.13,362,131.5,117.0,248.5
+Snacks & Branded Foods,PRISTINE,4.116666666666666,394,140.0,109.0,249.0
+Snacks & Branded Foods,Bon Appetit,4.266666666666667,157,64.5,185.0,249.5
+Snacks & Branded Foods,Nectar Valley,4.25,166,71.0,179.0,250.0
+Snacks & Branded Foods,Phalada Pure & Sure,4.75,97,13.0,237.5,250.5
+Snacks & Branded Foods,Some More,4.7,97,14.0,237.5,251.5
+Snacks & Branded Foods,bb Royal,4.038461538461538,654,191.0,61.0,252.0
+Snacks & Branded Foods,Ruchi magic,4.18,252,113.0,140.0,253.0
+Snacks & Branded Foods,Vinanth,4.9,93,10.5,245.0,255.5
+Snacks & Branded Foods,Desi,4.119999999999999,344,137.0,121.0,258.0
+Snacks & Branded Foods,Kinder Joy,4.2,197,96.5,165.0,261.5
+Snacks & Branded Foods,Prasukh,4.1,397,155.0,107.0,262.0
+Snacks & Branded Foods,Top Ramen ,4.159999999999999,243,120.0,143.0,263.0
+Snacks & Branded Foods,Lays,4.1499999999999995,246,125.5,142.0,267.5
+Snacks & Branded Foods,Graminway,3.9136363636363636,1319,240.0,28.0,268.0
+Snacks & Branded Foods,Jiva Ayurveda,5.0,81,4.5,264.5,269.0
+Snacks & Branded Foods,Keya,3.933333333333333,1128,237.0,32.0,269.0
+Snacks & Branded Foods,SDA PAPPADS,3.953333333333333,923,227.0,44.0,271.0
+Snacks & Branded Foods,Choc Coin,4.5,90,21.0,250.5,271.5
+Snacks & Branded Foods,Ritebite,5.0,79,4.5,269.0,273.5
+Snacks & Branded Foods,Lal,4.5,89,21.0,253.0,274.0
+Snacks & Branded Foods,Sanjay ,3.858064516129032,1702,261.0,13.0,274.0
+Snacks & Branded Foods,Wai Wai,4.077777777777778,424,172.0,102.0,274.0
+Snacks & Branded Foods,Fit & Flex,4.066666666666666,442,177.5,97.0,274.5
+Snacks & Branded Foods,Cadbury Bournville,4.266666666666667,124,64.5,211.0,275.5
+Snacks & Branded Foods,Kurkure,4.18,198,113.0,163.5,276.5
+Snacks & Branded Foods,DIVING DUCK,5.0,76,4.5,272.5,277.0
+Snacks & Branded Foods,Kopiko,4.4,90,27.5,250.5,278.0
+Snacks & Branded Foods,Blue Bird,4.14,229,129.0,150.0,279.0
+Snacks & Branded Foods,Oreo,4.25,126,71.0,209.0,280.0
+Snacks & Branded Foods,The Spice Club,4.3,98,50.5,235.0,285.5
+Snacks & Branded Foods,Nissin Food,4.2,147,96.5,191.0,287.5
+Snacks & Branded Foods,Soulfull,3.96,620,225.0,64.0,289.0
+Snacks & Branded Foods,Parle Platina,4.6,74,15.5,275.0,290.5
+Snacks & Branded Foods,Bon & Bread,4.3,96,50.5,241.0,291.5
+Snacks & Branded Foods,Mr. Makhana,4.15,185,122.5,171.0,293.5
+Snacks & Branded Foods,Garden,4.0,462,206.5,92.0,298.5
+Snacks & Branded Foods,Goldrops,4.3,92,50.5,248.0,298.5
+Snacks & Branded Foods,Alpino,3.8833333333333337,944,256.0,43.0,299.0
+Snacks & Branded Foods,Choki Choki,4.4,76,27.5,272.5,300.0
+Snacks & Branded Foods,Fruit-Tella ,4.25,106,71.0,229.0,300.0
+Snacks & Branded Foods,Kitchens Of India,3.8470588235294123,1094,264.0,36.5,300.5
+Snacks & Branded Foods,Bournvita,4.25,104,71.0,231.5,302.5
+Snacks & Branded Foods,Milkybar,4.25,104,71.0,231.5,302.5
+Snacks & Branded Foods,Happy Jars,4.014285714285714,395,195.0,108.0,303.0
+Snacks & Branded Foods,Sugar free,4.08,300,171.0,133.0,304.0
+Snacks & Branded Foods,Bechef,3.9875,494,219.0,86.5,305.5
+Snacks & Branded Foods,Crax,3.988888888888889,492,217.0,88.5,305.5
+Snacks & Branded Foods,Switz,4.125,184,134.0,172.0,306.0
+Snacks & Branded Foods,ENE,5.0,47,4.5,302.0,306.5
+Snacks & Branded Foods,Yummiez,3.6666666666666665,1714,296.0,12.0,308.0
+Snacks & Branded Foods,Cheetos,4.4,66,27.5,282.0,309.5
+Snacks & Branded Foods,Cremica,4.2,122,96.5,213.0,309.5
+Snacks & Branded Foods,Sanketi Adukale,3.8875,754,255.0,55.0,310.0
+Snacks & Branded Foods,Unroll,4.166666666666667,146,118.0,192.0,310.0
+Snacks & Branded Foods,Meatzza,4.3,83,50.5,260.5,311.0
+Snacks & Branded Foods,ChefBoss,4.071428571428571,277,176.0,136.0,312.0
+Snacks & Branded Foods,Bliss Tree,3.9181818181818184,564,239.0,74.0,313.0
+Snacks & Branded Foods,Cadbury Oreo,4.199999999999999,130,108.0,205.5,313.5
+Snacks & Branded Foods,24 Mantra,4.333333333333333,73,38.0,276.0,314.0
+Snacks & Branded Foods,Health Sutra,4.35,71,35.0,279.0,314.0
+Snacks & Branded Foods,Naagin ,5.0,38,4.5,310.0,314.5
+Snacks & Branded Foods,FarmVeda,3.9,604,248.5,66.5,315.0
+Snacks & Branded Foods,Double Horse,3.9249999999999994,548,238.0,78.0,316.0
+Snacks & Branded Foods,Delight Foods,3.78,1079,278.5,38.0,316.5
+Snacks & Branded Foods,Bambino,3.97,450,223.0,94.0,317.0
+Snacks & Branded Foods,Timios,3.7571428571428576,1111,283.0,34.0,317.0
+Snacks & Branded Foods,Orion,4.2,117,96.5,221.0,317.5
+Snacks & Branded Foods,Befikar,3.8636363636363638,669,260.0,59.5,319.5
+Snacks & Branded Foods,Cadbury Gems,4.2,108,96.5,224.5,321.0
+Snacks & Branded Foods,SACHAMOTI,4.6,41,15.5,305.5,321.0
+Snacks & Branded Foods,All That Dips,4.5,46,21.0,303.5,324.5
+Snacks & Branded Foods,Bhuira,5.0,34,4.5,320.0,324.5
+Snacks & Branded Foods,Asal,3.9428571428571426,444,234.0,96.0,330.0
+Snacks & Branded Foods,Nestle NesPlus,4.15,127,122.5,208.0,330.5
+Snacks & Branded Foods,999,4.05,238,187.0,144.0,331.0
+Snacks & Branded Foods,SDA CANDYS,3.822222222222222,618,266.0,65.0,331.0
+Snacks & Branded Foods,Eagle,4.0,329,206.5,125.0,331.5
+Snacks & Branded Foods,Dezire,3.983333333333333,377,220.5,112.0,332.5
+Snacks & Branded Foods,Iyers ,3.9045454545454548,476,243.0,90.5,333.5
+Snacks & Branded Foods,BA KABRA,5.0,26,4.5,330.0,334.5
+Snacks & Branded Foods,Atish ,3.6705882352941175,1016,295.0,40.0,335.0
+Snacks & Branded Foods,Safal,3.8899999999999997,532,254.0,81.0,335.0
+Snacks & Branded Foods,NUTRIWISH,3.473076923076923,1515,317.0,20.0,337.0
+Snacks & Branded Foods,Peppy,4.1499999999999995,119,125.5,214.5,340.0
+Snacks & Branded Foods,Viola,3.9625,370,224.0,116.0,340.0
+Snacks & Branded Foods,Polo,4.2,93,96.5,245.0,341.5
+Snacks & Branded Foods,Aashirvaad,4.075,191,174.0,168.0,342.0
+Snacks & Branded Foods,IndiSecrets,4.1,150,155.0,189.0,344.0
+Snacks & Branded Foods,Aaha Oho,3.3857142857142857,1432,324.0,21.0,345.0
+Snacks & Branded Foods,Bikaji,4.0,264,206.5,139.0,345.5
+Snacks & Branded Foods,Nilons,3.875,492,257.0,88.5,345.5
+Snacks & Branded Foods,Townbus,3.9499999999999997,374,233.0,114.0,347.0
+Snacks & Branded Foods,Ice Breakers,4.8,18,12.0,335.5,347.5
+Snacks & Branded Foods,Iyengars Traditional,4.1,143,155.0,193.0,348.0
+Snacks & Branded Foods,Heinz,4.4,31,27.5,323.0,350.5
+Snacks & Branded Foods,Sln  ,3.772727272727273,587,281.0,70.0,351.0
+Snacks & Branded Foods,Open Secret,3.775,582,280.0,72.0,352.0
+Snacks & Branded Foods,Crispees,4.2,85,96.5,256.0,352.5
+Snacks & Branded Foods,Future Organics,3.9,413,248.5,104.0,352.5
+Snacks & Branded Foods,Kwality,3.95,335,230.0,123.0,353.0
+Snacks & Branded Foods,Saravanas,3.9111111111111114,381,242.0,111.0,353.0
+Snacks & Branded Foods,Organic Tattva,3.811111111111111,494,267.0,86.5,353.5
+Snacks & Branded Foods,Eco Valley ,4.3,46,50.5,303.5,354.0
+Snacks & Branded Foods,sumeru,3.6153846153846154,749,298.0,56.0,354.0
+Snacks & Branded Foods,PIPO,3.8,527,272.5,82.0,354.5
+Snacks & Branded Foods,Slurrp Farm,4.033333333333333,200,192.5,162.0,354.5
+Snacks & Branded Foods,Daadis ,3.707692307692308,604,289.0,66.5,355.5
+Snacks & Branded Foods,Cadbury Fuse,4.3,41,50.5,305.5,356.0
+Snacks & Branded Foods,Morton,3.9555555555555557,315,226.0,130.0,356.0
+Snacks & Branded Foods,Sunfeast YiPPee!,4.1,135,155.0,201.0,356.0
+Snacks & Branded Foods,Chocoliebe,4.2,83,96.5,260.5,357.0
+Snacks & Branded Foods,Nutralite,4.05,188,187.0,170.0,357.0
+Snacks & Branded Foods,Piknik,4.3,40,50.5,307.5,358.0
+Snacks & Branded Foods,Zandu,4.05,177,187.0,173.0,360.0
+Snacks & Branded Foods,Amul Happy Treats,3.607142857142857,632,299.0,62.0,361.0
+Snacks & Branded Foods,Fazlani Foods,3.4166666666666665,956,319.0,42.0,361.0
+Snacks & Branded Foods,Hamdard,4.2,81,96.5,264.5,361.0
+Snacks & Branded Foods,MTR FOODS,4.2,81,96.5,264.5,361.0
+Snacks & Branded Foods,iD Fresho,3.9125,356,241.0,120.0,361.0
+Snacks & Branded Foods,Nirapara,3.72,551,287.0,76.0,363.0
+Snacks & Branded Foods,Pillsbury,4.12,107,136.0,227.0,363.0
+Snacks & Branded Foods,Nestle Koko Krunch,4.1000000000000005,117,143.0,221.0,364.0
+Snacks & Branded Foods,Mothers Recipe,3.983333333333333,236,220.5,145.0,365.5
+Snacks & Branded Foods,Patanjali,4.0,206,206.5,159.0,365.5
+Snacks & Branded Foods,Republic of Chicken,4.4,13,27.5,340.0,367.5
+Snacks & Branded Foods,Ela,3.506666666666667,733,313.0,57.0,370.0
+Snacks & Branded Foods,Senor Pepito,4.3,34,50.5,320.0,370.5
+Snacks & Branded Foods,Kohinoor,3.9749999999999996,227,222.0,152.5,374.5
+Snacks & Branded Foods,Tata Sampann,4.074999999999999,134,175.0,202.5,377.5
+Snacks & Branded Foods,BGR,4.1,113,155.0,223.0,378.0
+Snacks & Branded Foods,Buffet ,3.8,398,272.5,105.5,378.0
+Snacks & Branded Foods,Lijjat,4.15,85,122.5,256.0,378.5
+Snacks & Branded Foods,Anil,4.033333333333333,152,192.5,188.0,380.5
+Snacks & Branded Foods,Grb,4.0,175,206.5,174.0,380.5
+Snacks & Branded Foods,Smith & Jones,4.4,0,27.5,353.5,381.0
+Snacks & Branded Foods,Annapoorna,4.1,107,155.0,227.0,382.0
+Snacks & Branded Foods,Marudhar,4.2,65,96.5,285.5,382.0
+Snacks & Branded Foods,Jabson,4.05,139,187.0,195.5,382.5
+Snacks & Branded Foods,Balaji foods,3.552941176470588,549,306.0,77.0,383.0
+Snacks & Branded Foods,Urban Platter,4.3,19,50.5,333.5,384.0
+Snacks & Branded Foods,Habanero,4.2,64,96.5,288.0,384.5
+Snacks & Branded Foods,Time Pass,4.1,105,155.0,230.0,385.0
+Snacks & Branded Foods,Horlicks,4.2,62,96.5,290.5,387.0
+Snacks & Branded Foods,Candyman,3.8333333333333335,333,265.0,124.0,389.0
+Snacks & Branded Foods,Manna ,3.7375,420,286.0,103.0,389.0
+Snacks & Branded Foods,Navya Food Art,4.0,159,206.5,183.5,390.0
+Snacks & Branded Foods,Avean,3.85,317,262.5,129.0,391.5
+Snacks & Branded Foods,A&M,4.3,11,50.5,341.5,392.0
+Snacks & Branded Foods,Max Health ,4.066666666666666,119,177.5,214.5,392.0
+Snacks & Branded Foods,Nature's First,4.1,97,155.0,237.5,392.5
+Snacks & Branded Foods,Bush,4.0,153,206.5,187.0,393.5
+Snacks & Branded Foods,Abbies,4.05,129,187.0,207.0,394.0
+Snacks & Branded Foods,Kiara Foods,3.3363636363636364,601,327.0,68.0,395.0
+Snacks & Branded Foods,Cadbury Silk,4.3,6,50.5,345.0,395.5
+Snacks & Branded Foods,FRISTTEE,4.2,48,96.5,300.0,396.5
+Snacks & Branded Foods,AMAJAIN,3.9333333333333336,201,236.0,161.0,397.0
+Snacks & Branded Foods,Nutty Yogi,3.557142857142857,455,305.0,93.0,398.0
+Snacks & Branded Foods,Freshious,4.3,4,50.5,348.0,398.5
+Snacks & Branded Foods,FruitTreat,3.5,510,315.0,84.0,399.0
+Snacks & Branded Foods,Licious,3.9,228,248.5,151.0,399.5
+Snacks & Branded Foods,FabBox,3.766666666666667,361,282.0,118.0,400.0
+Snacks & Branded Foods,Good Vibes,4.1,93,155.0,245.0,400.0
+Snacks & Branded Foods,Mix Box,4.1,93,155.0,245.0,400.0
+Snacks & Branded Foods,Mambalam Iyers,3.716666666666667,375,288.0,113.0,401.0
+Snacks & Branded Foods,Aachi,4.3,1,50.5,351.5,402.0
+Snacks & Branded Foods,MOM,3.5200000000000005,476,312.0,90.5,402.5
+Snacks & Branded Foods,TATA Q,3.0727272727272723,584,332.0,71.0,403.0
+Snacks & Branded Foods,Cadbury BournVita,4.2,37,96.5,311.0,407.5
+Snacks & Branded Foods,Savorit,4.2,36,96.5,312.0,408.5
+Snacks & Branded Foods,PRAVIN MIXBOX,4.0,134,206.5,202.5,409.0
+Snacks & Branded Foods,Tasty Nibbles,3.5375,426,310.0,100.0,410.0
+Snacks & Branded Foods,FabBox.in,4.0,132,206.5,204.0,410.5
+Snacks & Branded Foods,Farmland,3.75,321,284.5,126.0,410.5
+Snacks & Branded Foods,Jolly Rancher,4.1,85,155.0,256.0,411.0
+Snacks & Branded Foods,Fazlani,4.2,35,96.5,315.5,412.0
+Snacks & Branded Foods,Pro Nature,4.1,84,155.0,258.5,413.5
+Snacks & Branded Foods,bb Combo,4.05,107,187.0,227.0,414.0
+Snacks & Branded Foods,Fresho,4.0,125,206.5,210.0,416.5
+Snacks & Branded Foods,Kapiva Ayurveda,4.1,82,155.0,262.0,417.0
+Snacks & Branded Foods,GOELD,2.9916666666666667,519,337.0,83.0,420.0
+Snacks & Branded Foods,FOUROCLOK,4.1,79,155.0,269.0,424.0
+Snacks & Branded Foods,Wingreens Farms,3.95,141,230.0,194.0,424.0
+Snacks & Branded Foods,PostCard,3.78,233,278.5,147.0,425.5
+Snacks & Branded Foods,Tasty Fresh,3.5666666666666664,341,303.5,122.0,425.5
+Snacks & Branded Foods,Bakers,3.9,167,248.5,178.0,426.5
+Snacks & Branded Foods,Bolst's,4.0,117,206.5,221.0,427.5
+Snacks & Branded Foods,Spice Story,3.54,358,309.0,119.0,428.0
+Snacks & Branded Foods,D-Alive,3.2142857142857144,427,330.0,99.0,429.0
+Snacks & Branded Foods,Laxminarayan,4.2,18,96.5,335.5,432.0
+Snacks & Branded Foods,Instafeast,3.4444444444444446,373,318.0,115.0,433.0
+Snacks & Branded Foods,Grabenord,3.292857142857143,398,329.0,105.5,434.5
+Snacks & Branded Foods,Bikalananda Kars,4.1,66,155.0,282.0,437.0
+Snacks & Branded Foods,Wow Chocolina,4.1,66,155.0,282.0,437.0
+Snacks & Branded Foods,Dip,3.6333333333333333,249,297.0,141.0,438.0
+Snacks & Branded Foods,Coco mama,4.2,10,96.5,343.0,439.5
+Snacks & Branded Foods,Chupa Chups,4.2,8,96.5,344.0,440.5
+Snacks & Branded Foods,Rasna,3.95,123,230.0,212.0,442.0
+Snacks & Branded Foods,Brookside,4.15,31,122.5,323.0,445.5
+Snacks & Branded Foods,Zerobeli,3.675,216,293.5,156.0,449.5
+Snacks & Branded Foods,Lawrence Mills,4.1,52,155.0,296.5,451.5
+Snacks & Branded Foods,Red indian,4.1,50,155.0,298.0,453.0
+Snacks & Branded Foods,Ambika,3.8,164,272.5,181.0,453.5
+Snacks & Branded Foods,Organica,3.675,203,293.5,160.0,453.5
+Snacks & Branded Foods,The Betel Leaf Co,4.1,48,155.0,300.0,455.0
+Snacks & Branded Foods,Iceland,3.6833333333333336,198,292.0,163.5,455.5
+Snacks & Branded Foods,Nutriorg,4.05,79,187.0,269.0,456.0
+Snacks & Branded Foods,Murginns,3.55,227,307.5,152.5,460.0
+Snacks & Branded Foods,Uns,1.25,388,352.0,110.0,462.0
+Snacks & Branded Foods,Munchilicious Granola ,3.8666666666666667,130,258.5,205.5,464.0
+Snacks & Branded Foods,Nastawala,3.9,118,248.5,217.5,466.0
+Snacks & Branded Foods,On The Run,2.85,272,338.0,137.0,475.0
+Snacks & Branded Foods,Smint,3.95,84,230.0,258.5,488.5
+Snacks & Branded Foods,Mapro,4.0,65,206.5,285.5,492.0
+Snacks & Branded Foods,Shareat,3.35,194,326.0,166.5,492.5
+Snacks & Branded Foods,Center Fruit,4.1,11,155.0,341.5,496.5
+Snacks & Branded Foods,Kari Kari,2.625,212,340.0,157.0,497.0
+Snacks & Branded Foods,Madhur,3.533333333333333,156,311.0,186.0,497.0
+Snacks & Branded Foods,Snacky,1.8833333333333335,234,351.0,146.0,497.0
+Snacks & Branded Foods,Batter Box,3.9,90,248.5,250.5,499.0
+Snacks & Branded Foods,Fit  ,2.06,225,345.0,154.0,499.0
+Snacks & Branded Foods,Grami Superfoods,3.375,174,325.0,175.0,500.0
+Snacks & Branded Foods,Conscious Food,4.0,52,206.5,296.5,503.0
+Snacks & Branded Foods,Krinkle,4.1,0,155.0,353.5,508.5
+Snacks & Branded Foods,Atish Papad ,3.95,66,230.0,282.0,512.0
+Snacks & Branded Foods,Rishta,4.0,40,206.5,307.5,514.0
+Snacks & Branded Foods,Yoga bar,4.0,39,206.5,309.0,515.5
+Snacks & Branded Foods,Wild Ideas,3.6,118,301.0,217.5,518.5
+Snacks & Branded Foods,Jus Amazin,3.5666666666666664,118,303.5,217.5,521.0
+Snacks & Branded Foods,Kinder,3.9,76,248.5,272.5,521.0
+Snacks & Branded Foods,Blue Dragon,4.0,35,206.5,315.5,522.0
+Snacks & Branded Foods,Sukrit,3.8,90,272.5,250.5,523.0
+Snacks & Branded Foods,Vaada,3.2,136,331.0,200.0,531.0
+Snacks & Branded Foods,Nourish Organics,4.0,29,206.5,325.5,532.0
+Snacks & Branded Foods,Cocon,4.0,24,206.5,332.0,538.5
+Snacks & Branded Foods,MISHT,2.6,138,341.0,197.5,538.5
+Snacks & Branded Foods,iD,3.9,57,248.5,293.0,541.5
+Snacks & Branded Foods,Mom's InstaCook,2.0,139,348.0,195.5,543.5
+Snacks & Branded Foods,Fortune ,3.8666666666666667,62,258.5,290.5,549.0
+Snacks & Branded Foods,Toonpops,3.8,72,272.5,277.5,550.0
+Snacks & Branded Foods,Prasuma,4.0,4,206.5,348.0,554.5
+Snacks & Branded Foods,bb Popular,4.0,4,206.5,348.0,554.5
+Snacks & Branded Foods,OGMO,3.4,102,321.5,234.0,555.5
+Snacks & Branded Foods,To Be Honest,3.2999999999999994,103,328.0,233.0,561.0
+Snacks & Branded Foods,Fakira,3.9,35,248.5,315.5,564.0
+Snacks & Branded Foods,Swaad,3.8,58,272.5,292.0,564.5
+Snacks & Branded Foods,Jain Farm Fresh,3.8,56,272.5,294.0,566.5
+Snacks & Branded Foods,DevBhumi,3.8,53,272.5,295.0,567.5
+Snacks & Branded Foods,Diabetics Dezire,3.0,97,334.5,237.5,572.0
+Snacks & Branded Foods,Nourish You,3.75,64,284.5,288.0,572.5
+Snacks & Branded Foods,Paaka,3.9,29,248.5,325.5,574.0
+Snacks & Branded Foods,Snakart,3.0,93,334.5,245.0,579.5
+Snacks & Branded Foods,Elicious ,2.45,96,343.0,241.0,584.0
+Snacks & Branded Foods,Aura,3.55,72,307.5,277.5,585.0
+Snacks & Branded Foods,Dhatu Organics & Naturals,3.4,80,321.5,267.0,588.5
+Snacks & Branded Foods,Soklet,3.0,87,334.5,254.0,588.5
+Snacks & Branded Foods,The Healthy Cravings Co.,3.7,48,290.0,300.0,590.0
+Snacks & Branded Foods,Shankar Namkeen,3.4,76,321.5,272.5,594.0
+Snacks & Branded Foods,Tagz,3.85,15,262.5,338.5,601.0
+Snacks & Branded Foods,Turn Organic ,3.8,15,272.5,338.5,611.0
+Snacks & Branded Foods,Shree Mahalakshmi ,3.6,35,301.0,315.5,616.5
+Snacks & Branded Foods,Sakura,1.0,81,353.5,264.5,618.0
+Snacks & Branded Foods,Frozen Star,3.8,4,272.5,348.0,620.5
+Snacks & Branded Foods,Pushpanjali ,3.6999999999999997,26,291.0,330.0,621.0
+Snacks & Branded Foods,PureFoods,2.716666666666667,64,339.0,288.0,627.0
+Snacks & Branded Foods,Woh Hup,2.0,66,348.0,282.0,630.0
+Snacks & Branded Foods,Delishh,3.5,31,315.0,323.0,638.0
+Snacks & Branded Foods,Schar,3.5,28,315.0,327.0,642.0
+Snacks & Branded Foods,IGLOO,3.6,1,301.0,351.5,652.5
+Snacks & Branded Foods,Quickee'S,2.3,35,344.0,315.5,659.5
+Snacks & Branded Foods,LISO,2.0,35,348.0,315.5,663.5
+Snacks & Branded Foods,MOM Meal of the Moment,3.4,4,321.5,348.0,669.5
+Snacks & Branded Foods,Bhikhaaram Chandmal,2.5,27,342.0,328.0,670.0
+Snacks & Branded Foods,Bhikharam chandmal,3.0,16,334.5,337.0,671.5
+Snacks & Branded Foods,Healthy Gut,1.0,34,353.5,320.0,673.5
+Snacks & Branded Foods,Blv Fine Blend,2.0,26,348.0,330.0,678.0
+Snacks & Branded Foods,Bon curry ,2.0,19,348.0,333.5,681.5

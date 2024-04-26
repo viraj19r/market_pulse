@@ -1,8 +1,16 @@
 # Project Documentation
 This project contains several Jupyter notebooks, CSV files, and a Power BI dashboard that are used for data analysis and visualization.
 
+## CSV Files
+
+[Processed Dataa](data.csv): Processed Data
+
+[Power Bi Data](data_powerbi.csv): This CSV file is used as input for the Power BI dashboard.
+
+[Ranked Brands Data](ranked_brands.csv): This CSV file contains information about the ranked brands.
+
 ## Jupyter Notebooks
-[preprocessing](preprocessing.ipynb): This notebook is used for preprocessing the raw data. It includes cleaning, formatting, and transforming data for analysis.
+[Preprocessing](preprocessing.ipynb): This notebook is used for preprocessing the raw data. It includes cleaning, formatting, and transforming data for analysis.
 
 [Product Description](product_description.ipynb): This notebook analyzes the product descriptions in the dataset. It uses techniques like tokenization and vectorization.
 
@@ -14,14 +22,6 @@ This project contains several Jupyter notebooks, CSV files, and a Power BI dashb
 
 [Top Brand Analysis](top_brand_analysis.ipynb): This notebook is used for analyzing the top brands in the dataset.
 
-## CSV Files
-
-[Processed Dataa](data.csv): Processed Data
-
-[Power Bi Data](data_powerbi.csv): This CSV file is used as input for the Power BI dashboard.
-
-
-[Ranked Brands Data](ranked_brands.csv): This CSV file contains information about the ranked brands.
 
 ## Power BI Dashboard
 [Power Bi file](market_pulse.pbix): This is a Power BI dashboard file used for visualizing the data and insights.

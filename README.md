@@ -14,7 +14,7 @@ This project contains several Jupyter notebooks, CSV files, and a Power BI dashb
 
 [Product Description](product_description.ipynb): This notebook analyzes the product descriptions in the dataset. It uses techniques like tokenization and vectorization.
 
-[Seasonal Trend](trend_analysis.ipynb): This notebook is used to analyze seasonal trends in the data.
+[Trend Analysis](trend_analysis.ipynb): This notebook is used to analyze seasonal trends in the data.
 
 [Segmentation Analsyis](segmentation_analysis.ipynb): This notebook is used for customer segmentation analysis.
 
